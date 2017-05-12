@@ -90,11 +90,11 @@ Gender: Male
 
 Class: Trainee Knight
 
-Strength: 11 (1 life, 0.5 attack power, influences your strength)
+Strength: 11 (1 health, 0.5 attack power, influences your strength)
 
 Dexterity: 8+1 (0.25 attack power, influences your ability to dodge and your reflex)
 
-Constitution: 5 (3 life, influences your stamina and ability to resist attacks)
+Constitution: 5 (3 health, influences your stamina and ability to resist attacks)
 
 Intelligence: 10+1 (2 mana, influences the power and accuracy of your spells, your ability to read)
 
@@ -102,7 +102,7 @@ Wisdom: 7 (1 mana, influences the chance of being interrupted while casting and 
 
 Attack: 2 - 5
 
-Life: 26 / 26
+Health: 26 / 26
 
 Mana: 27 / 27
 
