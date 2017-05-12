@@ -1,0 +1,19 @@
+# Site Settings
+title: SYZC's Translation
+email: syc0308tw@gmail.com
+description: >
+  A website for hosting translations of chinese webnovels.
+baseurl: ""
+url: "http://localhost:4000"
+permalink: none
+paginate: 10
+
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+collections: 
+  translations:
+    output: true
+kramdown:
+  input: GFM

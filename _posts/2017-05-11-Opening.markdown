@@ -1,0 +1,22 @@
+---
+layout: chapter
+title:  "Virtual World: Peerless White Emperor Chapter 1 - 4"
+date:   2017-05-11 20:15:00
+---
+
+Hey everyone.
+
+大家好。
+
+Welcome to the opening of my temporary site! For a many many years now, I've been reading fan-translated novels starting from japanese and now onto chinese and korean. Now I'd like share my own translations of some novels I enjoy. So here it is!
+
+I've translated chapters 1 - 4 of a novel called [Virtual World: Peerless White Emperor][vwpweTOC] [(Raws)][raw]. I havn't read ahead so I don't know what to expect but so far I like that the main character isn't a loner. So far he's always with his two good friends. I believe this novel has not been translated yet. Please correct me if I'm wrong. 
+
+I'll be honest, my chinese isn't very good. To translate this novel, I rely heavily on online dictionaries and will probably miss some things. Anyone who wishes to take over, or for any legal issues, please feel free to [contact me][contact].
+
+Here's a link to [chapter 1][vwpwe0001]!
+
+[raw]: http://book.qidian.com/info/3332175
+[contact]: {{site.url}}/contact/
+[vwpweTOC]: {{site.url}}/translations/vwpwe/index.html
+[vwpwe0001]: {{site.url}}/translations/vwpwe/0001.html

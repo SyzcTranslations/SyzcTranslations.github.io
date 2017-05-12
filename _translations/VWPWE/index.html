@@ -1,0 +1,39 @@
+---
+layout: page
+title:  "Virtual World: Peerless White Emperor"
+category: "TOC"
+---
+
+<h1> Virtual World: Peerless White Emperor </h1>
+<h3> Author: Would It Be Possible To Stay (ShiFou KeYi LiuXia) </h3>
+
+<img src="{{site.url}}/assets/vwpwe.jpg" />
+
+<p>
+Year 24XX. With several hundred years of improvements, virtual reality has become more mature. It had gradually become humanity’s second world. Socializing, working, studying and other everyday things could all be done while sleeping.
+</p>
+
+<p>
+Along with the rise in virtual reality systems, virtual games also developed successfully. Additionally, with the vigorous support of the government; every season, games continued to be born, be change, competed with each other, and be reborn. 
+</p>
+
+<p>
+Ye Cang is a black bellied, underachieving, 2nd year student at a city college. He appears to have been cured of his albinism yet his story is still full of mystery. In the game ‘New Age - Conviction’, he began walking the path of a professional gamer. An all-rounder knight, dark cooking, with a nasty disposition, willing to do anything. He’s slowly creating his own legend.
+</p>
+
+<p>
+“Actually… instead of games, I prefer cooking and dramas” -The White Emperor
+</p>
+
+<h3> Table of Contents</h3>
+
+<ul>
+{% for chapter in site.translations %}
+	{% if chapter.category contains 'VWPWE' %}
+		{% if chapter.url contains 'index' %}
+		{% else %}
+			<li><a href="{{ chapter.url | prepend: site.baseurl }}">{{ chapter.title }}</a></li>
+		{% endif %}
+	{% endif %}
+{% endfor %}
+</ul>

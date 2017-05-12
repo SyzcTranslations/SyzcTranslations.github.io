@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<h2>{{ page.title }}</h2>
+
+<!-- Next and previos chapter link -->
+<div class="pagination">
+  {% if page.url contains "0001" %}
+    <span class="previous">Previous</span>
+  {% else %}
+    <a href="{{page.previous.url}}" class="previous">Previous</a>  
+  {% endif %}
+
+  {% if page.next.url contains "index" %}
+    <span class="next">Next</span>
+  {% else %}
+    <a href="{{page.next.url}}" class="next">Next</a>  
+  {% endif %}
+</div>
+
+{{ content }}
+
+<!-- Next and previos chapter link -->
+<div class="pagination">
+  {% if page.url contains "0001" %}
+  	<span class="previous">Previous</span>
+  {% else %}
+    <a href="{{page.previous.url}}" class="previous">Previous</a>  
+  {% endif %}
+
+  {% if page.next.url contains "index" %}
+  	<span class="next">Next</span>
+  {% else %}
+    <a href="{{page.next.url}}" class="next">Next</a>  
+  {% endif %}
+</div>

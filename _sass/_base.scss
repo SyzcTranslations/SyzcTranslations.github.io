@@ -1,0 +1,24 @@
+$content-width: 1000px;
+$main: #8e5652;
+$font-style: 'Open Sans', sans-serif;
+$font-color: #262626;
+$link-color: #425469;
+$link-hover-color: $main;
+$heading-font: 'Muli', sans-serif;
+$heading-font-color: #8e5652;
+$light: #E7EDF4;
+
+// Navigation Variables
+$breakpoint: 800px;
+$nav-height: 50px;
+$nav-background: #262626;
+$nav-font-color: #ffffff;
+$link-hover-color: #2581DC;
+
+*,
+*::before,
+*::after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+} 
