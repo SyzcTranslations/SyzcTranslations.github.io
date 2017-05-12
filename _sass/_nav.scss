@@ -106,9 +106,6 @@ nav {
   header {
     display: none;
   }
-  main {
-    margin-top: $nav-height;
-  }
 }
 @media screen and (min-width: $breakpoint + 1) {
   .nav-list {
