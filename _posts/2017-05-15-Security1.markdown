@@ -1,0 +1,22 @@
+---
+layout: posts
+title:  "Virtual World: Peerless White Emperor Chapter 8"
+date:   2017-05-15 00:00:00
+---
+
+Yo!
+
+Recently I found that my translations have been copied and hosted on some aggregator sites without any mention of my site or alias. Heck, it's only been a few days since I started and it's already happening...
+
+So I rushed to release this chapter because I wanted to test some things. Hopefully something I do will help.
+
+Anyone have any advice for dealing with this sorta thing?
+
+Also, a poll:
+<iframe src="http://www.strawpoll.me/embed_1/12968149" style="width:680px;height:384px;border:0;">Loading poll...</iframe>
+
+[Chapter 8][vwpwe0008]
+
+Enjoy!
+
+[vwpwe0008]: {{site.url}}/translations/VWPWE/0008.html
