@@ -5,7 +5,7 @@ category: "VWPWE"
 ---
 
 Take a second to answer this poll!
-<iframe src="http://www.strawpoll.me/embed_1/12968149" style="width:680px;height:384px;border:0;">Loading poll...</iframe>
+<iframe src="https://www.strawpoll.me/embed_1/12968149" style="width:680px;height:384px;border:0;">Loading poll...</iframe>
 Also any other improvements I could make to this site are welcome. Feel free to email them to me.
 
 ---

@@ -13,7 +13,7 @@ So I rushed to release this chapter because I wanted to test some things. Hopefu
 Anyone have any advice for dealing with this sorta thing?
 
 Also, a poll:
-<iframe src="http://www.strawpoll.me/embed_1/12968149" style="width:680px;height:384px;border:0;">Loading poll...</iframe>
+<iframe src="https://www.strawpoll.me/embed_1/12968149" style="width:680px;height:384px;border:0;">Loading poll...</iframe>
 
 [Chapter 8][vwpwe0008]
 
