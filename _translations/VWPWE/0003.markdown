@@ -2,6 +2,7 @@
 layout: chapter
 title:  "Chapter 3"
 category: "VWPWE"
+comments: true
 ---
 
 **Chapter 3: Green Slimes**

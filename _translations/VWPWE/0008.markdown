@@ -2,6 +2,7 @@
 layout: chapter
 title:  "Chapter 8"
 category: "VWPWE"
+comments: true
 ---
 
 Take a second to answer this poll!

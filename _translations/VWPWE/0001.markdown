@@ -2,6 +2,7 @@
 layout: chapter
 title:  "Chapter 1"
 category: "VWPWE"
+comments: true
 ---
 
 Note: For those unfamiliar with chinese, there are some common nicknames that will be used in this story. For example Zhang ZhengXiong will often be called Little Xiong or Lil'Xiong or A'Xiong by his friends.

@@ -1,0 +1,16 @@
+---
+layout: posts
+title:  "Virtual World: Peerless White Emperor Chapter 9-12"
+date:   2017-05-20 17:00:00
+comments: true
+---
+
+Hi
+
+I've added a comment section, hosted by disqus. Hopefully i didn't mess anything up. I look forwards to hearing what everyone thinks of the story and my translations.
+
+[Chapter9][vwpwe0009]
+
+Enjoy!
+
+[vwpwe0009]: {{site.url}}/translations/VWPWE/0009.html

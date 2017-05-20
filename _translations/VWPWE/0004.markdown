@@ -2,6 +2,7 @@
 layout: chapter
 title:  "Chapter 4"
 category: "VWPWE"
+comments: true
 ---
 
 **Chapter 4: Green Slime and Mushroom Stew**

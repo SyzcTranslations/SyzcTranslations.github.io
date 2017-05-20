@@ -2,6 +2,7 @@
 layout: chapter
 title:  "Chapter 7"
 category: "VWPWE"
+comments: true
 ---
 
 **Chapter 7: Fluorescent Ring**

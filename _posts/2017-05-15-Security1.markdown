@@ -2,6 +2,7 @@
 layout: posts
 title:  "Virtual World: Peerless White Emperor Chapter 8"
 date:   2017-05-15 00:00:00
+comments: true
 ---
 
 Yo!

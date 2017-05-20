@@ -2,6 +2,7 @@
 layout: chapter
 title:  "Chapter 5"
 category: "VWPWE"
+comments: true
 ---
 
 Note: I discovered a few mistakes I have gone back and fixed. One that was embarassing: I realized that I mistranslated Lin Le's weapon. It isn't a pair of axes but a two-handed axe. Apologies x.x

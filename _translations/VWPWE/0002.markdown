@@ -2,6 +2,7 @@
 layout: chapter
 title:  "Chapter 2"
 category: "VWPWE"
+comments: true
 ---
 
 **Chapter 2: Entering Conviction**
@@ -98,7 +99,7 @@ Constitution: 5 (3 health, influences your stamina and ability to resist attacks
 
 Intelligence: 10+1 (2 mana, influences the power and accuracy of your spells, your ability to read)
 
-Wisdom: 7 (1 mana, influences the chance of being interrupted while casting and accuracy of spells, mental resistance, ability to find traps and hidden enemies)
+Wisdom: 7 (1 mana, influences spell focus and accuracy, mental resistance, ability to find traps and hidden enemies)
 
 Attack: 2 - 5
 

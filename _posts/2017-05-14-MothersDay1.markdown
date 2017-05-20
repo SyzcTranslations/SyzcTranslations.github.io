@@ -2,6 +2,7 @@
 layout: posts
 title:  "Virtual World: Peerless White Emperor Chapter 5-7"
 date:   2017-05-14 00:19:00
+comments: true
 ---
 
 Hi again!
