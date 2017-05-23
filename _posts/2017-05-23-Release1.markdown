@@ -1,0 +1,20 @@
+---
+layout: posts
+title:  "Virtual World: Peerless White Emperor Chapter 13-18"
+date:   2017-05-23 01:00:00
+comments: true
+---
+
+Hello Everyone
+
+I managed to meet my personal goal of doing two chapters a day over the long weekend! Yay~
+
+I hope they explain a bit more about the game's mechanics soon.
+
+Also, I just realized something. I feel like the three guys make up one protagonist. You have Ye Cang's Scheming, Zhang ZhengXiong's Strength, and Lin Le's Luck. I wonder how this will play out in the future.
+
+Anyways, Thanks to everyone who commented. I've gone ahead and fixed the mistakes you all found! Enjoy!
+
+[Chapter 13][vwpwe0013]
+
+[vwpwe0013]: {{site.url}}/translations/VWPWE/0013.html
