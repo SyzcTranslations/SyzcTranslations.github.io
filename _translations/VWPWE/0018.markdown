@@ -49,7 +49,7 @@ Hemlock Longbow (Masterwork)
 
 Category: Longbow
 
-Requirements: 11 Strength, 13 Dexterity
+Requirements: 11 Strength or 13 Dexterity
 
 Damage: 5 - 9
 
