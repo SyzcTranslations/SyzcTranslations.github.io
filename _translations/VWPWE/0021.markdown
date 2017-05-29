@@ -57,7 +57,7 @@ ThornyRose facepalmed feeling very tired. Fighting a boss was already hard, then
  
 “A dagger. A pair of boots.” Lin Le held a dark dagger in one hand and a pair of dark brown, leather boots in the other. 
  
-Sai’s Fang (Masterwork)
+Sai’s Fang (Excellent)
  
 Category: Long Dagger
  
@@ -69,7 +69,7 @@ Damage: 4 - 7
  
 Linked Strikes: Quickly chain two attacks, each dealing 85% damage. Cooldown: 5 minutes.
  
-Sai’s Wings (Masterwork)
+Sai’s Wings (Excellent)
  
 Category: Leather Boots
  

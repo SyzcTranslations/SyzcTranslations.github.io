@@ -5,7 +5,7 @@ category: "VWPWE"
 comments: true
 ---
 
-If anyone is confused about item rarity. I believe it goes: Poor < Common < Fine < Masterwork < Rare.
+If anyone is confused about item rarity. I believe it goes: Poor < Common < Fine < Excellent < Rare.
 
 ---
 
@@ -21,7 +21,7 @@ Lin Le covered where he was slapped and pouted. "Brother Lil'White, that hurts."
 
 Ye Cang checked the item's stats.
 
-Flaming Dog's Fang (Masterwork)
+Flaming Dog's Fang (Excellent)
 
 Category: One Handed Sword
 
@@ -37,7 +37,7 @@ Additional Fire Damage: 1 - 3
 
 Flame Strike: The next 2 strikes within 20 seconds will deal an additional 10 fire damage. Cooldown: 10 minutes.
 
-Flaming Dog's Guard (Masterwork)
+Flaming Dog's Guard (Excellent)
 
 Category: Light Armor
 
@@ -53,7 +53,7 @@ Flaming Dog's Guard: Upon activation, gain a barrier that blocks 30 fire damage 
 
 Ye Cang saw the stats and secretly praised. He took the longsword and hung it on his waist to the left. This would be his main hand weapon. His original common sword was moved to the other side to use as an offhand when required. The armor was given to Zhang ZhengXiong to equip. Once Zhang ZhengXiong put on the chest guard, he looked much taller and his back much straighter.
 
-ThornyRose saw the longsword emitting a thread of red light. It was an magic weapon, so it must be at least masterwork quality. Her own weapon was a fine quality longsword and was considered pretty good. Her shield was also fine quality. She looked at the longsword and felt sorry for it, it ended up in the hands of a jack-of-all-trades knight. 
+ThornyRose saw the longsword emitting a thread of red light. It was an magic weapon, so it must be at least excellent quality. Her own weapon was a fine quality longsword and was considered pretty good. Her shield was also fine quality. She looked at the longsword and felt sorry for it, it ended up in the hands of a jack-of-all-trades knight. 
 
 “You already have a ranged weapon, how about lending me that sword? I’ll return it after the hidden story quest…” ThornyRose couldn’t help but ask.
 

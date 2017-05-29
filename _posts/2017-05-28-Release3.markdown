@@ -1,0 +1,18 @@
+---
+layout: posts
+title:  "Virtual World: Peerless White Emperor Chapter 23-28"
+date:   2017-05-28 23:40:00
+comments: true
+---
+
+Hello Everyone,
+
+Sorry for taking so long, but I wanted to finish off the volcano part before releasing!
+
+I also ask everyone to please put up with my going back and changing names and words as I go, since I am also learning more about the story and the game as well. I predict it will happen a lot in the future. Hopefully they take some time to explain the game more.
+
+[Chapter 23][vwpwe0023]
+
+Again, thank you to everyone who commented.
+
+[vwpwe0023]: {{site.url}}/translations/VWPWE/0023.html
