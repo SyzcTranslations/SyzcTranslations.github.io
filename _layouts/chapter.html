@@ -12,7 +12,7 @@ layout: default
     <a href="{{page.previous.url}}" class="previous">Previous</a>  
   {% endif %}
 
-  {% if page.next.url contains "index" %}
+  {% if page.next.url contains "Characters" or page.next.url contains "index" %}
     <span class="next">Next</span>
   {% else %}
     <a href="{{page.next.url}}" class="next">Next</a>  
@@ -35,7 +35,7 @@ layout: default
     <a href="{{page.previous.url}}" class="previous">Previous</a>  
   {% endif %}
 
-  {% if page.next.url contains "index" %}
+  {% if page.next.url contains "Characters" or page.next.url contains "index" %}
   	<span class="next">Next</span>
   {% else %}
     <a href="{{page.next.url}}" class="next">Next</a>  

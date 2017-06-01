@@ -111,4 +111,4 @@ FrozenBlood sighed, this dangerous situation could be considered dissolved.
  
 ---
 
-<a name="footnote1">1</a> Looks like this: <a href="https://www.google.ca/search?q=%E6%8A%B1%E6%8B%B3&source=lnms&tbm=isch&sa=X&ved=0ahUKEwickZ_T_5LUAhUo9YMKHaI9CWMQ_AUICigB&biw=840&bih=867">https://www.google.ca/search?q=%E6%8A%B1%E6%8B%B3&source=lnms&tbm=isch&sa=X&ved=0ahUKEwickZ_T_5LUAhUo9YMKHaI9CWMQ_AUICigB&biw=840&bih=867</a>
+<a name="footnote1">1</a>: Looks like this <a href="https://www.google.ca/search?q=%E6%8A%B1%E6%8B%B3&source=lnms&tbm=isch&sa=X&ved=0ahUKEwickZ_T_5LUAhUo9YMKHaI9CWMQ_AUICigB&biw=840&bih=867">https://www.google.ca/search?q=%E6%8A%B1%E6%8B%B3&source=lnms&tbm=isch&sa=X&ved=0ahUKEwickZ_T_5LUAhUo9YMKHaI9CWMQ_AUICigB&biw=840&bih=867</a>
