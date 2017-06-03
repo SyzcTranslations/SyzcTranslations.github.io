@@ -45,7 +45,7 @@ Defence +3
 
 Wisdom +1
 
-Minor Healing: Once used, immediately heal a target for 6 health. Cooldown 10 minutes.
+Minor Healing Light: Once used, immediately heal a target for 6 health. Cooldown 10 minutes.
 
 “How much?” Ye Cang saw that the stats were pretty good, and seeing that Zhang ZhengXiong was a Priest that that looked more like a Barbarian, got straight to the point.
 
@@ -65,7 +65,7 @@ Ye Cang repeatedly broke into cold sweat as they escaped the little village’s 
 
 “Lele show me that knockoff something alchemy skill…” Ye Cang recalled Lele’s hidden class’ skill.
 
-Knockoff Alchemy (Arms Dealer - First Level): The gangster of the alchemy world.
+Knockoff Alchemy (Arms Dealer - First Level): The dark side of alchemy.
 
 There was only two recipes: vial of inferior acid, knockoff small health potion.
 

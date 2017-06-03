@@ -33,7 +33,7 @@ Lin Le looted the boss. Ye Cang slid down the hill and asked: “What did we get
 
 “A skill book and a wand!” Lele held a book in one hand and a wooden wand in the other. The wand had some feathers decorating the end. 
 
-Cross-Eye (Rare - Skill): To use, cross your eyes and look at the target to confuse them for a period of time. Receiving damage will end the effect. Must lock eyes for at least 1 second to take effect. No resource cost. Cooldown: 5 minutes.
+Crossed-Eyes (Rare - Skill): To use, cross your eyes and look at the target to confuse them for a period of time. Receiving damage will end the effect. Must lock eyes for at least 1 second to take effect. No resource cost. Cooldown: 5 minutes.
 
 Monstrous Bird’s Wooden Wand (Fine)
 
