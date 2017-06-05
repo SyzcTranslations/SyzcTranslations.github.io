@@ -115,7 +115,7 @@ Racial Characteristics:
 
 Diplomatic (Human): Obtain +10% prestige. Raises social ability.
 
-Learned (Human): Every 10 levels, you can add an additional specialization.
+Learned (Human): Every 10 levels, you can gain an additional perk.
 
 Graceful (Dark Elf): + 1 Dexterity and another 1 every 5 levels. Gain + 1 with bows.
 
