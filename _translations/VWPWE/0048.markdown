@@ -9,7 +9,7 @@ comments: true
  
 Mayor Mar leaned over towards Ye Cang and whispered: “What about the goods?”
  
-“I’ve got it here…” Ye Cang whispered back. Mar nodded. “You three come with me. Everyone else, thank you, you can go now...”
+“I’ve got it here...” Ye Cang whispered back. Mar nodded. “You three come with me. Everyone else, thank you, you can go now...”
  
 ThornyRose hesitated. This was probably something private between them and the mayor. It might have something to do with that pearl. She didn’t say anything and brought FrozenBlood, GreenDew and FrozenCloud out. SpyingBlade raised an eyebrow and also left. They all waited outside.
  
@@ -17,7 +17,7 @@ Mar brought the three of them through the office and to a courtyard. They arrive
  
 “What are you coming back for!?” The Madam glared at Mar.
  
-“Hurry, take it out…” Mar whispered, without moving his mouth. Ye Cang quickly took out the Night-Luminescent Pearl. The Madam’s vision locked on and she couldn’t take her eyes off of the glimmering pearl. Her eyes were filled with obsession. She ran over, hugged it, and reached out one hand to pull the old mayor over. “Hubby, you’re the best~ Tonight, you can sleep on the bed...”
+“Hurry, take it out...” Mar whispered, without moving his mouth. Ye Cang quickly took out the Night-Luminescent Pearl. The Madam’s vision locked on and she couldn’t take her eyes off of the glimmering pearl. Her eyes were filled with obsession. She ran over, hugged it, and reached out one hand to pull the old mayor over. “Hubby, you’re the best~ Tonight, you can sleep on the bed...”
  
 The old mayor Mar let out a long sigh of relief. He had finally regained his peaceful everyday life. Suddenly, the madam became violent. She pinched his waist and 'Slap~' smacked the back of his head. “What are you staring into space for! You still haven’t rewarded the brave warriors who brought back my precious treasure. We Mar’s must repay our favors! Now hurry for this old lady! Don’t let others think we’re being cheap!”
  
@@ -85,7 +85,7 @@ Damage: 9 - 12
  
 +2 Constitution
  
-Smashing Strike: Deal 175% damage to targets in range, with a chance to stun or knockdown. Cooldown: 30 minutes.
+Seismic Slam: Deal 175% damage to targets in range, with a chance to stun or knockdown. Cooldown: 30 minutes.
  
 Lin Le wandered among the dazzling armors and found a pair of thick, black, iron gloves. He picked it up and without even looking, he put them on. They were a bit too big for him and together with the gigantic war axe, he looked comical. But one could also feel the destructive power it contained.
  
