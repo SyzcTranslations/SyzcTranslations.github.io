@@ -49,7 +49,7 @@ Lin Le shrugged and looted the boss. SpyingBlade frowned, wondering why ThornyRo
  
 Ye Cang arrived beside Lin Le and took the loot. A skillbook, and the other was a caster class offhand item.
  
-Minor Healing Stream (Rare - Fishman Language): Chant 3 phrases (about 2 seconds) to enchant a target with water magic. Every 3 seconds, heal 2 health. Lasts 15 seconds. (The duration and potency is affected by Intelligence, Wisdom, and magic effect stat.) Cooldown: 10 seconds. Cost: 6 mana. Requirements: 12 Intelligence, Fishman Language.
+Minor Healing Stream (Rare - Fishman Language): Chant 3 phrases (about 2 seconds) to enchant a target with water magic. Every 3 seconds, heal 2 health. Lasts 15 seconds. (The duration and potency is affected by Intelligence, Wisdom, and Spell Power stat.) Cooldown: 10 seconds. Cost: 6 mana. Requirements: 12 Intelligence, Fishman Language.
  
 Apprentice's Tome (Excellent - Rare)
  

@@ -73,7 +73,7 @@ Attack: 2 - 5
  
 +5 All Resistances
  
-+7 Magic Effect
++7 Spell Power
  
 Alina’s Tear: ???, Cooldown: 3 days.
  

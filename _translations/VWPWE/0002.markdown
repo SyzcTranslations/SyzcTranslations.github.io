@@ -115,13 +115,13 @@ Racial Characteristics:
 
 Diplomatic (Human): Obtain +10% prestige. Raises social ability.
 
-Learned (Human): Every 10 levels, you can gain an additional perk.
+Learned (Human): Every 10 levels, gain an additional talent.
 
 Graceful (Dark Elf): + 1 Dexterity and another 1 every 5 levels. Gain + 1 with bows.
 
 Magic Power (Sunfury Elf): +1 Intelligence and another 1 every 5 levels.
 
-Class Skills: 5.
+Class Talents: None.
 
 “Would you like to enter the game?”
 
