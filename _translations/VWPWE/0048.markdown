@@ -2,6 +2,7 @@
 layout: chapter
 title:  "Chapter 48"
 category: "VWPWE"
+translator: "syzc"
 comments: true
 ---
 

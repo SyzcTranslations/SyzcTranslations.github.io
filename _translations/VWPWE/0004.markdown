@@ -2,6 +2,7 @@
 layout: chapter
 title:  "Chapter 4"
 category: "VWPWE"
+translator: "syzc"
 comments: true
 ---
 

@@ -1,0 +1,22 @@
+---
+layout: posts
+title:  "Virtual World: Peerless White Emperor Chapter In Spanish!"
+date:   2017-06-14 19:55:00
+comments: true
+---
+
+Hey Everyone,
+
+Recently someone has shown interrest in translating this novel into Spanish and will be hosting his translations here on my website! Now we'll be working together to give you the story in two different languages and reaching an even wider audience. Please join me in welcoming TheWorkinGuy!
+
+A message from him:
+
+"Thanks for the excellent welcome and the oportunity to translate here in this site, so exited!! I just want to broad the horizons of spanish readers, well without further ado! here is chapter one!!!!!"
+
+"Gracias por la excelente recepcion y la oportunidad de traducir aqui en este sitio, muy emocionado! solo quiero expandir los horizontes de los lectores españoles, bueno sin mas preambulos! aqui esta el primer capitulo!"
+
+So if you can read spanish, check it out!
+
+[Capítulo 1][mveiwb0001].
+
+[mveiwb0001]: {{site.url}}/translations/MVEIWB/0001.html

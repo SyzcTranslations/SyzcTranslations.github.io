@@ -2,6 +2,7 @@
 layout: chapter
 title:  "Chapter 37"
 category: "VWPWE"
+translator: "syzc"
 comments: true
 ---
 
