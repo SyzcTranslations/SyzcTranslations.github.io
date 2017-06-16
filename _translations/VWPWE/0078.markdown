@@ -12,7 +12,7 @@ comments: true
  
 Light Blue Carp: Common in rivers and lakes.
  
-Maserrazi Tigerfish: Maserrazi lake’s specialty fish. The flavor has many layers.
+Maserrazi Piranha: Maserrazi lake’s specialty fish. The flavor has many layers.
  
 Hogfish: A fairly rare fish. The flavor is strong, and nutritious.
  
@@ -36,13 +36,13 @@ Ye Cang watched over the roasting fish that were held up by sticks. The scene st
  
 “Congratulations. You’ve created a new dark cooking recipe. Category: Roasted. Obtain 250 experience. Although it’s 3 different kinds of fish, they were cooked in the same way, so they become a set meal. Please name it.”
  
-“Light Blue Carp stuffed with Black Werewolf, Hogfish stuffed with Black Werewolf, Tigerfish stuffed with Black Werewolf.”
+“Light Blue Carp stuffed with Black Werewolf, Hogfish stuffed with Black Werewolf, Piranha stuffed with Black Werewolf.”
  
 Light Blue Carp stuffed with Black Werewolf: Restore 4 health every 5 seconds while eating. Gain +2 Intelligence, +1 Dexterity, +2 All Resist for 2 hours (Can be stacked with the other two parts of the set meal).
  
 Hogfish stuffed with Black Werewolf: Restore 4 health every 5 seconds while eating. Gain +2 Strength, +1 Dexterity, +2 All Resist for 2 hours (Can be stacked with the other two parts of the set meal).
  
-Tigerfish stuffed with Black Werewolf: Restore 4 health every 5 seconds while eating. Gain +1 Wisdom, +2 Constitution, +2 All Resist for 2 hours (Can be stacked with the other two parts of the set meal).
+Piranha stuffed with Black Werewolf: Restore 4 health every 5 seconds while eating. Gain +1 Wisdom, +2 Constitution, +2 All Resist for 2 hours (Can be stacked with the other two parts of the set meal).
  
 Lin Le and Zhang ZhengXiong were completely flabbergasted. The most disgusting thing so far has just appeared. Despite having been baptised many times, that sort of scalp tingling stink was never any less bad. 
  
