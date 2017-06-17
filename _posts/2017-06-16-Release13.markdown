@@ -1,0 +1,18 @@
+---
+layout: posts
+title:  "Virtual World: Peerless White Emperor Chapter 79 - 84"
+date:   2017-06-16 22:20:00
+comments: true
+---
+
+Hey Everyone,
+
+I've got the character glossary up with some of the main characters filled in. You can get to it from the top of the table of contents.
+
+Other than that, not much to say this time around.
+
+[Chapter 79][vwpwe0079]
+
+Enjoy!
+
+[vwpwe0079]: {{site.url}}/translations/VWPWE/0079.html

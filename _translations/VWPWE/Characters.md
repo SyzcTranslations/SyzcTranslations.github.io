@@ -105,10 +105,12 @@ Dragon Group (龙组)
 	  * Minor Healing Stream (次级水愈术)
 	  * Double Shot (二连射)
 	  * Precise Shot / Strike (瞄准射击/精准打击)
-	  * Mirror Image (水影换形)
+	  * Mirror Image (水影换形) +
 	  * Tidal Wave (水浪冲击)
 	  * Steal Spell (窃取魔法)
 	  * Multiple Straight Thrusts (多重直刺)
+	  * Rapid Dash (急速突进)
+	  * Dashing Straight Thrust (直线冲刺)
  
 ---
 
@@ -135,6 +137,7 @@ Dragon Group (龙组)
 	  * Aura of Vigor (健康之光)
 	  * Barbaric Tackle (野蛮冲撞)
 	  * Minor Healing Light (次级光愈术)
+	  * Aura of Protection (虔诚守护) +
 
 ---
 
@@ -160,10 +163,11 @@ Dragon Group (龙组)
 	Skills: 
 	  * Crossed Eyes (斗鸡眼)
 	  * Heavy Chop (重斩)
-	  * Whirlwind Strike (旋刃重击)
+	  * Whirlwind Strike (旋刃重击) +
 	  * Handcart Home Run (手推车全垒打)
 	  * Leap (野蛮冲撞)
 	  * Execute (斩首怒击)
+	  * Rising Slash (升龙斩)
 
 ---
 
@@ -250,7 +254,8 @@ Dragon Group (龙组)
 	  * Attack and Defend (攻守兼备)
 
 	Skills:
-	  * Wolverine Strike (狼獾打击)
+	  * Wolverine Strike (狼獾打击) +
 	  * Shouryuukenn (升龙拳)
+	  * Triple Strike (三连击)
 
 ---
