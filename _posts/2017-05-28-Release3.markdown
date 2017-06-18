@@ -15,4 +15,4 @@ I also ask everyone to please put up with my going back and changing names and w
 
 Again, thank you to everyone who commented.
 
-[vwpwe0023]: {{site.url}}/translations/VWPWE/0023.html
+[vwpwe0023]: {{site.url}}/translations/vwpwe/0023.html

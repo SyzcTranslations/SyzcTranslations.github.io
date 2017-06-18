@@ -15,4 +15,4 @@ Also sorry for the screw up on chapter 66 :x It's explained in a note at the beg
 
 Enjoy!
 
-[vwpwe0069]: {{site.url}}/translations/VWPWE/0069.html
+[vwpwe0069]: {{site.url}}/translations/vwpwe/0069.html

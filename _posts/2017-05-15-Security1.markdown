@@ -20,4 +20,4 @@ Also, a poll:
 
 Enjoy!
 
-[vwpwe0008]: {{site.url}}/translations/VWPWE/0008.html
+[vwpwe0008]: {{site.url}}/translations/vwpwe/0008.html

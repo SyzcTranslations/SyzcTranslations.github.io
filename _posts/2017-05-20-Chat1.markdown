@@ -13,4 +13,4 @@ I've added a comment section, hosted by disqus. Hopefully i didn't mess anything
 
 Enjoy!
 
-[vwpwe0009]: {{site.url}}/translations/VWPWE/0009.html
+[vwpwe0009]: {{site.url}}/translations/vwpwe/0009.html

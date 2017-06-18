@@ -15,4 +15,4 @@ Other than that, not much to say this time around.
 
 Enjoy!
 
-[vwpwe0079]: {{site.url}}/translations/VWPWE/0079.html
+[vwpwe0079]: {{site.url}}/translations/vwpwe/0079.html

@@ -17,4 +17,4 @@ Sadly I tried getting some people I know to try reading it, but they found it bo
 
 Well, enjoy the read everyone.
 
-[vwpwe0034]: {{site.url}}/translations/VWPWE/0034.html
+[vwpwe0034]: {{site.url}}/translations/vwpwe/0034.html

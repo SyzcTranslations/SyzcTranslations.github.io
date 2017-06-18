@@ -15,4 +15,4 @@ I would like to remind everyone that I am an amateur at chinese and these transl
 
 Anyways, thanks everyone for commenting and rating this novel so highly! 
 
-[vwpwe0064]: {{site.url}}/translations/VWPWE/0064.html
+[vwpwe0064]: {{site.url}}/translations/vwpwe/0064.html

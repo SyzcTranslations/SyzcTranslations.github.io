@@ -17,4 +17,4 @@ I've also started regretting putting Virtual World on the title. I feel like peo
 
 Enjoy!
 
-[vwpwe0051]: {{site.url}}/translations/VWPWE/0051.html
+[vwpwe0051]: {{site.url}}/translations/vwpwe/0051.html

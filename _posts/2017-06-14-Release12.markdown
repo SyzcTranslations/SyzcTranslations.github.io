@@ -16,5 +16,5 @@ If you haven't already, check out the last announcement post: [Peerless White Em
 Enjoy!
 
 [Spanish]: {{site.url}}/Release11.html
-[vwpwe0073]: {{site.url}}/translations/VWPWE/0073.html
-[mveiwb0002]: {{site.url}}/translations/MVEIWB/0002.html
+[vwpwe0073]: {{site.url}}/translations/vwpwe/0073.html
+[mveiwb0002]: {{site.url}}/translations/mveiwb/0002.html

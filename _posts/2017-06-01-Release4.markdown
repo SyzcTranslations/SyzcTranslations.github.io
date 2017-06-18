@@ -15,4 +15,4 @@ Also, I'm planning to put up a character glossary soon. In it, I plan to put mor
 
 Looking forwards to everyone's comments and please feel free to suggest stuff!
 
-[vwpwe0029]: {{site.url}}/translations/VWPWE/0029.html
+[vwpwe0029]: {{site.url}}/translations/vwpwe/0029.html

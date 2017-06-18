@@ -19,5 +19,5 @@ Here's a link to [chapter 1][vwpwe0001]!
 
 [raw]: http://book.qidian.com/info/3332175
 [contact]: {{site.url}}/contact/
-[vwpweTOC]: {{site.url}}/translations/VWPWE/index.html
-[vwpwe0001]: {{site.url}}/translations/VWPWE/0001.html
+[vwpweTOC]: {{site.url}}/translations/vwpwe/index.html
+[vwpwe0001]: {{site.url}}/translations/vwpwe/0001.html

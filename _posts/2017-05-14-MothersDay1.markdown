@@ -15,4 +15,4 @@ Anyways! It's mother's day so I'd like to thank my mom who always makes time to 
 
 Enjoy!
 
-[vwpwe0005]: {{site.url}}/translations/VWPWE/0005.html
+[vwpwe0005]: {{site.url}}/translations/vwpwe/0005.html

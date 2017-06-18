@@ -17,4 +17,4 @@ Also, I just realized something. I feel like the three guys make up one protagon
 
 Anyways, Thanks to everyone who commented. I've gone ahead and fixed the mistakes you all found! Enjoy!
 
-[vwpwe0013]: {{site.url}}/translations/VWPWE/0013.html
+[vwpwe0013]: {{site.url}}/translations/vwpwe/0013.html

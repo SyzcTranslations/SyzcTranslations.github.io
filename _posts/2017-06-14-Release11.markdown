@@ -19,4 +19,4 @@ So if you can read spanish, check it out!
 
 [Capítulo 1][mveiwb0001].
 
-[mveiwb0001]: {{site.url}}/translations/MVEIWB/0001.html
+[mveiwb0001]: {{site.url}}/translations/mveiwb/0001.html

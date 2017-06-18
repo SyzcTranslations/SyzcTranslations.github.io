@@ -17,4 +17,4 @@ Anyways, here you go: [Chapter 41][vwpwe0041].
 
 Enjoy!
 
-[vwpwe0041]: {{site.url}}/translations/VWPWE/0041.html
+[vwpwe0041]: {{site.url}}/translations/vwpwe/0041.html

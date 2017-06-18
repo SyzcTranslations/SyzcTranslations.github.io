@@ -15,4 +15,4 @@ The end of chapter 22 confused me x.x If anyone understands it, please explain. 
 
 Thanks to everyone who commented. It's great knowing people are enjoying the story I'm translating! Enjoy!
 
-[vwpwe0019]: {{site.url}}/translations/VWPWE/0019.html
+[vwpwe0019]: {{site.url}}/translations/vwpwe/0019.html

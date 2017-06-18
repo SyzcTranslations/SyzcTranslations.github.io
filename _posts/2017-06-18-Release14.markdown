@@ -13,4 +13,8 @@ Let's rush to chapter 100! Then I'm gonna slow down a bit cause I feel like I'm 
 
 Enjoy!
 
-[vwpwe0085]: {{site.url}}/translations/VWPWE/0085.html
+PS: Sorry, I broke some links earlier today. I hope it didn't affect anyone.
+
+PSS: I've added an automatic redirect to the 404 page. It'll hopefully get you back to the right page. For those with javascript disabled, I've turned all url to lowercase (and github pages is case-sensitive).
+
+[vwpwe0085]: {{site.url}}/translations/vwpwe/0085.html
