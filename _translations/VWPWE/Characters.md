@@ -21,7 +21,7 @@ Thorns and Roses (荆棘与玫瑰)
   * [FrozenBlood](#)
   * [GreenDew](#)
   * [ElegantFragrance](#)
-  * [FrozenCloud](frozencloud)
+  * [FrozenCloud](#frozencloud)
   * [Li LiJia](#)
 
 Beauties at the Crossfire (烽火佳人)
@@ -91,7 +91,7 @@ Dragon Group (龙组)
 	  * Aquatic Killer (水中杀手)
 
 	Profession:
-	  * Cooking
+	  * Cooking (Cooking / Identifying / Gathering) +
 
 	Talents: 
 	  * Heart of a Knight (游侠之心)
@@ -126,6 +126,9 @@ Dragon Group (龙组)
 	Nicknames: A’Xiong, Brother Lil’Xiong, Shaking Bear
 	  * Shaking bear: The chinese raw can mean both blackbear and coward. It's a combination of the character for dog (maybe cause he keeps hitting on the girls) and bear (sounds like Xiong from his name).
 
+	Profession:
+	  * Smithing (Smithing / Mining / Smelting)
+
 	Talents: 
 	  * Feel Your Pain (感同身受) +
 	  * Strong and Tough Body (身强体壮)
@@ -138,6 +141,8 @@ Dragon Group (龙组)
 	  * Barbaric Tackle (野蛮冲撞)
 	  * Minor Healing Light (次级光愈术)
 	  * Aura of Protection (虔诚守护) +
+  	  * Heavy Chop (重斩)
+
 
 ---
 
@@ -153,7 +158,7 @@ Dragon Group (龙组)
 	Nicknames: Lele
 
 	Proession:
-	  * Fishing
+	  * Fishing (Fishing / Identifying Aquatic / Creating Bait)
 
 	Talents: 
 	  * Knockoff Alchemy (杂牌炼金术)
@@ -197,6 +202,10 @@ Dragon Group (龙组)
 	 Class: Paladin
 
 	 Nicknames: TianTian, Little Ye Tian
+
+	 Skills:
+	   * Minor Holy Shield (次级光盾吸收)
+	   * Rejuvenating Light (光疗恢复)
 
 ---
 
