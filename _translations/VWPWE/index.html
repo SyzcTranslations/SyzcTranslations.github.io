@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Virtual World: Peerless White Emperor"
-category: "TOC"
+category: "VWPWE"
 ---
 
 <h1> Virtual World: Peerless White Emperor </h1>
@@ -32,7 +32,7 @@ Ye Cang is a black bellied, underachieving, 2nd year student at a city college. 
 
 {% for chapter in site.translations %}
 	{% if chapter.category contains 'VWPWE' %}
-		{% if chapter.url contains 'index' %}
+		{% if chapter.url contains 'index' or chapter.url contains 'characters' %}
 		{% else %}
 			<li><a href="{{ chapter.url | prepend: site.baseurl }}">{{ chapter.title }}</a></li>
 		{% endif %}

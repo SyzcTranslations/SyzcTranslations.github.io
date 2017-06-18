@@ -8,7 +8,7 @@
 			<li><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
 			<li><a href="#!">Translations ▾</a>
 				<ul class="nav-dropdown">
-					{% for translation in site.translations %} {% if translation.category == 'TOC' %}
+					{% for translation in site.translations %} {% if translation.url contains "index" %}
 						<li><a href="{{ translation.url | prepend: site.baseurl }}">{{ translation.title }}</a></li>
 					{% endif %} {% endfor %}
 				</ul>

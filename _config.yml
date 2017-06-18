@@ -16,5 +16,6 @@ include: ['_pages']
 collections: 
   translations:
     output: true
+    permalink: /:collection/:categories/:name
 kramdown:
   input: GFM

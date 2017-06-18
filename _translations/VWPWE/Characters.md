@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Characters"
+category: "VWPWE"
 ---
 
 **Warning: May contain spoilers as I will be using this as a glossary for skills and characters**
