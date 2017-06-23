@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 5"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 comments: true
 ---
 
@@ -12,15 +13,15 @@ Note: I discovered a few mistakes I have gone back and fixed. One that was embar
 
 **Chapter 5: Looking for Jesse**
 
-‘Really New Village’, in a farmhouse tavern.
+'Really New Village', in a farmhouse tavern.
 
 The three of them arrived at the tavern and found North sitting at a crude, square table. Drinking ale with him was a big, bearded man.
 
 "Uncle, we wrangled 100 slimes." Ye Cang got straight to the point.
 
-"Thanks lads. Here’s your reward~ Belch~" North belched and gave Ye Cang a silver coin.
+"Thanks lads. Here's your reward~ Belch~" North belched and gave Ye Cang a silver coin.
 
-"Congratulations, you completed ‘The Cause of North’s Headache’. You receive 100 experience and a random common weapon." 
+"Congratulations, you completed 'The Cause of North's Headache'. You receive 100 experience and a random common weapon." 
 
 "Congratulations, you received a willow bow (common)" Ye Cang received the system message. A shortbow was added to his bag. 
 
@@ -34,72 +35,72 @@ Damage: 2 - 4
 
 Equivalently, Zhang ZhengXiong received a rough iron handaxe, damage 2 - 5. Lele received a crude longsword, damage 3 - 4.
 
-"You boys can go now. Belch~" North saw Ye Cang’s look of expectation and waved them away.
+"You boys can go now. Belch~" North saw Ye Cang's look of expectation and waved them away.
 
-The three of them looked at the two drunkards and recond there wouldn’t be another quest. They slowly left the tavern.
+The three of them looked at the two drunkards and reckoned there wouldn't be another quest. They slowly left the tavern.
 
 "I feel a little disappointed..." Zhang said while watching the stars.
 
-Ye Cang nodded then shook his head. "The reward can be considered valuable. Earlier I looked at the black market prices and 1 copper is worth over 100 federal dollars (100 federal dollars = 10 RMB = 2.00 CND). The quest gave us 1 silver. The forums said there’s no monsters that drop money except for slimes that occasionally drop 1 copper."
+Ye Cang nodded then shook his head. "The reward can be considered valuable. Earlier I looked at the black market prices and 1 copper is worth over 100 federal dollars (100 federal dollars = 10 RMB = 2.00 CND). The quest gave us 1 silver. The forums said there's no monsters that drop money except for slimes that occasionally drop 1 copper."
 
-"Then what do we do now?" Lin Le didn’t really understand and asked.
+"Then what do we do now?" Lin Le didn't really understand and asked.
 
-"Let’s go. I want to buy some arrows. Let’s go to that old granny’s general store. Oh right, Lele, give me the longsword." Ye Cang borrowed Lin Le’s longsword and hung it at his waist, put a shortbow on his back and led the two to the crude, old general store.
+"Let's go. I want to buy some arrows. Let's go to that old granny's general store. Oh right, Lele, give me the longsword." Ye Cang borrowed Lin Le's longsword and hung it at his waist, put a shortbow on his back and led the two to the crude, old general store.
 
 The three of them entered the store. The dim light from oil lamps lit up the interior of the building.
 
-"Bro, granny has a quest giver expression now..." Zhang ZhengXiong saw that old lady named Rica was now anxious and looked like she couldn’t sit still. 
+"Bro, granny has a quest giver expression now..." Zhang ZhengXiong saw that old lady named Rica was now anxious and looked like she couldn't sit still. 
 
-"Granny, did something happen?" Ye Cang nodded looking deeply concerned. This deeply concerned expression wasn’t fake.
+"Granny, did something happen?" Ye Cang nodded looking deeply concerned. This deeply concerned expression wasn't fake.
 
-"My grandson Jesse still hasn’t come home yet. I’m worried something happened to him. Could you lads help me find him?" Rica, seeing Ye Cang’s concern, sobbed as she requested.
+"My grandson Jesse still hasn't come home yet. I'm worried something happened to him. Could you lads help me find him?" Rica, seeing Ye Cang's concern, sobbed as she requested.
 
 Ye Cang nodded: "Then can you tell me, where did your grandson go?"
 
-"I also don’t know but he said he was going give me a surprise." The old lady Rica said, flustered.
+"I also don't know but he said he was going give me a surprise." The old lady Rica said, flustered.
 
-"I hope he didn’t go to the forest to the north. Wuu~Wuu~ It’s all my fault! My fault! It’s because I told him that there was an ancient tree that could grant wishes. Jesse and I rely on each other; if her were to die, I’ll have no reason to live!!" The old lady Rica gave a heartbreaking cry. "I beg of you, please help me find Jesse. I beg of you!!"
+"I hope he didn't go to the forest to the north. Wuu~Wuu~ It's all my fault! My fault! It's because I told him that there was an ancient tree that could grant wishes. Jesse and I rely on each other; if he were to die, I'll have no reason to live!!" The old lady Rica gave a heartbreaking cry. "I beg of you, please help me find Jesse. I beg of you!!"
 
-The old lady’s pleading was very mournful. Ye Cang looked at that wrinkled face. It was full of worry and concern. In his mind, a wrinkled cheek full of kindness appeared.
+The old lady's pleading was very mournful. Ye Cang looked at that wrinkled face. It was full of worry and concern. In his mind, a wrinkled cheek full of kindness appeared.
 
 "Grandma, Grandma. They all call me a monster and throw stones at me. Am I really a monster?"
 
-"Little Cang, you’re not a monster. You’re grandma’s darling. No matter how others see you or what they say to you, remember, you’ll always be grandma’s most well behaved little darling~"
+"Little Cang, you're not a monster. You're grandma's darling. No matter how others see you or what they say to you, remember, you'll always be grandma's most well behaved little darling~"
 
-"Grandma, I passed the test. I’ve also planted your favorite carnations. You’ll definitely get better! Definitely! I want to be with grandma forever!"
+"Grandma, I passed the test. I've also planted your favorite carnations. You'll definitely get better! Definitely! I want to be with grandma forever!"
 
-"Little Cang, grandma has to go. Sorry I can’t see you get married or have children. Don’t cry, men shouldn’t cry! Grandma is old, this is a fate that no one can escape from, so don’t be sad. Little darling~"
+"Little Cang, grandma has to go. Sorry I can't see you get married or have children. Don't cry, men shouldn't cry! Grandma is old, this is a fate that no one can escape from, so don't be sad. Little darling~"
 
-Ye Cang stopped recalling and took a deep breath. His eyes were full of resolution as he slowly said: "Granny, I’ll definitely help you find your grandson. Definitely..."
+Ye Cang stopped recalling and took a deep breath. His eyes were full of resolution as he slowly said: "Granny, I'll definitely help you find your grandson. Definitely..."
 
-"Bro..." Zhang ZhengXiong looked at Ye Cang’s expression, he thought of the picture of Ye Cang and an old lady and said: "Mm. Leave it to us!"
+"Bro..." Zhang ZhengXiong looked at Ye Cang's expression, he thought of the picture of Ye Cang and an old lady and said: "Mm. Leave it to us!"
 
-Lin le also repeatedly nodded his head.
+Lin Le also repeatedly nodded his head.
 
 "I need some arrows." Ye Cang took out a coin. Rica refused: "Take whatever you need, I just want to hurry and see Jesse."
 
-Ye Cang took a leather quiver with 30 arrows and properly secured it to his back. He took a few torches and flints and hurriedly brought the other two to leave the store. He didn’t look back to see the old lady standing at the doorway. They started heading to the forest to the north.
+Ye Cang took a leather quiver with 30 arrows and properly secured it to his back. He took a few torches and flints and hurriedly brought the other two to leave the store. He didn't look back to see the old lady standing at the doorway. They started heading to the forest to the north.
 
-Night time, the wild beast’s paradise. Most of the players won’t go too deep into the woods because the gains wouldn’t make up for the losses, much less a group of level 3 - 4s. The farm was as lively as before. The fringe of the forest also had a steady stream of explorers. However the northern forest that the three were going towards was abnormally quiet.
+Night time, the wild beast's paradise. Most of the players won't go too deep into the woods because the gains wouldn't make up for the losses, much less a group of level 3 - 4s. The farm was as lively as before. The fringe of the forest also had a steady stream of explorers. However the northern forest that the three were going towards was abnormally quiet.
 
-Lighting a torch, the three wandered the forest.
+Lighting a torch, the three wandered into the forest.
 
 "Bro, do you think the ancient tree the old lady mentioned really exists?" Zhang ZhengXiong asked while vigilantly looking in all directions.
 
-"I don’t know, however, a moment ago, i saw a child’s footprints. He should be in this direction. Our quest is to find Jesse and bring him back to granny. Set aside the rest for the time being..." Ye Cang used the torchlight to carefully observe the surroundings.
+"I don't know, however, a moment ago, i saw a child's footprints. He should be in this direction. Our quest is to find Jesse and bring him back to granny. Set aside the rest for the time being..." Ye Cang used the torchlight to carefully observe the surroundings.
 
-"Brother Lil’White, the surroundings feel weird." Lin Le, who was walking at the back, said weakly. He was a bit afraid.
+"Brother Lil'White, the surroundings feel weird." Lin Le, who was walking at the back, said weakly. He was a bit afraid.
 
-"Halt, there’s some activity!" Zhang ZhengXiong felt there was something nearby.
+"Halt, there's some activity!" Zhang ZhengXiong felt there was something nearby.
 
-The three of them slowly stopped. Several blood red lights flickered. Three black furred feral wolves appeared before their eyes. They were half a size bigger than normal wolves. Ye Cang shuddered with fear as he slowly took out his longsword. "Lil’Xiong, pin down two of them. Me and Lele will focus on taking down that one then come support you!"
+The three of them slowly stopped. Several blood red lights flickered. Three black furred feral wolves appeared before their eyes. They were half a size bigger than normal wolves. Ye Cang shuddered with fear as he slowly took out his longsword. "Lil'Xiong, pin down two of them. Me and Lele will focus on taking down that one and then come support you!"
 
-"I got it, bro." Zhang ZhengXiong didn’t hesitate to nod.
+"I got it, bro." Zhang ZhengXiong didn't hesitate to nod.
 
-"Lele! Go!!" Ye Cang advanced towards the right feral wolf. He kept his body low as he rushed towards it. Lin Le followed behind dragging his big axe. Zhang ZhengXiong straightforwardly attacked and blocked the two feral wolves pouncing over, smashing one with his axe and dodged under the other wolf’s pounce. Without retreating, he stepped into the wolf’s bossom and lashed at the wolf’s waist with a heavy punch. Damage numbers appeared above the wolf and there was over 50% extra damage added. The wolf howled as it hit the ground. Zhang ZhengXiong yelled: "Bro, hit their waist!"
+"Lele! Go!!" Ye Cang advanced towards the right feral wolf. He kept his body low as he rushed towards it. Lin Le followed behind dragging his big axe. Zhang ZhengXiong straightforwardly attacked and blocked the two feral wolves pouncing over, smashing one with his axe and dodged under the other wolf's pounce. Without retreating, he stepped into the wolf's bosom and lashed at the wolf's waist with a heavy punch. Damage numbers appeared above the wolf and there was over 50% extra damage added. The wolf howled as it hit the ground. Zhang ZhengXiong yelled: "Bro, hit their waist!"
 
-On the other side, Ye Cang kept low and slid under the feral wolf’s pounce. He leaned to the side and hacked at its waist. Lin Le also received Zhang ZhengXiong’s message. He faced the airborne wolf and swung at it with his axe flipping it onto the ground. Ye Cang did not miss this opportunity. He quickly arrived in front of it, reversed his grip on his sword, inserting it into the base of the wolves head, and yelled: "Lele! Go help Lil’Xiong!!" The near-death feral wolf clawed at Ye Cang’s stomach with its sharp claws, drawing a burst of blood.
+On the other side, Ye Cang kept low and slid under the feral wolf's pounce. He leaned to the side and hacked at its waist. Lin Le also received Zhang ZhengXiong's message. He faced the airborne wolf and swung at it with his axe flipping it onto the ground. Ye Cang did not miss this opportunity. He quickly arrived in front of it, reversed his grip on his sword, inserting it into the base of the wolves head, and yelled: "Lele! Go help Lil'Xiong!!" The near-death feral wolf clawed at Ye Cang's stomach with its sharp claws, drawing a burst of blood.
 
 Zhang ZhengXiong, who was outnumbered, received two claw strikes losing more than half his health. He felt a chill on his back, but facing the wolf in front of him, he had no attention to spare.
 
-"Au~!" A whine sounded out. Zhang ZhengXiong slightly turned his head to look around using the light from the torch on the ground. Out of the corner of his eyes, he saw the feral wolf that was mid-pounce get chopped by Lele’s wood-cutting axe. As axe’s trajectory chopped towards the wolf’s waist, Zheng ZhengXiong let out the breath he was holding.
+"Au~!" A whine sounded out. Zhang ZhengXiong slightly turned his head to look around using the light from the torch on the ground. Out of the corner of his eyes, he saw the feral wolf that was mid-pounce get chopped by Lele's wood-cutting axe. As the axe's trajectory chopped towards the wolf's waist, Zheng ZhengXiong let out the breath he was holding.

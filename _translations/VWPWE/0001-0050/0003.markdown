@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 3"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 comments: true
 ---
 
@@ -16,7 +17,7 @@ The three people each took out their gift boxes. A square wooden box appeared in
 
 "Jackpot! I got a white dagger! 2 - 3 damage!!"
 
-"Get him! Don’t run! I your father could have killed three chickens already!!"
+"Get him! Don't run! I your father could have killed three chickens already!!"
 
 "..."
 
@@ -24,7 +25,7 @@ The three people each took out their gift boxes. A square wooden box appeared in
 
 "Mm!" Lin Le nodded and opened his wooden box. A 130cm axe appeared in his bag. He took it out and the three of them looked at the stats.
 
-Fine Woodcutter’s Axe (Fine)
+Fine Woodcutter's Axe (Fine)
 
 Category: Two-Handed Axe
 
@@ -34,17 +35,17 @@ Damage: 6 - 10
 
 Strength + 1
 
-"Brother Lil’White!! I did it!" Lin Le happily raised the axe over his head and yelled.
+"Brother Lil'White!! I did it!" Lin Le happily raised the axe over his head and yelled.
 
-"Slap~!" Ye Cang raised his eyebrows, his palm hitting the back of Lin Le’s head.
+"Slap~!" Ye Cang raised his eyebrows, his palm hitting the back of Lin Le's head.
 
-Zhang ZhengXiong immediately covered Lin Le’s mouth: "Quiet. Don’t reveal your wealth. Keep a low profile."
+Zhang ZhengXiong immediately covered Lin Le's mouth: "Quiet. Don't reveal your wealth. Keep a low profile."
 
 Lin Le suddenly realised and fiercely nodded his head. He looked left and right like a frightened squirrel and carefully put away his axe.
 
 "My turn." Zhang ZhengXiong let go of Lin Le. He opened his gift box and a book appeared in his hand.
 
-‘The Gluttonous King, Dodola’s Cooking for Dummies’: Learn the cooking, harvesting, and identifying skills. Requirements: Intelligence 10.
+'The Gluttonous King, Dodola's Cooking for Dummies': Learn the cooking, harvesting, and identifying skills. Requirements: Intelligence 10.
 
 PS: These are a part of the notes left behind by the famous cook, Dodola.
 
@@ -52,23 +53,23 @@ PS: These are a part of the notes left behind by the famous cook, Dodola.
 
 "5"
 
-"Brother Lil’Xiong?"
+"Brother Lil'Xiong?"
 
 "5"
 
 "...looks like only I can learn it." Ye Cang sighed and used the book.
 
-"Congratulation, you’ve obtained a profession. Unique cooking. Identify food items. Harvest food items."
+"Congratulation, you've obtained a profession. Unique cooking. Identify food items. Harvest food items."
 
 Ye Cang sighed. At least it was better than nothing. Culinary arts... Hah... In the end, it all comes down to his box. "My turn."
 
-Under the curious eyes of the two, Ye Cang rubbed his hands together. He lifted his right hand and said: "Watch my divine hand at work! Divine tool! Appear! "
+Under the curious eyes of the two, Ye Cang rubbed his hands together. He lifted his right hand and said: "Watch my divine hand at work! Divine tool! Appear!"
 
 From the wooden box, a simple, twisted, withered branch emerged.
 
 "Feels mysterious." Lin Le said, full of curiosity.
 
-"Mm." Zhang ZhengXiong slowly nodded his head and looked at the branch in Ye Cang’s hand.
+"Mm." Zhang ZhengXiong slowly nodded his head and looked at the branch in Ye Cang's hand.
 
 Ye Cang unhurriedly raised it up and the three of them looked at the stats together. 
 
@@ -82,37 +83,37 @@ PS: This is only an ordinary dried up stick.
 
 Ye Cang snapped the stick in two. Veins could be seen throbbing on his forehead. He gnashed his teeth. "Damn system."
 
-"Bro, there’s a villager there that looks like he has a quest." The two looked over, attracted by Zhang ZhengXiong’s voice. A middle aged farmer called North was sitting on a pile of fodder, his face full of worry. Sure enough, it was the perfect example of a quest giver.
+"Bro, there's a villager there that looks like he has a quest." The two looked over, attracted by Zhang ZhengXiong's voice. A middle aged farmer called North was sitting on a pile of fodder, his face full of worry. Sure enough, it was the perfect example of a quest giver.
 
-"Uncle, what’s wrong? You look worried." The three of them jogged over.
+"Uncle, what's wrong? You look worried." The three of them jogged over.
 
-"Recently, without a sound, my farm became infested with slimes. They’re giving me a headache; ruining my pasture and injuring my chickens. Can you young men help me?" North sighed, holding his rake.
+"Recently, without a sound, my farm became infested with slimes. They're giving me a headache; ruining my pasture and injuring my chickens. Can you young men help me?" North sighed, holding his rake.
 
 The three of them all nodded their heads: "Uncle, leave it to us."
 
-"Your party has received the quest ‘The Cause of North’s Headache’. Quest: Kill 100 green slimes. Reward: unknown."
+"Your party has received the quest 'The Cause of North's Headache'. Quest: Kill 100 green slimes. Reward: unknown."
 
-"Ok then, I’ll trouble you." North got up and left carrying his rake. "I’ll be at the tavern drinking with Old Jack."
+"Ok then, I'll trouble you." North got up and left carrying his rake. "I'll be at the tavern drinking with Old Jack."
 
-"Bro, this should be quest chain." Zhang ZhengXiong said looking at North’s back.
+"Bro, this should be a quest chain." Zhang ZhengXiong said looking at North's back.
 
-"Mm, let’s go look at the farm." Ye Cang touched his eyebrows and mumbled. His gaze landed on a simple general store. "Let’s go look in there first. Everyone should have started with 10 copper. Give it all to me, let’s see what we can buy."
+"Mm, let's go look at the farm." Ye Cang touched his eyebrows and mumbled. His gaze landed on a simple general store. "Let's go look in there first. Everyone should have started with 10 copper. Give it all to me, let's see what we can buy."
 
 The three of them pooled their money, and quickly entered the general store. The store was disorderly, filled with second-hand tools. Behind the counter was a wrinkly old woman named Rica. "Welcome~."
 
 Ye Cang looked at the goods. Most of them were too expensive for the three of them. Especially the second-hand weapons, the cheapest was 50 copper. Since he could harvest his own ingredients, he bought a cheap iron pot for 15 copper, a low quality flint worth 5 copper that could be used 5 times and three portions of salt for 3 copper.
 
-"Let’s go. While most of the people haven’t come to kill slimes, let’s quickly finish this quest." Ye Cang brought the two people to North’s farm. They saw the half meter large, green, gelatinous creature with big watery eyes. So cute~ 
+"Let's go. While most of the people haven't come to kill slimes, let's quickly finish this quest." Ye Cang brought the two people to North's farm. They saw the half meter large, green, gelatinous creature with big watery eyes. So cute~ 
 
-A couple players walked out of North’s farm and saw Ye Cang and the others. They looked at them with a peculiar expression and sighed. "Another three dumb bastards came to kill the slimes. With these weapons and this health regeneration mechanic, it’s too much of a pain in the ass. Let’s go look at the other farms and fight other wildlife. This area is just a waste of time."
+A couple players walked out of North's farm and saw Ye Cang and the others. They looked at them with a peculiar expression and sighed. "Another three dumb bastards came to kill the slimes. With these weapons and this health regeneration mechanic, it's too much of a pain in the ass. Let's go look at the other farms and fight other wildlife. This area is just a waste of time."
 
-"Bro, why don’t you do attack?" Zhang ZhengXiong looked at Ye Cang who was firmly holding his sword looking at the slimes.
+"Bro, why don't you attack?" Zhang ZhengXiong looked at Ye Cang who was firmly holding his sword looking at the slimes.
 
 "Look at their puppy dog eyes. I... I..."  Ye Cang looked at the slime that was just one step away and sighed.
 
-"Shoo~" A green liquid squirted onto Ye Cang’s face.
+"Shoo~" A green liquid squirted onto Ye Cang's face.
 
-"My eyes! My eyes!!" Ye Cang rolled around on the ground. "You two still aren’t attacking it!? Fuck! It dares to attack my face!!"
+"My eyes! My eyes!!" Ye Cang rolled around on the ground. "You two still aren't attacking it!? Fuck! It dares to attack my face!!"
 
 "..." Zhang ZhengXiong and Lin Le were speechless.
 
@@ -120,14 +121,14 @@ Lin Le took a step, chopped with his axe. Over 20 damage was dealt. The slime fr
 
 Zhang ZhengXiong took the chance while the slime was down and chopped at it. 7 damage was dealt, finishing it off. Ye Cang crawled up, his white face was dyed green. "This one attack hit me for 15 damage over time. The greater half of my health."
 
-"They seem to only have about 30 health." Zhang ZhengXiong looked at the farm covered in slimes and couldn’t help wrinkling his brows. Killing 100 would be difficult and time consuming.
+"They seem to only have about 30 health." Zhang ZhengXiong looked at the farm covered in slimes and couldn't help wrinkling his brows. Killing 100 would be difficult and time consuming.
 
-"Brother Lil’White, your face..." Lin Le pointed at Ye Cang’s face wanting to laugh.
+"Brother Lil'White, your face..." Lin Le pointed at Ye Cang's face wanting to laugh.
 
 "Slap~!"
 
-A vein throbbed on Ye Cang’s forehead, he slapped the back of Lin Le’s head and roared: "No laughing!!"
+A vein throbbed on Ye Cang's forehead, he slapped the back of Lin Le's head and roared: "No laughing!!"
 
 "Oh..." Lin Le zipped his mouth shut.
 
-"Lele is responsible for attacking, Lil’Xiong will coordinate with and support him. These thing’s weakness should be their eyes." Ye Cang wiped his face, but couldn’t wipe it clean. He looked at a nearby slime, eyes filled with fury.
+"Lele is responsible for attacking, Lil'Xiong will coordinate with and support him. These thing's weakness should be their eyes." Ye Cang wiped his face, but couldn't wipe it clean. He looked at a nearby slime, eyes filled with fury.

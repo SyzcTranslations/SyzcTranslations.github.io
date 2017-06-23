@@ -79,7 +79,7 @@ Dragon Group (龙组)
 
 	Titles: 
 	  * Blue Scaled Pioneer (蓝鳞先驱者)
-	  * Really New Village’s Diplomat Hero (真新镇外交英雄)
+	  * Really New Village's Diplomat Hero (真新镇外交英雄)
 
 	Achievements:
 	  * Friend of the Fishmen
@@ -98,7 +98,7 @@ Dragon Group (龙组)
 	  * Heart of a Knight (游侠之心)
 	  * Knight's Mashup Spirit (游侠的强制混搭精神) +
 	  * Clever and Deft (心灵手巧) +
-	  * Azeroth’s Magic Proficiency (艾萨罗的法术精通)
+	  * Azeroth's Magic Proficiency (艾萨罗的法术精通)
 
 	Skills: 
 	  * Rapid Shot (急速秒射)
@@ -124,7 +124,7 @@ Dragon Group (龙组)
 
 	Class: Priest
 
-	Nicknames: A’Xiong, Brother Lil’Xiong, Shaking Bear
+	Nicknames: A'Xiong, Brother Lil'Xiong, Shaking Bear
 	  * Shaking bear: The chinese raw can mean both blackbear and coward. It's a combination of the character for dog (maybe cause he keeps hitting on the girls) and bear (sounds like Xiong from his name).
 
 	Profession:

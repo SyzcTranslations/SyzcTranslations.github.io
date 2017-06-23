@@ -3,20 +3,21 @@ layout: chapter
 title:  "Chapter 11"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 comments: true
 ---
 
 **Chapter 11: Mayor Mar**
 
-Ye Cang looked at the time and turned on the tv. "Lele wake up! It’ll be 3 soon, ‘Sisters’ is going to start."
+Ye Cang looked at the time and turned on the tv. "Lele wake up! It'll be 3 o'clock soon, 'Sisters' is going to start."
 
-"Recently, there have been multiple cases of human organ theft in LinHai city’s western district. The city guards and LinHai city’s general office are already investigating the case..." (News)  
+"Recently, there have been multiple cases of human organ theft in LinHai city's western district. The city guards and LinHai city's general office are already investigating the case..." (News)  
 
 "Western district? Nothing to do with me..." Ye Cang played with his eyebrows and murmured. He shrugged and changed the channel. Lin Le peacefully awoke: "Is it starting?"
 
 "Just in time." Ye Cang replied.
 
-"Last episode, A’Suo discovered that her boyfriend A’Xiong was having an affair with her older sister A’Duo. What will she do!? Will she scar A’Duo face with her bare hands, will she use sulphuric acid, or will she be unable to take it and choose suicide. Maybe her womanly fury will drive her to crush her boyfriend A’Xiong’s balls. Watch to find out."
+"Last episode, A'Suo discovered that her boyfriend A'Xiong was having an affair with her older sister A'Duo. What will she do!? Will she scar A'Duo's face with her bare hands, will she use sulphuric acid, or will she be unable to take it and choose suicide? Maybe her womanly fury will drive her to crush her boyfriend A'Xiong's balls. Watch to find out."
 
 "This episode will definitely be brilliant..." Lin Le murmured with expectation.
 
@@ -24,17 +25,17 @@ Ye Cang slowly nodded.
 
 ...
 
-The three of them had returned to Conviction. As nouveau riche, they walked down the town’s market to see if they could find anything good. There were all kinds of shouts, most of them selling shoddy white weapons or some random shoddy equipment. The three of them used 2 silver to purchase some leather armor that they were still missing. A bit more defence was better than nothing. 
+The three of them had returned to Conviction. Like a nouveau riche, they walked up and down the town's market to see if they could find anything good. There were all kinds of shouts, most of them selling shoddy white weapons or some random shoddy equipment. The three of them used 2 silver to purchase some leather armor that they were still missing. A bit more defence was better than nothing. 
 
-"Bro, there’s nothing good to buy." Zhang ZhengXiong was a bit tired.
+"Bro, there's nothing good to buy." Zhang ZhengXiong was a bit tired.
 
-"Mm, let’s go back to leveling up. Right now, most players are staying around the outside of the forest. We can go a bit deeper in and see" Ye Cang said, with his hands clasped behind his back.
+"Mm, let's go back to leveling up. Right now, most players are staying around the outside of the forest. We can go a bit deeper in and see" Ye Cang said, with his hands clasped behind his back.
 
-"Brother Lil’White! Brother Lil’Xiong! Someone here is selling a shield!!" Lin Le voice came from nearby. The two raised their eyebrows. Shield! They quickly rushed to see it.
+"Brother Lil'White! Brother Lil'Xiong! Someone here is selling a shield!!" Lin Le voice came from nearby. The two raised their eyebrows. Shield! They quickly rushed to see it.
 
 Ye Cang looked at the man selling the shield. He was carrying an iron dagger and there was nothing special about him. The shield he was selling was a small round shield, the middle had a cross shaped decoration. 
 
-Trainee Priest’s Small Round Shield (Class Equipment - Fine)
+Trainee Priest's Small Round Shield (Class Equipment - Fine)
 
 Category: Shield
 
@@ -52,7 +53,7 @@ Minor Healing Light: Once used, immediately heal a target for 6 health. Cooldown
 
 "I need 20 silver." The man calmly said.
 
-Ye Cang thought a bit, and without bargaining handed over 20 silver. Completing the transaction, he looked at the man and said: "If you get anything good in the future, contact me." He sent a request to exchange contact information over. The man hesitated a bit then accepted the request. He didn’t say much before leaving.  
+Ye Cang thought a bit, and without bargaining handed over 20 silver. Completing the transaction, he looked at the man and said: "If you get anything good in the future, contact me." He sent a request to exchange contact information over. The man hesitated a bit then accepted the request. He didn't say much before leaving.  
 
 "SpyingBlade? Such a weird name..." Ye Cang saw the ID that appeared and thought to himself. He then handed the shield over to Zhang ZhengXiong who equipped it onto his back.
 
@@ -62,46 +63,46 @@ Ye Cang thought a bit, and without bargaining handed over 20 silver. Completing 
 
 "Brand new dragon slaying treasured sword, just 1 silver! Try holding it! I beg of you!!"
 
-Ye Cang repeatedly broke into cold sweat as they escaped the little village’s market.
+Ye Cang repeatedly broke into cold sweat as they escaped the little village's market.
 
-"Lele show me that knockoff something alchemy skill..." Ye Cang recalled Lele’s hidden class’ skill.
+"Lele show me that knockoff something alchemy skill..." Ye Cang recalled Lele's hidden class' skill.
 
 Knockoff Alchemy (Arms Dealer - Beginner Level): The dark side of alchemy.
 
-There was only two recipes: vial of inferior acid, knockoff small health potion.
+There were only two recipes: vial of inferior acid and knockoff small health potion.
 
 Vial of Inferior Acid: Throw at the target to cause 10 acid damage and will deal some damage over time.
 
-Knockoff Small Health Potion: Heal 15 health over 5 seconds. For a short time, can’t consume another one. Drug Resistance: 10 minutes.
+Knockoff Small Health Potion: Heal 15 health over 5 seconds. For a short time, can't consume another one. Drug Resistance: 10 minutes.
 
-Ye Cong looked at the required materials. They could make the vial of inferior acid. It required slime acid which they had a lot of, empty bottles which was easy to get, and salt which they also had a lot of. As for the knockoff small health potion’s Blood Restoring Grass, they should be able to find some in the forest. The three of them arrived at Rica’s general store to buy more empty bottles. Lin Le put the ingredients into a bottle and shook it like he was making a cocktail. In just a while, 10 bottles of inferior acid were produced. Ye Cang took 4 of them, Zhang ZhengXiong and Lin Le took 3 each.
+Ye Cong looked at the required materials. They could currently make the vial of inferior acid. It required slime acid which they had a lot of, empty bottles which was easy to get, and salt which they also had a lot of. As for the knockoff small health potion's Blood Restoring Grass, they should be able to find some in the forest. The three of them arrived at Rica's general store to buy more empty bottles. Lin Le put the ingredients into a bottle and shook it like he was making a cocktail. In just a while, 10 bottles of inferior acid were produced. Ye Cang took 4 of them, Zhang ZhengXiong and Lin Le took 3 each.
 
-"Oh right. I heard from Jesse that you killed a werewolf. If you have something to use as proof, you can go to mayor Mar’s place and claim the bounty..." Rica hadn’t even finished speaking, and the store’s bell gave a clear ring. Rica gave a bitter laugh. "Those three guys."
+"Oh right. I heard from Jesse that you killed a werewolf. If you have something to use as proof, you can go to mayor Mar's place and claim the bounty..." Rica hadn't even finished speaking, and the store's bell gave a clear ring. Rica gave a bitter laugh. "Those three guys."
 
-The three of them unrelentingly charged their way to the mayor’s office. A guard stopped them at the door. "What business do you have here?"
+The three of them unrelentingly charged their way to the mayor's office. A guard stopped them at the door. "What business do you have here?"
 
-"We killed a werewolf in the northern forest. We’re here for the bounty." Ye Cang’s words astonished the guards. With just the three of them? They sent someone in the check while the rest of them waited. The guard that returned nodded his head and let them through. "Mayor Mar is in the room on the right."
+"We killed a werewolf in the northern forest. We're here for the bounty." Ye Cang's words astonished the guards. With just the three of them? They sent someone in the check while the rest of them waited. The guard that returned nodded his head and let them through. "Mayor Mar is in the room on the right."
 
-The three of them entered the hall and arrived at the mayor’s office. A very spirited old man was sitting behind a desk full of documents looking at them. "Welcome, three brave warriors..."
+The three of them entered the hall and arrived at the mayor's office. A very spirited old man was sitting behind a desk full of documents looking at them. "Welcome, three brave warriors..."
 
 "Here is his head, and his skin, and some of his ribs, and his heart..." Ye Cang one by one, took out the materials he collected from the black werewolf Vyers. For the sake of the reward, they even roughly pieced the pieces together, trying to return them to their original state.
 
-Mar immediately covered his mouth, and vomited. These three were too disgusting. Seeing the wolf head, it was indeed Vyers! "Stop arranging it! Enough, Enough! We’ve already verified it!"
+Mar immediately covered his mouth, and vomited. These three were too disgusting. Seeing the wolf head, it was indeed Vyers! "Stop arranging it! Enough, Enough! We've already verified it!"
 
 "This... I have OCD..." Zhang ZhengXiong said embarrassed as he finished arranging the final piece. 
 
-"..." Mar was speechless. He kept a straight face and said: "You’ve proven your strength, here is your promised reward."
+"..." Mar was speechless. He kept a straight face and said: "You've proven your strength, here is your promised reward."
 
-"Congratulations, you’ve completed a hidden quest ‘Proof of Strength’. Fame in Really New Village has become respected. Obtained title - Really New Village Lieutenant, 300 experience, 3 gold." After reaching level 5, the required experience substantially increased. 300 experience only increased the progress bar by about 20%.
+"Congratulations, you've completed a hidden quest 'Proof of Strength'. Fame in Really New Village has become respected. Obtained title - Really New Village Lieutenant, 300 experience, 3 gold." After reaching level 5, the required experience substantially increased. 300 experience only increased the progress bar by about 20%.
 
-"From now on, you’re a member of Really New Village’s guard squadron. Although the black werewolves are a threat enshrouding Really New Village, the most pressing matter is to root out the south east Riley River’s blue scaled fishmen tribe. If they were to collude with the black werewolves... I don’t even want to image. I hope you can bring me their chief, Gil Rage's, head. Are you willing?" Mar said in a heavy tone.
+"From now on, you're a member of Really New Village's guard squadron. Although the black werewolves are a threat enshrouding Really New Village, the most pressing matter is to root out the south east Riley River's blue scaled fishmen tribe. If they were to collude with the black werewolves... I don't even want to image. I hope you can bring me their chief, Gil Rage's, head. Are you willing?" Mar said in a heavy tone.
 
 "Just us three?" Zhang ZhengXiong frowned. Ye Cang clasped his hands behind his back, waiting for a reply.
 
-"You’re now lieutenants. You can gather any volunteers. We can’t spare any of the garrisoned guards. You’ll have to depend on yourselves to find people. However, don’t bring too many, otherwise you’ll alert the enemy." Mar walked forwards, grabbing the three of them and whispered: "Last time, Gil Rage stole from me a night-luminescent pearl. I promised to gift it to my house’s madam."
+"You're now lieutenants. You can gather any volunteers. We can't spare any of the garrisoned guards. You'll have to depend on yourselves to find people. However, don't bring too many, otherwise you'll alert the enemy." Mar walked forwards, grabbing the three of them and whispered: "Last time, Gil Rage stole from me a night-luminescent pearl. I promised to gift it to my house's madam."
 
-"This old man already hasn’t slept in a bed for half a month. If this continues, I don’t think I can make it." Old Mar lifted his sleeve revealing a few scars. He then patted their shoulders and said: "Also, don’t let anyone know. Got it? I don’t care about the rest, just kill that blue scaled son of a bitch and bring back the night-luminescent pearl. There will be a big reward."
+"This old man already hasn't slept in a bed for half a month. If this continues, I don't think I can make it." Old Mar lifted his sleeve revealing a few scars. He then patted their shoulders and said: "Also, don't let anyone know. Got it? I don't care about the rest, just kill that blue scaled son of a bitch and bring back the night-luminescent pearl. There will be a big reward."
 
-"..." Ye Cang broke into cold sweat and repeatedly nodded his head. Zhang ZhengXiong looked suspiciously, he said so much just to use his office for personal matters and doesn’t want others to know. A fishman and a wolfman, there's no way they’ll get along..
+"..." Ye Cang broke into cold sweat and repeatedly nodded his head. Zhang ZhengXiong looked suspiciously at Mar, he said so much just to use his office for personal matters and doesn't want others to know. A fishman and a wolfman, there's no way they'll get along..
 
-"Congratulations, you’ve received a field isntance quest ‘Slay the Blue-Scaled Fishman Chief - Gil Rage' and hidden story quest ‘Take Back Mar’s Madam’s Night-Luminescent Pearl’. Instance allows a maximum of 8 people.’
+"Congratulations, you've received a field instance quest 'Slay the Blue-Scaled Fishman Chief - Gil Rage' and hidden story quest 'Retrieve Mar's Madam's Night-Luminescent Pearl'. Instance allows a maximum of 8 people.'
