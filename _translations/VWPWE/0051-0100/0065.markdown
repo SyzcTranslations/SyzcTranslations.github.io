@@ -66,7 +66,7 @@ Lin Le heard FrozenCloud’s shout, and quickly went to loot the boss. He pulled
  
 Ye Cang blanked out for a moment. A skillbook!? He quickly got up and grabbed everything. The clothes were covered in feathers, and the blade was a one handed blade that looked as light and graceful as a pinion. As for the skillbook, it was a spell - Blades of Wind.
  
-Blades of Wind (Rare - 2nd Rank - low level): After chanting four lines (over 3 seconds), shoot 4 wind blades at the target, each one dealing 15 damage. Spell power, intelligence, and wisdom increases the amount of blades and the damage of each. Cooldown: 30 seconds. Cost: 6 mana. Requirements: 20 intelligence.
+Blades of Wind (Rare - 2nd Rank - Beginner Level): After chanting four lines (over 3 seconds), shoot 4 wind blades at the target, each one dealing 15 damage. Spell power, intelligence, and wisdom increases the amount of blades and the damage of each. Cooldown: 30 seconds. Cost: 6 mana. Requirements: 20 intelligence.
  
 Monstrous Bird Boss's Feathery Clothes (Superior - Rare)
  

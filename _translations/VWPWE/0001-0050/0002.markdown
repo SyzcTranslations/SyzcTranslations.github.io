@@ -116,7 +116,7 @@ Racial Characteristics:
 
 Diplomatic (Human): Obtain +10% prestige. Raises social ability.
 
-Learned (Human): Every 10 levels, gain an additional talent.
+Learned (Human): Every 10 levels, gain an additional common talent point.
 
 Graceful (Dark Elf): + 1 Dexterity and another 1 every 5 levels. Gain + 1 with bows.
 

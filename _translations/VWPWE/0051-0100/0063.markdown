@@ -42,15 +42,15 @@ Lin Le slowly opened the box. "Brother Lil’White, Brother Lil’Xiong, Lil’D
  
 Ye Cang woke up from his madness. A lot of stuff!? The three of them quickly surrounded the box and looked at the things inside.
  
-Steal Spell (Rare - Low Level): Activate the moment an enemy would complete a spell. If successful, you take the spell and send it to another target of your choosing. If the new target isn’t decided within 2 seconds, receive backlash losing a portion of your health and mana. The rate of success is dependant on the timing, the alertness of your target, the strength of the spell, and your understanding of the magic. Cooldown: 5 minutes. Cost: 15 Mana. (Requirements: 30 Intelligence, 15 Wisdom. PS: The difficulty of this skill is very high, be careful.)
+Steal Spell (Rare - Beginner Level): Activate the moment an enemy would complete a spell. If successful, you take the spell and send it to another target of your choosing. If the new target isn’t decided within 2 seconds, receive backlash losing a portion of your health and mana. The rate of success is dependant on the timing, the alertness of your target, the strength of the spell, and your understanding of the magic. Cooldown: 5 minutes. Cost: 15 Mana. (Requirements: 30 Intelligence, 15 Wisdom. PS: The difficulty of this skill is very high, be careful.)
  
-Minor Healing Light (Low Level): Chant two lines (2 seconds), and heal the target for 10 health. Affected by Intelligence, Wisdom, and Spell Power. Requires a faith based class. Cooldown: 10 seconds. Cost: 4 mana. (Recommended class: priest, paladin, or any other faith based classes).
+Minor Healing Light (Beginner Level): Chant two lines (2 seconds), and heal the target for 10 health. Affected by Intelligence, Wisdom, and Spell Power. Requires a faith based class. Cooldown: 10 seconds. Cost: 4 mana. (Recommended class: priest, paladin, or any other faith based classes).
  
-Shouryuukenn (Low Level): Perform an uppercut against your target, dealing 175% damage with a chance to send the target airborne. Cost: 10 Rage and 15 Energy. Restricted to: Grappler, Knight.
+Shouryuukenn (Beginner Level): Perform an uppercut against your target, dealing 175% damage with a chance to send the target airborne. Cost: 10 Rage and 15 Energy. Restricted to: Grappler, Knight.
  
-Execute (Rare - Low Level): Perform a finishing strike on the target dealing 300% damage. Requires the target to be weakened, stunned, or confused. Using this skill will consume all your rage, increasing the damage by 1% for each point of rage consumed. (Additive with the 300% for a maximum of 400%). Cooldown: 5 minutes. (Requires a heavy weapon. Light weapons will only deal half the damage)
+Execute (Rare - Beginner Level): Perform a finishing strike on the target dealing 300% damage. Requires the target to be weakened, stunned, or confused. Using this skill will consume all your rage, increasing the damage by 1% for each point of rage consumed. (Additive with the 300% for a maximum of 400%). Cooldown: 5 minutes. (Requires a heavy weapon. Light weapons will only deal half the damage)
  
-Rapid Thrusts (Rare - Low Level): Perform 4 quick thrusts against a target, each dealing 55% damage. Cost: 20 energy. Cooldown: 1 minute.
+Rapid Thrusts (Rare - Beginner Level): Perform 4 quick thrusts against a target, each dealing 55% damage. Cost: 20 energy. Cooldown: 1 minute.
  
 Standard Knight’s Legplates (Masterwork - Standardized)
  

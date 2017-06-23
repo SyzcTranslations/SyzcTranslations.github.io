@@ -10,7 +10,7 @@ comments: true
  
 Ye Cang bought it without hesitation, spending 135 scales. He used the rest to buy a skillbook.
  
-Mirror Image (Rare - Low Level): After calling out the activation word in the fishman language (Instantaneous), leave behind a clone of yourself with 15% of your stats (Controlled by an intelligent AI) and enter a concealed state. Concealment lasts for 5 seconds, and will be cancelled upon attacking or being attacked. The clone exists for 5 seconds. Cooldown: 1 minute. Cost: 15 Energy and 5 Mana. (PS: This is the hero fish - Kilaris’ housekeeping skill)
+Mirror Image (Rare - Beginner Level): After calling out the activation word in the fishman language (Instantaneous), leave behind a clone of yourself with 15% of your stats (Controlled by an intelligent AI) and enter a concealed state. Concealment lasts for 5 seconds, and will be cancelled upon attacking or being attacked. The clone exists for 5 seconds. Cooldown: 1 minute. Cost: 15 Energy and 5 Mana. (PS: This is the hero fish - Kilaris’ housekeeping skill)
  
 This skillbook can only be exchanged to those with worshipped status, moreover this was the only copy. Like the figurine, it was an extremely rare item.
  
@@ -79,7 +79,7 @@ Ye Cang followed Mar into the great hall. There were only the three of them insi
  
 "Due to having reached ‘Legendary’ prestige with Really New Village, your racial skill: Diplomatic has become Diplomat (Obtain +25% prestige. Become more persuasive.)"
  
-"System Announcement! Due to the efforts of Really New Village’s Diplomat Heroes PaleSnow, as well as ThornyRose, HeavenShakingMight, HappyAndCheerful, FrozenBlood, FrozenCloud, SpyingBlade, and GreenDew, Really New Village has officially formed an alliance with the Blue Scaled Fishmen! All player’s obtain neutral prestige with the Blue Scaled Fishmen! If either Really New Village or the Blue Scaled Fishmen Tribe are attacked, player will receive wanted status with both factions!" A world-wide announcement played.
+"System Announcement! Due to the efforts of Really New Village’s Diplomat Heroes PaleSnow, as well as ThornyRose, HeavenShakingMight, HappyAndCheerful, FrozenBlood, FrozenCloud, SpyingBlade, and GreenDew, Really New Village has officially formed an alliance with the Blue Scaled Fishmen! All player’s obtain unfriendly prestige with the Blue Scaled Fishmen! If either Really New Village or the Blue Scaled Fishmen Tribe are attacked, player will receive wanted status with both factions!" A world-wide announcement played.
  
 The players immediately exploded in cheers. ThornyRose and the others also received a boost to their prestige and heard the announcement.
  

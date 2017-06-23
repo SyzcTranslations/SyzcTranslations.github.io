@@ -97,7 +97,7 @@ Dragon Group (龙组)
 	Talents: 
 	  * Heart of a Knight (游侠之心)
 	  * Knight's Mashup Spirit (游侠的强制混搭精神) +
-	  * Clever and Deft (心灵手巧)
+	  * Clever and Deft (心灵手巧) +
 	  * Azeroth’s Magic Proficiency (艾萨罗的法术精通)
 
 	Skills: 
@@ -142,8 +142,8 @@ Dragon Group (龙组)
 	  * Barbaric Tackle (野蛮冲撞)
 	  * Minor Healing Light (次级光愈术)
 	  * Aura of Protection (虔诚守护) +
-  	  * Heavy Chop (重斩)
-
+	  * Heavy Strike (重斩)
+	  * Berserk (怒火涌动)
 
 ---
 
@@ -168,7 +168,7 @@ Dragon Group (龙组)
 
 	Skills: 
 	  * Crossed Eyes (斗鸡眼)
-	  * Heavy Chop (重斩)
+	  * Heavy Strike (重斩)
 	  * Whirlwind Strike (旋刃重击) +
 	  * Handcart Home Run (手推车全垒打)
 	  * Leap (野蛮冲撞)
@@ -190,6 +190,7 @@ Dragon Group (龙组)
 	Skills: 
 	  * Lesser Wind Blade (小风刃)
 	  * Blades of Wind (多重风刃术) (Not Yet)
+	  * Rock Spikes (石尖柱) (Not Yet)
 
 ---
 
