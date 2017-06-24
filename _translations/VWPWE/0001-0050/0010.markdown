@@ -4,6 +4,7 @@ title:  "Chapter 10"
 category: "VWPWE"
 translator: "syzc"
 editor: "Tab"
+thanks1: "Super nature, FAiri110"
 comments: true
 ---
 

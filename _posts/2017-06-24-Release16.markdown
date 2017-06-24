@@ -1,0 +1,18 @@
+---
+layout: posts
+title:  "Virtual World: Peerless White Emperor Chapter 101 - 105"
+date:   2017-06-24 18:15:00
+comments: true
+---
+
+Hey Everyone,
+
+So I didn't notice that the comments were loaded using the URL. So minor changes in the URL could cause you to see a different set of comments. (This is due to me not configuring disqus correctly). This made it so the comments for the older chapters weren't showing up cause I changed the path. I've fixed my configurations and migrated all the old comments over to the new pages. I appologize if any of your comments are lost during this process or end up on the wrong page >.< I did it as carefully as I could.
+
+Anyways, here's a few more chapters.
+
+[Chapter 101][vwpwe0101]
+
+Enjoy!
+
+[vwpwe0101]: {{site.url}}/translations/vwpwe/0101.html

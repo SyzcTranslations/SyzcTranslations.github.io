@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 28"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 comments: true
 ---
 
@@ -64,11 +65,11 @@ ThornyRose looked into the distance, her arms crossed. Her fingers tapping on he
  
 She saw Ye Cang and the group walking out of the forest, wearing the smile of a victor. Especially Ye Cang who was indifferently smiling and waving at her like they were friends who haven't seen each other in a long time. All she could think about was chopping him to death. She charged like an enraged boar. "Not good." FrozenBlood thought. She rushed over to stop her. "ThornyRose, calm down! Calm down!"
  
-"I'm going to tear him apart! That bastard! Harmful pest!" ThornyRose roared still full of hostility.
+"I'm going to tear him apart! That bastard! Harmful pest!" ThornyRose roared, still full of hostility.
  
 "Think! Think! For the hidden story quest! Calm down! Calm... Down...!" Frozen quietly shouted.
  
-ThornyRose sobered up a bit. Zhang ZhengXiong and Lin Le looked her like they saw a demonic boar and decided to stand a bit further from Ye Cang, to avoid being dragged in.
+ThornyRose sobered up a bit. Zhang ZhengXiong and Lin Le looked at her like they saw a demonic boar and decided to stand a bit further from Ye Cang, to avoid being dragged in.
  
 "Brother Lil'White, Brother Lil'White. Act cute. Whenever A'Xin is unhappy, I'll always do it, and she'll cheer up." Lin Le whispered. Ye Cang thought for a bit, then slowly nodded. Lele's idea had some sense. He made a catlike gesture with his hands and let out a: "Meow~"
  
@@ -86,7 +87,7 @@ FrozenBlood sighed. They don't even know this? She slowly explained: "Because in
  
 Lin Le stroked his chin suddenly realising something and nodded. "So that's why..."
  
-"Then at that time, we'll gather back here." Ye Cang said, then looked at the time. It was 11:30 already. He slowly got up. "Let's prepared to log out then."
+"Then at that time, we'll gather back here." Ye Cang said, then looked at the time. It was 11:30 already. He slowly got up. "Let's prepare to log out then."
  
 Lin Le and Zhang ZhengXiong nodded.
  

@@ -4,6 +4,7 @@ title:  "Chapter 12"
 category: "VWPWE"
 translator: "syzc"
 editor: "Tab"
+thanks1: "ლ(´ڡ`ლ)"
 comments: true
 ---
 

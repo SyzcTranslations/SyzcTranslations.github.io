@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 25"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 comments: true
 ---
 
@@ -14,11 +15,11 @@ Slime Crystal: The body of a Crystal Slime. Edible.
  
 Slime's Crystal Eye: A beautiful and valuable crystal eye. There is probably a gem collector that would want it. Can be used for cooking after grinding into powder.
  
-ThornyRose really wanted to know just how many ingredients Ye Cang was carrying and what they were. His gathering skill was really too broad, from as small as a mushroom to as big as a boss' corpse, he could gather them all. Although Ye Cang's skill was just for obtaining food items, it was taught by Dodola, a legendary chef that had traveled the world. In his eyes, there is nothing that can't be eaten, only who to serve it to. For example, the customer was a monster that liked eating ores, Dodola was able to put together a delicious ore feast. 
+ThornyRose really wanted to know just how many ingredients Ye Cang was carrying and what they were. His gathering skill was really too broad, from as small as a mushroom to as big as a boss' corpse, he could gather them all. Although Ye Cang's skill was just for obtaining food items, it was taught by Dodola, a legendary chef that had traveled the world. In his eyes, there is nothing that can't be eaten, only who best to serve it to. For example, if the customer was a monster that liked eating ores, Dodola was able to put together a delicious ore feast. 
  
 The party passed by a passage and a bridge, making their way to the bottom. They started running into less and less monsters. On the way, Ye Cang gathered many Volcano Mushrooms and a few Iron Ore. Afterall, he wasn't a miner that could dig, he could only pick the ore that were on the surface.
  
-"A'Xiong, carry these slime gels and bat meats, my bag is filling up." Ye Cang reached into his back and dumped a pile to Zhang ZhengXiong.
+"A'Xiong, carry these slime gels and bat meats, my bag is filling up." Ye Cang reached into his bag and dumped a pile onto Zhang ZhengXiong.
  
 "Oh, well give them here..." Zhang ZhengXiong realized his bag was pretty much empty, besides some acid flasks and whatnot.
  
@@ -28,9 +29,9 @@ Ye Cang estimated the boss' length, and it was at least a terrifying 7 meters. I
  
 Lava Lamia - Curse (Demonic Elite - Rare): A dangerous lamia that lives near lava. Contains many valuable cooking materials.
  
-Ye Cang's words shocked everyone's. ThornyRose could barely see anything. Only Ye Cang could see so far. While she was waiting, she could faintly saw a figure by relying on the flickering lava, but it was very vague. So the Rune Stone they found should be for dealing with this guy. Looking around at the cracked ground, it seemed to be related to the boss' AOE fire attack. She drew her longsword. "Don't alert him. Let' look around inside first."
+Ye Cang's words shocked everyone's. ThornyRose could barely see anything. Only Ye Cang could see so far. While she was waiting, she could faintly see a figure by relying on the flickering lava, but it was very vague. So the Rune Stone they found should be for dealing with this guy. Looking around at the cracked ground, it seemed to be related to the boss' AOE fire attack. She drew her longsword. "Don't alert him. Let's look around inside first."
  
-The few of them carefully tread on the volcanic rock until they could finally see the boss. He looked like someone they really shouldn't be messing with. ThornyRose frowned, these humanoid creatures all have some intelligence and were usually strong. Just looking at that massive axe and his big and solid arms, it was obvious that his strength was considerably high. Further, her own fire damage probably wouldn't do anything to it.
+The few of them carefully tread on the volcanic rock until they could finally see the boss. He looked like someone they really shouldn't be messing with. ThornyRose frowned, these humanoid creatures all have some intelligence and were usually strong. Just looking at that massive axe and his big and solid arms, it was obvious that his strength was considerably high. Furthermore, her own fire damage probably wouldn't do anything to it.
  
 Everyone hid behind a stalagmite. Zhang ZhengXiong asked: "Bro, how do we handle it?"
  
@@ -62,7 +63,7 @@ FrozenBlood looked at the small bottle in her hand and thought: "This thing's no
  
 "Throw!" ThornyRose quietly shouted.
  
-6 acid flasks, Bang~, exploded on the lamia, Curse's body. He let out an angry howl, and roared in a language they they couldn't understand. His's whole body emitted corrosive green smoke. 
+6 acid flasks, Bang~, exploded on the lamia, Curse's body. He let out an angry howl, and roared in a language that they couldn't understand. His whole body emitted corrosive green smoke. 
  
 "He said something like: F\*\*king Son of a B\*\*\*h. Who was it!? Then it was just a chain of profanities." Ye Cang explained. Unexpectedly, he could understand it.
  
@@ -72,6 +73,6 @@ Saying that, the two of them charged over. FrozenBlood and Lin Le split up and r
  
 GreenDew shook her head without stopping her magic.
  
-Zhang ZhengXiong went right up to the creature's face, leaning his body to dodge the oversized axe's attack. He jumped, his machete hitting the creature in the face. ThornyRose activated flame strike, stabbing at the creature's chest, then quickly pulled it out and backed up. She smiled bitterly: "Looks like he's immune to fire damage."
+Zhang ZhengXiong went right up to the creature's face, leaning his body to dodge the oversized axe's attack. He jumped and hit the creature in the face with his machete. ThornyRose activated flame strike, stabbing at the creature's chest, then quickly pulled it out and backed up. She smiled bitterly: "Looks like he's immune to fire damage."
  
-Curse suddenly let go of his axe with one hand and the back of his hand slapped towards Zhang ZhengXiong. Zhang ZhengXiong quickly raised his shield and blocked. Although the damage was very small, the force was large enough to knock him to the ground. Curse used a single hand to lift the oversized axe preparing to chop down. At this time, an arrow accurately hit him in the corner of his eye, bringing about a spurt of dark blood. Lin Le's jump attack was also smashing down on his head from the side. Curse lifted his free arm to block Lin Le's attack.
+Curse suddenly let go of his axe with one hand and then sent a backhand slap towards Zhang ZhengXiong. Zhang ZhengXiong quickly raised his shield and blocked. Although the damage was very small, the force was large enough to knock him to the ground. Curse used a single hand to lift the oversized axe preparing to chop down. At this time, an arrow accurately hit him in the corner of his eye, bringing about a spurt of dark blood. Lin Le's jump attack was also smashing down on his head from the side. Curse lifted his free arm to block Lin Le's attack.

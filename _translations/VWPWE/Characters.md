@@ -112,6 +112,8 @@ Dragon Group (龙组)
 	  * Multiple Straight Thrusts (多重直刺)
 	  * Rapid Dash (急速突进)
 	  * Dashing Straight Thrust (直线冲刺)
+	  * Swift Retreat (急速逃脱)
+	  * Yak's Beast Taming Theory (耶奇的野兽驯化论)
  
 ---
 
@@ -143,7 +145,7 @@ Dragon Group (龙组)
 	  * Minor Healing Light (次级光愈术)
 	  * Aura of Protection (虔诚守护) +
 	  * Heavy Strike (重斩)
-	  * Berserk (怒火涌动)
+	  * Advanced Aura Mastery (深度光环掌握)
 
 ---
 
@@ -169,12 +171,13 @@ Dragon Group (龙组)
 	Skills: 
 	  * Crossed Eyes (斗鸡眼)
 	  * Heavy Strike (重斩)
+	  * Berserk (怒火涌动)
 	  * Whirlwind Strike (旋刃重击) +
 	  * Handcart Home Run (手推车全垒打)
 	  * Leap (野蛮冲撞)
 	  * Execute (斩首怒击)
 	  * Rising Slash (升龙斩)
-
+	  * Power of Money (金钱动力)
 ---
 
 <a name="wuna">Wu Na (吴娜)</a>

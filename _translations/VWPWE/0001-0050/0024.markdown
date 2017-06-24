@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 24"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 comments: true
 ---
 
@@ -96,7 +97,7 @@ ThornyRose saw the ring in Zhang ZhengXiong's hand turn into a glowing crystal r
  
 Zhang ZhengXiong glanced towards Ye Cang who didn't say anything so, rubbing his hands together and immediately equipped them both. "Sister Rose, thanks for your consideration."
  
-Equipping them items, Zhang ZhengXiong took another step towards becoming a powerful tank, although he was a priest.
+Equipping the items, Zhang ZhengXiong took another step towards becoming a powerful tank, although he was a priest.
  
 FrozenBlood didn't understand. Their main tank was unexpectedly a priest. Also, that ring was way too useful, even she felt some longing for it. However even if it didn't go to her, it was fine. Afterall, everyone was in the same boat. The most important part was the hidden story quest. Although they hadn't been together for long, but they were convinced of their characters. It was only their common sense that was lacking. ThornyRose also thought so.
  
@@ -112,7 +113,7 @@ Before he could finish, a light flashed.
  
 Zhang ZhengXiong and Ye Cang roared at the same time. "My eyes! Aaah~! Lele!!!"
  
-"It wasn't on purpose. I just wanted to give it a try..." Lin Le weekly said feeling wronged.
+"It wasn't on purpose. I just wanted to give it a try..." Lin Le weakly said feeling wronged.
  
 "..." ThornyRose facepalmed.
  
