@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 38"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 comments: true
 ---
 
@@ -16,7 +17,7 @@ ThornyRose nodded without saying a word. It's not bad, although not as good as a
  
 Ye Cang began harvesting the materials. He got: Blue Scaled Fishman Foam, Blue Scaled Fishman Meat, Blue Scaled Fishman Eyes, Blue Scaled Fishman Scale, and the Elder Shaman dropped an extra walnut sized monster core.
  
-Small Monster Core: A crystal the forms in creatures that know magic. It possesses mana. Can be added to cooking after grinding into powder. (PS: Be careful, it's poisonous in large quantities~)
+Small Monster Core: A crystal that forms in creatures that know magic. It possesses mana. Can be added to cooking after grinding it into powder. (PS: Be careful, it's poisonous in large quantities~)
  
 SpyingBlade raised his eyebrows surprised. A gathering skill?
  
@@ -34,7 +35,7 @@ ThornyRose curiously walked up to have a look. She picked up the piece of seawee
  
 SpyingBlade pointed at the big stone near the first group of fishmen. "There's a small recess over there. There are often chests hidden in places like that."
  
-The moment Ye Cang heard it, his right foot kicked off the ground and he dashed. "Not good!" ThornyRose thought. "This bastard is going to get it!" She quickly tackled him over and straddled him sitting on his butt. It could be considered fairly intimate contact. "Lele, open the chest!"
+The moment Ye Cang heard it, his right foot kicked off the ground and he dashed. "Not good!" ThornyRose thought. "This bastard is going to get it!" She quickly tackled him over and straddled him. She ended up sitting on his butt. It could be considered fairly intimate contact. "Lele, open the chest!"
  
 "Mm..." Lin Le nodded and jogged over with his big axe.
  
@@ -44,15 +45,15 @@ Zhang ZhengXiong sighed and thought: "My job has been stolen by Sister Rose. Hah
  
 "Get lost!" GreenDew glared at him ferociously. FrozenBlood found it both humorous and sad, this Shaking Bear... She turned to look at ThornyRose and Ye Cang and couldn't hold back her smile...
  
-"Release me! Treasure chest! My treasure chest!!" Ye Cang crawled forwards like a zombie, wanting to get to the chest. ThornyRose felt his madness and perseverance, and firmly suppressed him. Ye Cang then angrily rolled over, but when he did so, thing's became awkward. Lin Le looked back, but didn't dare look straight at it. Everyone felt that they it was a bit too inappropriate.
+"Release me! Treasure chest! My treasure chest!!" Ye Cang crawled forwards like a zombie, wanting to get to the chest. ThornyRose felt his madness and perseverance, and firmly suppressed him. Ye Cang then angrily rolled over, but when he did so, things became awkward. Lin Le looked back, but didn't dare look straight at them. Everyone else felt that it was a bit too inappropriate.
  
 "My bro sure is amazing, jumping past first base, second base, third base and now he's reached home. But it was a bit too wild doing it out here..." Zhang ZhengXiong looked at their position and felt both sorrow and reverence.
  
-FrozenBlood and GreenDew nodded unconsciously. Just how fated were these two.
+FrozenBlood and GreenDew nodded unconsciously. Just how fated were these two?
  
 "Wow, Sister Rose you're so open. And here I thought you and my sister were lesbian..." FrozenCloud mumbled.
  
-"Time's sure have changed, hah... the hypocrisy of the world." SpyingBlade sighed as he looked at the river, disappointed. 
+"Times sure have changed, hah... the hypocrisy of the world." SpyingBlade sighed as he looked at the river, disappointed. 
  
 As for the people involved, ThornyRose froze. Ye Cang also froze. The two looked at each other. Ye Cang looked a bit embarrassed, he wiggled his waist to remind her. "Still not getting up!!"
  
@@ -60,16 +61,16 @@ ThornyRose felt movement down there and snapped out of her daze. She blushed so 
  
 "Oh, Sister Rose, Brother Lil'White, the chest had 5 gold and a skillbook. Let me see... Double Strike" Lin Le opened the chest and shouted.
  
-Double Strike (Common - Beginner Level): Quickly launch two attacks, each dealing 75% damage. Each hit can trigger an on hit effects. Cost: 10 Rage or 10 Energy. Cooldown: 15 seconds.
+Double Strike (Common - Beginner Level): Quickly launch two attacks, each dealing 75% damage. Each hit can trigger on hit effects. Cost: 10 Rage or 10 Energy. Cooldown: 15 seconds.
  
 ThornyRose, FrozenBlood, SpyingBlade and FrozenCloud were all excited. Whether it's the gold or the skill, if it were some other game, it would be trash and thrown to rot somewhere, but  here, it could even be more useful than some rare skills. It was one of the essential skills for any close combat class. In this party, only GreenDew wouldn't want it.  
  
-ThornyRose frowned, there would be a lot for competition for this book. Although it might not be useful in the future, but in the current stage of the game, it would be a big boost. It's cooldown was not long, it's damage was pretty good, and it's cost could be considered low. Whether it's using rage or energy, it was very practical. And for example, if she used it together with her swords Flame Strike, it would deal a massive amount damage.  
+ThornyRose frowned, there would be a lot of competition for this book. Although it might not be useful in the future, but in the current stage of the game, it would be a big boost. It's cooldown was not long, it's damage was pretty good, and it's cost could be considered low. Whether it's using rage or energy, it was very practical. For example, if she used it together with her swords Flame Strike, it would deal a massive amount damage.  
  
-Everyone had different thoughts. Ye Cang didn't actually want it that much. He was both melee and ranged. Give him some distance and he'll shower you with arrows using rapid shot. Once in melee, he had straight thrust. However, it wouldn't hurt to have more.
+Everyone had different thoughts. Ye Cang didn't actually want it that much. He was both a melee and ranged attacker. Give him some distance and he'll shower you with arrows using rapid shot. Once in melee, he had straight thrust. However, it wouldn't hurt to have more.
  
-FrozenBlood thought that she currently had too few skills, and this was something she could use. But if they didn't roll for it, it would be most effective to give it to Lin Le, after that would be Sister Rose. Lin Le's attack was definitely the strongest, there was no room for dispute. If he were to get this skill, along with the new skill he just got, his berserk ability and his amazing weapon. His damage would definitely be unbeatable at this stage in the game.
+FrozenBlood thought that she currently had too few skills, and this was something she could use. But if they didn't roll for it, it would be most effective to give it to Lin Le, after that would be Sister Rose. Lin Le's attack was definitely the strongest, there was no room for dispute. If he were to get this skill, combined with the new skill he just got, his berserk ability and his amazing weapon, then his damage would definitely be unbeatable at this stage in the game.
  
-Theoretically, heavy weapon users should deal the most damage. Although they had their own drawbacks like speed, but if used skillfully, it would have great effects. The once proclaimed strongest in the world, the fearless war god - Solas Angelite was that kind of terrifying guy. The countless battles he's been in are now classics, but the most famous was his battle at the world finals. His teammates weren't careful and fell into a trap, all eliminated. He was the only one left. It was like he was facing a mountain, but he didn't feel discouraged whatsoever. He arrogantly raised his signature gigantic warhammer and smiled with disdain.
+Theoretically, heavy weapon users should deal the most damage. Although they had their own drawbacks like speed, but if used skillfully, it would have great effects. The once proclaimed strongest in the world, the fearless war god - Solas Angelite was that kind of terrifying guy. The countless battles he's been in are now classics, but the most famous was his battle at the world finals. His teammates weren't careful and fell into a trap. They were all eliminated. He was the only one left. It was like he was facing a mountain, but he didn't feel discouraged whatsoever. He arrogantly raised his signature gigantic warhammer and smiled with disdain.
  
-6 athletes at the peak of their country were fighting this one guy, and they were all ruthlessly steamrolled. The last one standing was a man who made others shiver in fear of his imposing presence and that peerless god-like power. Even now, just looking at pictures of that moment would make one's whole body feel numb. For those who encounter his attack, they only have two choices: Dodge and die later or die now. His life was now a legend, receiving the fame and glory of an emperor. To this day, in England's gamer alliance headquarter's public square, players could still look up and see the sculpture of him holding his axe high.
+Six athletes at the peak of their country were fighting this one guy, and they were all ruthlessly steamrolled. The last one standing was a man who made others shiver in fear because of his imposing presence and that peerless god-like power. Even now, just looking at pictures of that moment would make one's whole body feel numb. For those who encounter his attack, they only have two choices: Dodge and die later or die now. His life was now a legend, receiving the fame and glory of an emperor. To this day, in England's gamer alliance headquarter's public square, players could still look up and see the sculpture of him holding his axe high.

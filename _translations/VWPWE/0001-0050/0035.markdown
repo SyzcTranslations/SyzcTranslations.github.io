@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 35"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 comments: true
 ---
 
@@ -10,7 +11,7 @@ comments: true
  
 They arrived at the edge of the south-east forest, and walked along the river. Riley River was considered a medium sized river, so there were a few small islands in the middle, and it was fairly rapid. Everyone stayed as far as possible from the shore to avoid the fishmen.
  
-"Lil'Dino, what kind of class is a grappler...?" Lin Le asked raising his enormous axe. His ahoge wagged like a tail.
+"Lil'Dino, what kind of class is a grappler...?" Lin Le asked, raising his enormous axe. His ahoge wagged like a tail.
  
 "You'll see in the next battle. Grapplers are considered both attackers and defenders. Different preferences lead to different playstyles. I'm a balanced attacker/defender that puts equal points in strength and constitution, and can take the off-tank position in a party." FrozenCloud replied.
  
@@ -42,15 +43,15 @@ The fishmen sensed some activity nearby. They were alerted and looked over, but 
  
 Zhang ZhengXiong raised his eyebrows surprised. This Lil'Dino was quite talented. Originally when he was picking classes, he hesitated for a bit on the grappler, but he figured that a small team needed a priest, so he decisively chose priest. Although he didn't know much about virtual reality games, he did have some common sense. He knew that a priest was supposed to be a class that assisted others (Support). However, he never played like he was a priest. He laughed as he used his crystal shield and the force of his charge to block 4 fishmen. His expression proud and unyielding, feeling not the least bit of pressure. He was like a small mountain.
  
-Every time ThornyRose saw Zheng ZhengXiong tanking like a mountain, but with agility and reflexes like an assassin, she would think about how strong he'd be if he was a fighter or grappler. Even in the four big guilds, he'd be among the best. Too bad he was a priest, just what was he thinking? She felt a touch of pity, he was both a dumbass and a genius. PaleSnow too, with such accurate and rapid shooting, and that amazing field awareness, he didn't play as a hunter. Instead he was a knight, a class that made 9 out of 10 people who tried it delete their characters. As for Lin Le, although a bit slow and weak minded, and his skills are a bit rough, but he was pretty consistent in battle and often performed these weird attacks, not to mention his luck is unnaturally good and that he had a hidden class.  
+Every time ThornyRose saw Zheng ZhengXiong tanking like a mountain, but with agility and reflexes like an assassin, she would think about how strong he'd be if he was a fighter or grappler. Even in the four big guilds, he'd be among the best. Too bad he was a priest, just what was he thinking? She felt a touch of pity, he was both a dumbass and a genius. PaleSnow too, with such accurate and rapid shooting, and that amazing field awareness, he didn't play as a hunter. Instead he was a knight, a class that made 9 out of 10 people who tried it delete their characters. As for Lin Le, although a bit slow and weak minded, and his skills are a bit rough, but he was pretty consistent in battle and often performed these weird attacks. Not to mention his luck is unnaturally good and that he had a hidden class.  
  
-SpyingBlade was also astonished by the oppressive aura Zhang ZhengXiong released as he tanked. Although ThornyRose also had an aura, but she accelled more in technique and socializing. This guy's oppressive aura was especially unyielding. As for technique, no one could compare to himself. Just as the chaos of battle started, he jumped off a mossy stone and pounced on the shaman who was in the middle of casting a spell, tangling them together.
+SpyingBlade was also astonished by the oppressive aura Zhang ZhengXiong released as he tanked. Although ThornyRose also had an aura, but she excelled more in technique and socializing. This guy's oppressive aura was especially unyielding. As for technique, no one could compare to himself. Just as the chaos of battle started, he jumped off a mossy stone and pounced on the shaman who was in the middle of casting a spell, tangling them together.
  
-FrozenBlood who was hiding behind Thornyrose, charged towards the fishman sage. Lin Le let out a battle cry and charged into the middle of ThornyRose, Zhang Zhengxiong and FrozenCloud. He slammed his axe into the ground activating it's ability. A flame attack appeared, and most of the 10 or so fishmen were hit by the attack, falling over. He then raised his axe and executed the nearest fishman, sending it's head flying.
+FrozenBlood who was hiding behind ThornyRose, charged towards the fishman sage. Lin Le let out a battle cry and charged into the middle of ThornyRose, Zhang Zhengxiong and FrozenCloud. He slammed his axe into the ground activating it's ability. A flame attack appeared, and most of the 10 or so fishmen were hit by the attack, falling over. He then raised his axe and executed the nearest fishman, sending it's head flying.
  
 GreenDew shouted and four magic missiles shot out. They went directly for the fishman sage that FrozenBlood was keeping busy.
  
-Ye Cang brandished his two-handed sword and attacked a fishman fighter. His sword flashed, as it stabbed through the head of a fishman that was trying to leave. Without stopping, he slashed at the fishmen around him that were still regaining their balance. He saw SpyingBlade, who was keeping the shaman busy. He took out his bow, readied an arrow, aimed, and shot; all in one smooth motion. In a flash, the arrow stabbed into it's frog-like eyes causing it to wail out in pain. Taking advantage of this opportunity, SpyingBlade's dagger stabbed towards it's heart. The knife blade stabbed three times before stopping. He turned and looked at Ye Cang who was standing 10 meters away. Such a fast attack.
+Ye Cang brandished his two-handed sword and attacked a fishman fighter. His sword flashed, as it stabbed through the head of a fishman that was trying to leave. Without stopping, he slashed at the fishmen around him that were still regaining their balance. He saw SpyingBlade, who was keeping the shaman busy. He took out his bow, readied an arrow, aimed and shot; all in one smooth motion. In a flash, the arrow stabbed into it's frog-like eyes causing it to wail out in pain. Taking advantage of this opportunity, SpyingBlade's dagger stabbed towards it's heart. The knife blade stabbed three times before stopping. He turned and looked at Ye Cang who was standing 10 meters away. Such a fast attack.
  
 FrozenCloud sidestepped and suddenly leaned her shoulder and attacked, hitting the monster to her left. To her right, she heard an explosion as Lin Le's enormous axe chopped down at another monster. Lin Le pouted and raised his axe to chop down again, splitting the creature into two. It was like he was chopping fruits and vegetables, but every attack was devastating. FrozenCloud then saw Zhang ZhengXiong skillfully playing around with a couple fishmen. Now she understood why Sister Rose would put up with these guys to complete a hidden story quest. 
  
@@ -62,7 +63,7 @@ Everyone retreated to the shore. Zhang ZhengXiong had his back to a rock and sai
  
 FrozenCloud was confused. Although Lin Le had an aoe knockdown, it wouldn't be able to hold them back for long. What else did they have up their sleeves?
  
-"I'll restrict..." Ye Cang stopped talking midsentence. He could see further than the others. He saw that one of the shamans was bigger than the rest. Identify!
+"I'll restrict..." Ye Cang stopped talking mid sentence. He could see further than the others. He saw that one of the shamans was bigger than the rest. Identify!
  
 Blue Scaled Elder Shaman - Bartolia (Rare Elite)
  
