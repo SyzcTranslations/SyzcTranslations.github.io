@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 54"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 comments: true
 ---
 
@@ -16,11 +17,11 @@ Ye Cang also slowly drew his two-handed sword. Friendly fire was too likely in t
  
 FrozenBlood felt her body give off a danger signal. It was the sixth sense she'd obtained after many years of training and it was very accurate. She quickly rolled to the side.
  
-The moment she rolled, everyone heart a Bang~ Clatter~ from above them. A huge wolf hand tore through the ceiling and grabbing at the place FrozenBlood had just escaped from. If she didn't have her sixth sense, she would have been plucked by her head. SpyingBlade quickly estimated, looking at that solid but slender arm, that this werewolf was at least twice as big as the others. 
+The moment she rolled, everyone heard a Bang~ Clatter~ from above them. A huge wolf hand tore through the ceiling and grabbed at the place FrozenBlood had just escaped from. If she didn't have her sixth sense, she would have been plucked by her head. SpyingBlade quickly estimated, looking at that solid but slender arm, that this werewolf was at least twice as big as the others. 
  
 Lin Le faced the arm and chopped at it with his heavy axe causing a burst of blood. The people nearby also took this chance to launch an attack, causing quite a bit of damage to the arm. A bestial cry of pain could be heard upstairs. It quickly pulled its arm back.
  
-After attacking, ThornyRose saw it pull back it's arm and she quickly retreated from the hole in the ceiling and shouted: "Spread out! It should be coming down now!" 
+After attacking, ThornyRose saw it pull back its arm and she quickly retreated from the hole in the ceiling and shouted: "Spread out! It should be coming down now!" 
  
 Everyone retreated and looked around, especially at the hole in the ceiling.
  
@@ -32,13 +33,13 @@ Zhang ZhengXiong shouted out vigorously and directly rushed over. His crystal sh
  
 The 8 people formed a circle and faced Tayce and they simultaneously began attacking violently. ThornyRose charged in to fill Zhang ZhengXiong's spot. Her sword set ablaze and slashed forwards. FrozenCloud was on her right side analyzing Tayce's movements, planning to counter him. FrozenBlood, SpyingBlade, and Ye Cang also started their attacks. On the other side, GreenDew had already started casting magic missile.
  
-Tayce stopped ThornyRose's burning slash with it's bare hand. It's other hand grabbed towards FrozenBlood. FrozenBlood slightly leaned her body, causing it to miss. Her daggers stabbed into it's waist. SpyingBlade circled around it and leapt, activating his hooked saber's ability. A ferocious stab pierced into the back of it's neck. Ye Cang charged over with big steps before suddenly stopping. His dark red sword thrust forwards like a flash, piercing into it's throat and instantly pulling out, bringing with it a fountain of blood. All these attacks cause it to howl in pain and anger. Lin Le had also left a bloody scar on it's chest. 
+Tayce stopped ThornyRose's burning slash with it's bare hand. Its other hand grabbed towards FrozenBlood. FrozenBlood slightly leaned her body, causing it to miss. Her daggers stabbed into it's waist. SpyingBlade circled around it and leapt, activating his hooked saber's ability. A ferocious stab pierced into the back of it's neck. Ye Cang charged over with big steps before suddenly stopping. His dark red sword thrust forwards like a flash, piercing into it's throat and instantly pulling out, bringing with it a fountain of blood. All these attacks caused it to howl in pain and anger. Lin Le had also left a bloody scar on it's chest. 
  
 Zhang ZhengXiong also leapt back in at this time. His warhammer swung out twice, beating on it's forehead. The sound of cracking bones could be heard. He then activated his hammer's ability, stunning it. GreenDew's magic missile arrived and smashed into it's chest. She waved her wand and a wind blade quickly followed. Then the pages on her apprentice's tome flipped and countless icicles shot forwards. All of them hit accurately. SpyingBlade raised his eyebrows impressed. This chain of magic had a really good rhythm, it wasn't rushed or too slow.
  
-Having suffered so much beating, Tayce couldn't stop screaming in pain. It let out a terrifying howl that echoed off the basement walls, further amplifying it. Everyone felt a burst of dizziness. Zhang ZhengXiong was a bit better off, since he added mostly Constitution. His ability to resist was the best in the party, but he still felt a bit weakened. Who knew the boss still had a crowd control skill, and it actually became stronger in this environment.
+Having suffered so much damage, Tayce couldn't stop screaming in pain. It let out a terrifying howl that echoed off the basement walls, further amplifying it. Everyone felt a burst of dizziness. Zhang ZhengXiong was a bit better off, since he added mostly Constitution. His ability to resist was the best in the party, but he still felt a bit weakened. Who knew the boss still had a crowd control skill, and it actually became stronger in this environment.
  
-A cold light flashed in it's eyes and it's claws attacked repeatedly. FrozenBlood, SpyingBlade, Ye Cang and Lin Le all barely managed to block it, but they were still sent flying like kites that had their strings cut. They had lost most of their health from that one blow. ThornyRose grit her teeth and stabbed towards its chest with her longsword. Looking at the back hand blow coming towards her, she raised her shield at an angle and was sent flying upwards. She landed, regained her balance, and readied her shield again. GreenDew's spell had been interrupted, and while the roar still echoed through the room, she was unable to concentrate enough to begin casting again.
+A cold light flashed in its eyes and its claws attacked repeatedly. FrozenBlood, SpyingBlade, Ye Cang and Lin Le all barely managed to block it, but they were still sent flying like kites that had their strings cut. They had lost most of their health from that one blow. ThornyRose grit her teeth and stabbed towards its chest with her longsword. Looking at the back hand blow coming towards her, she raised her shield at an angle and was sent flying upwards. She landed, regained her balance, and readied her shield again. GreenDew's spell had been interrupted, and while the roar still echoed through the room, she was unable to concentrate enough to begin casting again.
  
 Tayce huffed and fixed its sight on the distant GreenDew. That Mage has to die! It started making it's way over while swinging it's two claws. Zhang ZhengXiong quickly blocked it but was knocked away. At the same time, he activated his ring's ability. A light flashed. It was also affected by the environment and looked especially dazzling in this dark basement. Tayce wailed, covering it's stinging eyes, it's vision covered in white.
  
@@ -48,7 +49,7 @@ Everyone saw Tayce freeze as it was about to hit Lin Le, it's two red eyes full 
  
 "Everyone stop attacking. On my count!" Ye Cang said and switched places with Lin Le.
  
-"So it turned out that this skill was Lele's" the others thought. It was even a mental gaze type, as it seemed to require eye-contact. Such a rare skill. If his opponents don't look in his eyes, they would lose quite a bit of battle power because wisdom alone isn't enough to tell intent. Alot can be gleaned from the opponents expressions through their eyes.
+"So it turned out that this skill was Lele's" the others thought. It was even a mental gaze type, as it seemed to require eye-contact. Such a rare skill. If his opponents don't look in his eyes, they would lose quite a bit of battle power because wisdom alone isn't enough to tell intent. A lot can be gleaned from the opponents expressions through their eyes.
  
 Ye Cang saw that everyone was about ready. GreenDew's spell was also about to be cast. He started counting: "3, 2, 1!"
  

@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 52"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 comments: true
 ---
 
@@ -14,7 +15,7 @@ Ye Cang indifferently nodded: "Mm, we just found out too. Since everyone is here
  
 ThornyRose watched Ye Cang brush over the subject while looking all serious. She sighed and didn't add anything.
  
-Ye Cang brought everyone on the familiar route and arrived at the enormous holy oak tree. ThornyRose looked up at the enormous tree lit up by the morning sun. Under the tree, there were many wild animals, such as spotted deers, resting. She thought it over, and realised that no one had come here before. Just how did these three know about this place? However they found it, it was definitely not by chance.
+Ye Cang brought everyone on the familiar route and arrived at the enormous holy oak tree. ThornyRose looked up at the enormous tree lit up by the morning sun. Under the tree there were many wild animals, such as spotted deers, resting. She thought it over, and realised that no one had come here before. Just how did these three know about this place? However they found it, it was definitely not by chance.
  
 "In the past, we fought an elite black werewolf here, so I thought that there would be more of them around." Ye Cang said and everyone nodded. SpyingBlade spent some time examining the surroundings. He looked at the leaves on the ground and pointed to the northwest. "The leaves in this direction are different than the rest, like they're often stepped on." He moved the leaves and looked at the footprint underneath. It was similar but different from a wolf's, clearly belonging to werewolves. He followed the footprints, sweeping the leaves out of the way and became sure. "Let's go, it should be this way. The footprints are fairly fresh. Follow me."
 
@@ -22,13 +23,13 @@ ThornyRose nodded. SpyingBlade was a famous lone wolf, so he was proficient in s
  
 They started moving further and further away from the holy oak and noticed the surrounding forest was slowly changing. The trees were more withered and twisted, and there was a layer of fog covering the ground.
  
-"The fog is becoming thicker. Everyone stay close, don't wander too far." SpyingBlade said as he backed up. Everyone stuck together, alert. Ye Cang frowned and put away his bow, instead taking out his two handed sword. This sort of environment wasn't ideal for ranged attackers, he would also more likely to hit allies by accident.
+"The fog is becoming thicker. Everyone stay close, don't wander too far." SpyingBlade said as he backed up. Everyone stuck together, alert. Ye Cang frowned and put away his bow, instead taking out his two handed sword. This sort of environment wasn't ideal for ranged attackers, he would also be more likely to hit allies by accident.
  
-SpyingBlade was like a hunting hound. Every few steps, he would examine the ground like he was sniffing it, then he'd think a bit before continuing. This time, they turned right. Because of the bad visibility, everyone stuck closely together. They felt like they were traveling a maze. But to someone like SpyingBlade, this was nothing. He explored labyrinths, forests, sinkholes, etc all the time by himself in search of treasure. Although FrozenBlood's scouting ability wasn't as high has SpyingBlades, but she was very good at remembering directions. As for scouting, Thorns and Roses had The Hundred Blooming Archer - ElegantFragrance. 
+SpyingBlade was like a hunting hound. Every few steps, he would examine the ground like he was sniffing it, then he'd think a bit before continuing. This time, they turned right. Because of the bad visibility, everyone stuck closely together. They felt like they were traveling in a maze. But to someone like SpyingBlade, this was nothing. He explored labyrinths, forests, sinkholes, etc all the time by himself in search of treasure. Although FrozenBlood's scouting ability wasn't as high as SpyingBlades, but she was very good at remembering directions. As for scouting, Thorns and Roses had The Hundred Blooming Archer - ElegantFragrance. 
  
 As for Ye Cang's group, they didn't really have any worries. It was fine as long as they followed closely.
  
-It sounded like the trees were weeping as the wind blewing past them. It made everyone feel a little bit frightened. Lin Le pulled on Ye Cang's sleeve. "Brother Lil'White, what's that sound?"
+It sounded like the trees were weeping as the wind blew past them. It made everyone feel a little bit frightened. Lin Le pulled on Ye Cang's sleeve. "Brother Lil'White, what's that sound?"
  
 Ye Cang and Zhang ZhengXiong hadn't learned much science. They shook their heads.
  
@@ -40,7 +41,7 @@ They could faintly hear the sound of claws ripping through the leaves as it appr
  
 "Awooo!" From within the fog, something pounced towards GreenDew. ThornyRose quickly stepped in front and blocked it with her shield. From the other side, two more pounced and attacked Lin Le and SpyingBlade. Just as the one attacking Lin Le jumped out of the fog, a red light flashed. A straight thrust strengthened by the sword's active ability stabbed forwards. Ye Cang's two handed sword pierced into the werewolf's heart and pulled out, all in an instant. Only afterwards did the werewolf howl out in pain. Zhang ZhengXiong took advantage of the time it stopped moving and smashed it with his shield. He raised his other hand and released a double strike. His hammer smashed twice on it's injured chest. Lin Le's heavy axe followed closely behind, beheading it.
  
-In the front, SpyingBlade took a step and dodged the pounce. He reversed his grip on his hooked saber and stabbed it into it's neck. The strike looked extremely brutal. He then immediately retreated and created some distance. FrozenCloud came to assist, moving around him and taking is place. She activated her Fine-Black-Iron Protector's counter and blocked with her two tonfas. The werewolf who was just stabbed by SpyingBlade furiously raised it's claws and slashed. Counter succeeded! Her right tonfa instantly rushed out and smashed into it's chin, knocking it out.
+At the front, SpyingBlade took a step and dodged the pounce. He reversed his grip on his hooked saber and stabbed it into it's neck. The strike looked extremely brutal. He then immediately retreated and created some distance. FrozenCloud came to assist, moving around him and taking his place. She activated her Fine-Black-Iron Protector's counter and blocked with her two tonfas. The werewolf who was just stabbed by SpyingBlade furiously raised it's claws and slashed. Counter succeeded! Her right tonfa instantly rushed out and smashed into it's chin, knocking it out.
  
 The remaining werewolf was quickly finished off by everyone.
  
@@ -54,7 +55,7 @@ Zhang ZhengXiong realised what he was trying to do. He quickly and skillfully to
  
 ThornyRose and the others were speechless. Did he go mad? They were in such a dangerous situation yet he was still leisurely making that disgusting dish? She sensed the sound coming closer and closer. "Damn! Stop being dumb! Hurry and prepare... for... battle....!?"
  
-Although the stew had not yet finished, but the food's 'fragrance' was already spreading. ThornyRose could feel her stomach revolting already. Everyone began to feel a sting feeling in their eyes, making it difficult to keep them open. The eye-stinging and disgusting dish released an unblockable smell that invaded into the depths of their mind. 
+Although the stew had not yet finished, but the food's 'fragrance' was already spreading. ThornyRose could feel her stomach revolting already. Everyone began to feel a sting in their eyes, making it difficult to keep them open. The eye-stinging and disgusting dish released an unblockable smell that invaded into the depths of their mind. 
  
 ThornyRose was watching the few werewolves who were pouncing over. They suddenly made a Wuu~ Wuu~ whine, and turned tail to run for their lives. The surrounding noise also got further and further away. They were soon gone without a trace. 
  
