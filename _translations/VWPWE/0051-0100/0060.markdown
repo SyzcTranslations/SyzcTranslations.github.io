@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 60"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 comments: true
 ---
 
@@ -41,7 +42,6 @@ Ye Cang's party, as well as some brave fishman fighters and shamans escorted him
 ...
  
 On the northwest side at the cemetery grounds; YellowSprings and Mad War's Leader, the fighting king, CloudDragon had just received the news.
-另一边西北的墓园之地，黄泉与狂战会长斗王·云龙收到了镇里的消息。
  
 "ThornyRose, that silly girl, actually focused her efforts on the fishmen..." said a purpled haired, female magician who had sharp facial features, and looked pretty and flirty.
  
@@ -61,7 +61,7 @@ At this time, the mayor had already been notified and was waiting outside the gr
  
 "Thanks for the invitation, Mayor of Really New Village - Tory Mar. Your father was a mighty man. Him and I have exchanged drinks at the plains near Riley River. Well, it's all in the past. It's already been over 30 years." Vasiyas blinked his big, bulbous eyes and smiled. 
  
-"Father once told me about that. He said he was friends with a mighty fishman sage. Please, come in. We can talk more inside." Mar said respectfully. Vasiyas's fish mouth formed a smiled and he walked in, leaning on his scepter.
+"Father once told me about that. He said he was friends with a mighty fishman sage. Please, come in. We can talk more inside." Mar said respectfully. Vasiyas's fish mouth formed a smile and he walked in, leaning on his scepter.
  
 Mar looked towards Ye Cang's party and praised: "You've done really well. I'll be sure to reward you after. White hair, you come with me. The rest of you can wait here."
  
@@ -71,7 +71,7 @@ Ye Cang followed Mar into the great hall. There were only the three of them insi
  
 "State your terms first." Mar smiled and got straight to the point.
  
-"You sure are Ains's son." Vasiyas began amiably before bringing up his terms. Mar happily agreed to them. Afterwards, under Ye Cang's watch, they discuss many matters and finally came to an agreement. The alliance between the Blue Scaled Fishmen of Riley River and the humans of Really New Village was formed.
+"You sure are Ains's son." Vasiyas began amiably before bringing up his terms. Mar happily agreed to them. Afterwards, under Ye Cang's watch, they discussed many matters and finally came to an agreement. The alliance between the Blue Scaled Fishmen of Riley River and the humans of Really New Village was formed.
  
 "Because of your untiring efforts, the alliance between the Blue Scaled Fishmen and Really New Village has been formed! Blue Scaled Fishmen and Players of Really New Village are no longer hostile. You've left your mark on both Blue Scaled Fishmen and Really New Village's history. Your prestige has reached 'Legendary' with both factions. You've obtained the titles 'Blue Scaled Pioneer' and 'Really New Village Diplomat Hero'. Also obtain the achievement 'Friend of the Fishmen' (+1 Dexterity. Fishmen won't take the initiative to attack you. Gain prestige with the fishman race more easily.)"
  
@@ -79,7 +79,7 @@ Ye Cang followed Mar into the great hall. There were only the three of them insi
  
 "Due to having reached 'Legendary' prestige with Really New Village, your racial skill: Diplomatic has become Diplomat (Obtain +25% prestige. Become more persuasive.)"
  
-"System Announcement! Due to the efforts of Really New Village's Diplomat Heroes PaleSnow, as well as ThornyRose, HeavenShakingMight, HappyAndCheerful, FrozenBlood, FrozenCloud, SpyingBlade, and GreenDew, Really New Village has officially formed an alliance with the Blue Scaled Fishmen! All player's obtain unfriendly prestige with the Blue Scaled Fishmen! If either Really New Village or the Blue Scaled Fishmen Tribe are attacked, player will receive wanted status with both factions!" A world-wide announcement played.
+"System Announcement! Due to the efforts of Really New Village's Diplomat Heroes PaleSnow, as well as ThornyRose, HeavenShakingMight, HappyAndCheerful, FrozenBlood, FrozenCloud, SpyingBlade, and GreenDew, Really New Village has officially formed an alliance with the Blue Scaled Fishmen! All players obtain unfriendly prestige with the Blue Scaled Fishmen! If either Really New Village or the Blue Scaled Fishmen Tribe are attacked, offenders will receive wanted status with both factions!" A world-wide announcement played.
  
 The players immediately exploded in cheers. ThornyRose and the others also received a boost to their prestige and heard the announcement.
  

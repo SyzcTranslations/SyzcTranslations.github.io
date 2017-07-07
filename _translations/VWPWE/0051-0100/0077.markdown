@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 77"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 comments: true
 ---
 
@@ -24,7 +25,7 @@ Lele peacefully woke up, stretched, and slowly wiped his drool. "The sunlight is
  
 "I don't know. I probably fell asleep right after you left." Lin Le thought back and smiled. FrozenCloud was astonished in so many ways, but more than that, she had a complicated feeling. As expected of a human shaped alien, he could even fish in his sleep mode.
  
-Zhang ZhengXiong looked through the handcart. Good, in just a while, he had managed to fish tens of large fish. Wait... where did those two boxes come from? He slowly took them out. "Lele, did you put these two boxes here?"
+Zhang ZhengXiong looked through the handcart. Amazing, in just a while, he had managed to fish tens of large fish. Wait... where did those two boxes come from? He slowly took them out. "Lele, did you put these two boxes here?"
  
 "What boxes? Are there boxes? How come I didn't know?" Lin Le blinked, puzzled. His ahoge swung left and right, but he couldn't remember.
  
@@ -34,7 +35,7 @@ Zhang ZhengXiong looked through the handcart. Good, in just a while, he had mana
  
 The three of them stared blankly for a moment. FrozenCloud pulled Lin Le up. Zhang ZhengXiong pretending to not have heard anything and passed them over to Lin Le. "Open them quickly."
  
-Ye Cang's hand was left hanging in midair. He was dumbfounded at having been ignored. He blinked, then got up feeling rather awkward. Then he immediately flew into rage. "I'm the team leader! Let me open it!"
+Ye Cang's hand was left hanging in midair. He was dumbfounded at having been ignored. He blinked, then got up feeling rather awkward. Then he immediately flew into a rage. "I'm the team leader! Let me open it!"
  
 "Lele's opened them already. Sorry Bro, you can open it next time." Zhang ZhengXiong said then thought it over. Ye Cang probably didn't have anymore luck left this year. He seriously corrected himself: "Wrong, you can open it next year."
  
@@ -64,9 +65,9 @@ Damage: 17 - 20
  
 +3 Chopping Speed
  
-Bloodmoon Chop: Store up power and perform an incomparably violent half-moon chop at all targets in range, dealing 200% damage. Causes bleed which deals an additional 30% of damage dealt as bleed damage over 10 seconds. Cooldown: 10 minutes.
+Bloodmoon Chop: Store up power and perform an incomparably violent half-moon chop at all targets in range, dealing 200% damage. Causes bleed status which deals an additional 30% of damage dealt as bleed damage over 10 seconds. Cooldown: 10 minutes.
  
-FrozenCloud felt a burst of fear. It actually reached 20 damage. In this game, it had been confirmed that even a small change in weapon damage affected many different things. It's was extremely important. Sometimes when you're attacking a monster and are having trouble breaking through it's defence, you'll deal very little damage. However a weapon that had even just 1 more weapon damage could break through it's defence causing heavy injuries. They had achieved unexpected profits. Moreover, that halfmoon attack, if Lin Le was to take the blade and use it, an ordinary player would definitely be finished in seconds. Even if they didn't die right away, they would have trouble surviving the bleed effect. However his current axe had a useful AOE control ability, it would be a pity to lose it.
+FrozenCloud felt a burst of fear. It actually reached 20 damage. In this game, it had been confirmed that even a small change in weapon damage affected many different things. It was extremely important. Sometimes when you're attacking a monster and are having trouble breaking through its defence, you'll deal very little damage. However a weapon that had even just 1 more weapon damage could break through its defence causing heavy injuries. They had achieved unexpected profits. Moreover, that halfmoon attack, if Lin Le was to take the blade and use it, an ordinary player would definitely be finished in seconds. Even if they didn't die right away, they would have trouble surviving the bleed effect. However his current axe had a useful AOE control ability, it would be a pity to lose it.
  
 "Lele, you equip it. Throw the axe in your cart and set the price as 4 gold. Next time we return to town, we can see if it'll sell." Ye Cang took the black-iron heavy blade and handed it over. Lin Le nodded and swapped out his axe for the heavy blade. FrozenCloud looked at the heavy blade that was even taller than her and felt it was out of place. The contrast was too big, it would be perfect on Zhang ZhengXiong.
  

@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 75"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 comments: true
 ---
 
@@ -76,7 +77,7 @@ Ye Cang and FrozenCloud were speechless. Just where did he look worried!? Ye Can
  
 "Would you and your party like to accept the quest (rare) Fishing Master Pastor - Relieve His Annoyance."
  
-A travelling fishing master!? FrozenCloud calculated, this should be a quest that randomly appears on special terrain. The reward will definitely be special. Perhaps they could even get some rewards far exceeding their current equipment.
+A travelling fishing master!? FrozenCloud calculated, this should be a quest that randomly appears on a special terrain. The reward will definitely be special. Perhaps they could even get some rewards far exceeding their current equipment.
  
 "Leave it to us." Ye Cang pondered over it a bit and nodded.
  
@@ -84,9 +85,9 @@ A travelling fishing master!? FrozenCloud calculated, this should be a quest tha
  
 At this time, nightfall was still a couple hours away.
  
-Ye Cang looked around, and noticed the ship they would be using... wait, ship!? Looking at it, it wasn't a manual powered one. Wasn't this supposed to be primitive society? He slowly walked over to carefully examined it and was stunned. Although he didn't understand too much, but this was certainly a kinetic energy powered ship!
+Ye Cang looked around, and noticed the ship they would be using... wait, ship!? Looking at it, it wasn't a manual powered one. Wasn't this supposed to be a primitive society? He slowly walked over to carefully examine it and was stunned. Although he didn't understand too much, but this was certainly a kinetic energy powered ship!
  
-"First time seeing it? This is monster core powered technology. Really New Village doesn't possess the power to extract energy from monster cores. Moreover, they also don't possess the technology to use it. Generally speaking, they're too behind the times. However, the environment is really pleasing. To the south is the neutral machine capital - Falsatch. It's a harbor city which has the most developped monster core technology. They have monster core powered flying ships, and many monster core engineers and mechanics. The north is ruled by the holy church. Although it seems contradicting, they have their own special power and are the continents strongest faction. There's also others such as the Steel Empire, the Magic Forest, Dragon Island, Neptune Empire, Demonic Purgatory..." Pastor fished while he imparted upon everyone the knowledge he gained while travelling.
+"First time seeing it? This is a monster core powered technology. Really New Village doesn't possess the power to extract energy from monster cores. Moreover, they also don't possess the technology to use it. Generally speaking, they're too behind the times. However, the environment is really pleasing. To the south is the neutral machine capital - Falsatch. It's a harbor city which has the most developped monster core technology. They have monster core powered flying ships, and many monster core engineers and mechanics. The north is ruled by the holy church. Although it seems contradicting, they have their own special power and are the continents strongest faction. There's also others such as the Steel Empire, the Magic Forest, Dragon Island, Neptune Empire, Demonic Purgatory..." Pastor fished while he imparted upon everyone the knowledge he gained while travelling.
  
 FrozenCloud was incredibly happy. This was better than any equipment reward. Right now, there was no information about Conviction and everyone was confused. Pastor told them about the continent outside of Really New Village, giving them an overview. Although it wasn't much, but it would be extremely precious information. She organized the things Pastor said and sent them to ThornyRose.
  
@@ -94,7 +95,7 @@ FrozenCloud was incredibly happy. This was better than any equipment reward. Rig
  
 "What!?" The three guys couldn't help being awed and pay more attention.
  
-Pastor crossed his arms, he back facing the four of them. He looked up to the sky, smiled proudly, and said in a clear voice: "To fish out a beauty from the water!"
+Pastor crossed his arms, his back facing the four of them. He looked up to the sky, smiled proudly, and said in a clear voice: "To fish out a beauty from the water!"
  
 FrozenCloud was just thinking that this NPC wasn't simple. Hearing his words, her legs almost gave out. The three guys immediately applauded him and praised: "Amazing..."
  

@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 62"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 comments: true
 ---
 
@@ -24,7 +25,7 @@ The three of them began to eat. Ye Cang looked at the painting on the wall. It w
  
 "Holy Church?" Ye Cang didn't understand.
  
-"You don't even know this? Well, I guess we don't even have a single church out here in the countryside. The Holy Church is the home of mankind's most popular religion. From the mass's point of view, his holiness the supreme pontiff has a higher position than even his majesty the emperor." Mar explained.
+"You don't even know this? Well, I guess we don't even have a single church out here in the countryside. The Holy Church is the home of mankind's most popular religion. From the masses point of view, his holiness the supreme pontiff has a higher position than even his majesty the emperor." Mar explained.
  
 "30 years ago, it was also the church that pardoned the half-elves, so now at least they won't be executed the moment they're discovered." Madam Mar said. Although her expression wasn't good, there wasn't anything weird about it. She remembered the times when she was still young, she would always be hiding. Death could find her at any time. She watched so many of her people being burned at the stakes. The life of a sewer rat was much better than that of a half-elf. That was, until she met him. At the time he was just a child helping out on the farm. Now he's already at the age where his hairs have begun to turn gray. "The Holy Church, although hypocritical, are still our benefactors. Now there are many places where half-elves can live safely. Although they're still subject to intense discrimination and disgust, but at least they can survive."
  
@@ -32,7 +33,7 @@ The three of them began to eat. Ye Cang looked at the painting on the wall. It w
  
 "You're an adventurer, I know it won't be long before you leave. You should go to Black Rock City, at least you'll know someone there. Well forget it, let's settle these hateful werewolves before talking about that." Mar's words made Ye Cang excited. They had family at Black Rock City!? That's the place!
  
-After eating, Ye Cang gave his thanks and then left for Rica's general store to meet up with the other 3. He took some time to hear about how the three used their talent points. Zhang ZhengXiong put his into Feel Your Pain. He now received 40% of his Constitution to Wisdom and +10 Spell Focus. Lin Le upgraded his Arms Dealer's Strength. His strength and the effectiveness of consumables he used increased. Ye Cang also learned what FrozenCloud's talent was. Attack and Defend (+5 Strength, +5 Constitution, +10% Strength, +10% Constitution, +2 Weapon Proficiency)
+After eating, Ye Cang gave his thanks and then left for Rica's general store to meet up with the other three. He took some time to hear about how the three used their talent points. Zhang ZhengXiong put his into Feel Your Pain. He now received 40% of his Constitution to Wisdom and +10 Spell Focus. Lin Le upgraded his Arms Dealer's Strength. His strength and the effectiveness of consumables he used increased. Ye Cang also learned what FrozenCloud's talent was. Attack and Defend (+5 Strength, +5 Constitution, +10% Strength, +10% Constitution, +2 Weapon Proficiency)
  
 "Bro, since we have no quests to do, let's go back to the Blue Scaled Fishman Tribe and have a look. We can collect some more scales and exchange for items to prepare for the attack on the black werewolves." Zhang ZhengXiong proposed.
  
@@ -62,5 +63,5 @@ ThornyRose raised her brows at him. He couldn't be trying to ditch them to do so
  
 "If anything comes up, contact me. I'll be leaving first." SpyingBlade said, then left the party to go off on his own.
  
-ThornyRose had FrozenCloud continue monitoring them before she turned to find more quests and earn more scales. 
+ThornyRose had FrozenCloud continue monitoring them before she turned away to find more quests and earn more scales. 
  

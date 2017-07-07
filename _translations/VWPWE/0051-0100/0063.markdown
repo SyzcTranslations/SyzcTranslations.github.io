@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 63"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 comments: true
 ---
 
@@ -30,7 +31,7 @@ FrozenCloud pondered. If they couldn't exchange for it, then it must require a p
  
 "Bro, once you get it, you have to let Lele open it, otherwise our rewards will go to waste." Zhang ZhengXiong handed his over while warning him.
  
-"You guy's don't trust my divine hand!?" Ye Cang solemnly said.
+"You guys don't trust my divine hand!?" Ye Cang solemnly said.
  
 The three of them, without any hesitation, nodded like little chicks eating seeds.
  
@@ -42,7 +43,7 @@ Lin Le slowly opened the box. "Brother Lil'White, Brother Lil'Xiong, Lil'Dino, t
  
 Ye Cang woke up from his madness. A lot of stuff!? The three of them quickly surrounded the box and looked at the things inside.
  
-Steal Spell (Rare - Beginner Level): Activate the moment an enemy would complete a spell. If successful, you take the spell and send it to another target of your choosing. If the new target isn't decided within 2 seconds, receive backlash losing a portion of your health and mana. The rate of success is dependant on the timing, the alertness of your target, the strength of the spell, and your understanding of the magic. Cooldown: 5 minutes. Cost: 15 Mana. (Requirements: 30 Intelligence, 15 Wisdom. PS: The difficulty of this skill is very high, be careful.)
+Steal Spell (Rare - Beginner Level): Activate the moment an enemy would complete a spell. If successful, you take the spell and send it to another target of your choosing. If the new target isn't decided within 2 seconds, receive a backlash losing a portion of your health and mana. The rate of success is dependant on the timing, the alertness of your target, the strength of the spell, and your understanding of the magic. Cooldown: 5 minutes. Cost: 15 Mana. (Requirements: 30 Intelligence, 15 Wisdom. PS: The difficulty of this skill is very high, be careful.)
  
 Minor Healing Light (Beginner Level): Chant two lines (2 seconds), and heal the target for 10 health. Affected by Intelligence, Wisdom, and Spell Power. Requires a faith based class. Cooldown: 10 seconds. Cost: 4 mana. (Recommended class: priest, paladin, or any other faith based classes).
  

@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 58"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 comments: true
 ---
 
@@ -20,7 +21,7 @@ Everyone once again met up in the center of town. ThornyRose looked at Ye Cang a
  
 ThornyRose and the girls rolled their eyes.
  
-After the guard's announced their arrival, Ye Cang brought everyone and entered Mar's office.
+After the guards announced their arrival, Ye Cang brought everyone and entered Mar's office.
  
 "Mayor, are these the jewels you lost?" Ye Cang brought out the case full of jewels.
  

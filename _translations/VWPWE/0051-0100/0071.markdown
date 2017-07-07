@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 71"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 comments: true
 ---
 
@@ -10,7 +11,7 @@ comments: true
  
 TianXing city, in some research lab.
  
-"Eve-C-19325. psychological response normal. No abnormalities with the 37 pairs of chromosomes. No rejection of Adam-01's genes! IQ estimated to be at least 390. Super power currently unknown. Teacher! We did it!" A man who looked like a researcher excitedly looked at a culture pod. Inside was a 10 year old girl, about 1 meter and 3 centimeters tall. She had short hair that was a little long going just past her chin. Her bare naked body floated in the liquid, fast asleep. The little girl looked really similar to Ye Cang.
+"Eve-C-19325, psychological response normal. No abnormalities with the 37 pairs of chromosomes. No rejection of Adam-01's genes! IQ estimated to be at least 390. Super power currently unknown. Teacher! We did it!" A man who looked like a researcher excitedly looked at a culture pod. Inside was a 10 year old girl, about 1 meter and 3 centimeters tall. She had short hair that was a little long going just past her chin. Her bare naked body floated in the liquid, fast asleep. The little girl looked really similar to Ye Cang.
  
 "Yeah, our research is finally successful! This is the beginning of a new age! Quickly notify the head!" The old man also had a look of rapture.
  
@@ -46,7 +47,7 @@ The doctor fell unwillingly in front of the laser. The laboratory was set ablaze
  
 Everything was reduced to ashes under the flames.
  
-Ye Cang slowly got up and arrived at the balcony. His eyes were full of sorrow. The fact he came about due to a human experiment, he couldn't tell anyone. He reached out his hand grabbing towards the moon, and blocked it's gentle light. Looking at his white hand, he quietly asked himself: "Am I a human? Really? Granny, QinXue, what am I?"
+Ye Cang slowly got up and arrived at the balcony. His eyes were full of sorrow. The fact he came about due to a human experiment, he couldn't tell anyone. He reached out his hand grabbing towards the moon, and blocked its gentle light. Looking at his white hand, he quietly asked himself: "Am I a human? Really? Granny, QinXue, what am I?"
  
 The scene returned to TianXing City's Research Institution. At this moment, the floor was covered in flesh as if it was hell on earth. A lanky man with a short professional hairstyle wearing a black jacket and a beautiful woman with a white jacket were looking at the scene. 
  
@@ -88,4 +89,4 @@ Wu Na and Lin Le immediately felt something grab at their throats and they could
  
 "Let them go and I can let you go without killing you... Eve." Ye Cang continued to treat her coldly.
  
-"Why!? Why do you treat them so well! You and I are the same! Father, we're both created from lab experiments. Existences that shouldn't be accepted amongst humans. Only you and me can accept eachother! Why do you treat me like this!? Why!?" The little girl, Eve, began to madly shout those frail words.
+"Why!? Why do you treat them so well! You and I are the same! Father, we're both created from lab experiments. Existences that shouldn't be accepted amongst humans. Only you and me can accept each other! Why do you treat me like this!? Why!?" The little girl, Eve, began to madly shout those frail words.
