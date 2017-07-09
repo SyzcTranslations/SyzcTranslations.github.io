@@ -1,0 +1,16 @@
+---
+layout: posts
+title:  "Virtual World: Peerless White Emperor Chapter 118 - 126"
+date:   2017-07-09 17:10:00
+comments: true
+---
+
+Hey Everyone,
+
+Thanks for your patience. Here is the next set of chapter! I was going to get this out yesterday but ended up playing factorio till the sun rose x.x
+
+Well, enjoy!
+
+[Chapter 118][vwpwe0118]
+
+[vwpwe0118]: {{site.url}}/translations/vwpwe/0118.html

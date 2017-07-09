@@ -98,7 +98,8 @@ Dragon Group (龙组)
 	  * Heart of a Knight (游侠之心)
 	  * Knight's Mashup Spirit (游侠的强制混搭精神) +
 	  * Clever and Deft (心灵手巧) +
-	  * Azeroth's Magic Proficiency (艾萨罗的法术精通)
+	  * Azeroth's Magic Proficiency (艾萨罗的法术精通) +
+	  * Forest Hunter (林间狩猎者)
 
 	Skills: 
 	  * Rapid Shot (急速秒射)
@@ -110,10 +111,11 @@ Dragon Group (龙组)
 	  * Tidal Wave (水浪冲击)
 	  * Steal Spell (窃取魔法)
 	  * Multiple Straight Thrusts (多重直刺)
-	  * Rapid Dash (急速突进)
 	  * Dashing Straight Thrust (直线冲刺)
 	  * Swift Retreat (急速逃脱)
 	  * Yak's Beast Taming Theory (耶奇的野兽驯化论)
+	  * Entangling Roots (蔓藤缠绕)
+	  * Thorns Armor (荆棘术)
  
 ---
 
@@ -134,8 +136,9 @@ Dragon Group (龙组)
 
 	Talents: 
 	  * Feel Your Pain (感同身受) +
-	  * Strong and Tough Body (身强体壮)
+	  * Strong and Tough Body (身强体壮) +
 	  * Lightning Reflexes (快速反射)
+	  * Cultivate Through Bitterness (苦修者的坚持)
 
 	Skills: 
 	  * Double Strike (二连击)
@@ -165,8 +168,9 @@ Dragon Group (龙组)
 
 	Talents: 
 	  * Knockoff Alchemy (杂牌炼金术)
-	  * Arms Dealer's Strength (武装商贩之力) +
+	  * Arms Dealer's Strength (武装商贩之力) ++
 	  * Tenacious (坚韧)
+	  * Merchant’s Benefit (商人逐利)
 
 	Skills: 
 	  * Crossed Eyes (斗鸡眼)
@@ -192,8 +196,6 @@ Dragon Group (龙组)
 
 	Skills: 
 	  * Lesser Wind Blade (小风刃)
-	  * Blades of Wind (多重风刃术) (Not Yet)
-	  * Rock Spikes (石尖柱) (Not Yet)
 
 ---
 
@@ -208,9 +210,14 @@ Dragon Group (龙组)
 
 	 Nicknames: TianTian, Little Ye Tian
 
+	 Talent:
+	   * Paladin’s Creed of Righteousness (圣骑士信条·正义) +
+
 	 Skills:
 	   * Minor Holy Shield (次级光盾吸收)
 	   * Rejuvenating Light (光疗恢复)
+	   * Entangling Roots (蔓藤缠绕)
+
 
 ---
 
@@ -266,6 +273,7 @@ Dragon Group (龙组)
 
 	Talents:
 	  * Attack and Defend (攻守兼备)
+	  * Inner Strength (内劲) +
 
 	Skills:
 	  * Wolverine Strike (狼獾打击) +

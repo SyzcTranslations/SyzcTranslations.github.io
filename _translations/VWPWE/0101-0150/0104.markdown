@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 104"
 category: "VWPWE"
 translator: "syzc"
+thanks1: "Derael"
 comments: true
 ---
 
@@ -24,7 +25,7 @@ Resplendent (Distinguished  - Slime)
  
 Category: ?? Shield
  
-Requirements: 50 Strength, 30 Wisdom
+Requirements: 50 Constitution, 30 Wisdom
  
 +4 All Attributes
  
