@@ -1,0 +1,13 @@
+---
+layout: posts
+title:  "Taking a Break"
+date:   2017-07-11 17:10:00
+comments: true
+---
+
+Hey Everyone,
+
+It hasn't been all that long since I started, but due to some stuff going on in my life, I'm feeling pretty depressed and can't find the motivation to translate. I'll be taking a break for a few days or more. Not really sure how long. I'll try to do a little at a time when I can. But expect releases to slow down for a little while.
+
+Sorry.
+-- syzc
