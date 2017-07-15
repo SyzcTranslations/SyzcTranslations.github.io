@@ -170,7 +170,7 @@ Dragon Group (龙组)
 	  * Knockoff Alchemy (杂牌炼金术)
 	  * Arms Dealer's Strength (武装商贩之力) ++
 	  * Tenacious (坚韧)
-	  * Merchant’s Benefit (商人逐利)
+	  * Merchant's Benefit (商人逐利)
 
 	Skills: 
 	  * Crossed Eyes (斗鸡眼)
@@ -211,7 +211,7 @@ Dragon Group (龙组)
 	 Nicknames: TianTian, Little Ye Tian
 
 	 Talent:
-	   * Paladin’s Creed of Righteousness (圣骑士信条·正义) +
+	   * Paladin's Creed of Righteousness (圣骑士信条·正义) +
 
 	 Skills:
 	   * Minor Holy Shield (次级光盾吸收)

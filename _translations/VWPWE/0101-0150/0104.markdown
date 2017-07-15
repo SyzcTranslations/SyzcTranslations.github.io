@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 104"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 thanks1: "Derael"
 comments: true
 ---
@@ -17,7 +18,7 @@ To vent his anger, he dumped all the crystals and precious stones in his bag int
  
 "Such a waste..." Old Wales looked at the shield. It was a monstrosity born from tens of different crystals and precious stones. Putting it all into a shield... it would have been better to just sell them all.
  
-"Congratulations. You've forge an Distinguished quality equipment. Please give it a name."
+"Congratulations. You've forged a Distinguished quality equipment. Please give it a name."
  
 Looking at the shield shining in many brilliant colors, Zhang ZhengXiong murmured "Resplendent."
  
@@ -43,11 +44,11 @@ Resplendent (Passive): While holding the shield, gain +10% all attributes, incom
  
 Rainbow (Active): Activate to emit rainbow colored light from the shield. Enemies in front have a chance to receive one of: confused, stunned, dazed, nauseated, or some other half-conscious state, and deal 20 20 elemental damage. Cooldown: 5 minutes.
  
-Ye Cang looked at the shield and froze. The effects were abnormal, it could even compare to his ring. It had a monstrous 19 defence! It not only added +4 to all stats, but even added an additional 10%. It even gave 10% damage resistance, along with stun resistance and will. However, it had that massive 50 constitution requirement that would make it unwearable for most people. Fortunately Zhang ZhengXiong was a constitution focused priest. 50 wasn't much to him. Even 60 wouldn't have been doable. It was pretty much a shield made just for him. As for its external appearance, it made all their other equipment look like country bumpkins. It was too dazzling.
+Ye Cang looked at the shield and froze. The effects were abnormal, it could even compare to his ring. It had a monstrous 19 defence! It not only added +4 to all stats, but even added an additional 10%. It even gave 10% damage resistance, along with stun resistance and will. However, it had that massive 50 constitution requirement that would make it unwearable for most people. Fortunately Zhang ZhengXiong was a constitution focused priest. 50 wasn't much to him. Even 60 wouldn't have been a problem. It was pretty much a shield made just for him. As for its external appearance, it made all their other equipment look like country bumpkins. It was too dazzling.
  
-Zhang ZhengXiong slowly picked up the shield, and gently ran his hand over it's surface. It had a beautiful surface made of many gems and minerals. It was too beautiful to use as a shield.
+Zhang ZhengXiong slowly picked up the shield, and gently ran his hand over its surface. It had a beautiful surface made of many gems and minerals. It was too beautiful to use as a shield.
  
-"Too wasteful, looking at it makes my hairs stand on end..." Old Wales sighed. *So many f\*\*king precious stones and gems went into this shield. It's material value is actually worth more than the final product. It's too much. Just take some black-iron and slime crystal, and you can make a heavy shield. Then add a few gems and precious stones to decorate it a bit, it's defence wouldn't lose to this toy. But as this kid's very first creation, it could be considered a masterpiece.* Thinking that, he just smiled and didn't say more.
+"Too wasteful, looking at it makes my hairs stand on end..." Old Wales sighed. *So many f\*\*king precious stones and gems went into this shield. Its material value is actually worth more than the final product. It's too much. Just take some black-iron and slime crystal, and you can make a heavy shield. Then add a few gems and precious stones to decorate it a bit, its defence wouldn't lose to this toy. But as this kid's very first creation, it could be considered a masterpiece.* Thinking that, he just smiled and didn't say more.
  
 "Brother Lil'Xiong, let me touch it~" Lin Le quickly ran over. He looked like a little kid who was jealous of someone else's toy. 
  

@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 81"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 comments: true
 ---
 
@@ -12,11 +13,11 @@ comments: true
  
 The other three slowly nodded. It's really exceptionally pleasing to the eye.
  
-The lake had regained it's original calm becoming tranquil and gentle. The reflection of the moon slowly drifted across it's surface.
+The lake had regained its original calm becoming tranquil and gentle. The reflection of the moon slowly drifted across its surface.
  
 "Haha~ I got it! Looks like my trip to Really New Village has come to an end." Pastor skillfully picked up the luminous fish and turned to look at Lin Le with a smile. "I'll gift it to you."
  
-"Really?" Lin Le asked, feeling overwhelmed. Didn't he come to Really New Village just for this fish? Why was he giving it them?
+"Really?" Lin Le asked, feeling overwhelmed. Didn't he come to Really New Village just for this fish? Why was he giving it to them?
  
 "I'm a fishing enthusiast. What I pursue is the happiness and challenge of fishing, not to collect them. Take it." Pastor pushed the luminous fish towards Lin Le. He took out a handbook from his chest pocket, opened it, and started taking notes on the page with a picture of a luminous fish. Then he closed it and, again, tucked it securely into his chest pocket. "Youngsters, thank you all so much. This is your reward." 
  
@@ -50,7 +51,7 @@ Power Shot: Attacks have a chance to penetrate targets.
  
 Rapid Dash: Once activated, may dash extremely quickly for a distance. If an attack is launched before the skill finishes, it deals 40% bonus damage. Cost: 10 Energy. Cooldown: 15 Seconds.
  
-"Due to your Straight Thrust and Rapid Dash resonating, obtain a created technique. Please give it a name."
+"Due to your Straight Thrust and Rapid Dash resonating, obtained a created technique. Please give it a name."
  
 "Dashing Straight Thrust"
  

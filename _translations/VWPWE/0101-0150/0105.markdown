@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 105"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 comments: true
 ---
 
@@ -56,7 +57,7 @@ The crystal's effects were really good. FrozenCloud also understood that once ot
  
 "Sorry for the trouble, uncle Wales." Ye Cang thanked. Wales smiled and waved as he went up the stairs to sleep.
  
-Zhang ZhengXiong continued to smelt his giant pile of ore. He threw in black-iron and fine iron together, and under his audacious attempt, he learned to smelt black steel. If old Wales was present, he would lost his voice in astonishment. Black steel was an alloy that even he couldn't make. It used black-iron and fine iron as materials, but the temperature needed to be controlled precisely. Only after passing through a series of complicated procedures, and with the help of a blacksmith's peerless physical strength, would black steel finally be forged. Being able to forge black steel was a sign of a talented smith.
+Zhang ZhengXiong continued to smelt his giant pile of ore. He threw in black-iron and fine iron together, and under his audacious attempt, he learned to smelt black steel. If old Wales was present, he would lose his voice in astonishment. Black steel was an alloy that even he couldn't make. It used black-iron and fine iron as materials, but the temperature needed to be controlled precisely. Only after passing through a series of complicated procedures, and with the help of a blacksmith's peerless physical strength, would black steel finally be forged. Being able to forge black steel was a sign of a talented smith.
  
 Meanwhile, under Ye Cang's and Lin Le's urging, FrozenCloud sacrificed her dignity again to act as the handcart showgirl. Since Zhang ZhengXiong was working on his big smelting project, Little Ye Tian took over his job and beat the gong. She, who didn't know anything about the world, wasn't embarrassed at all. Instead, she energetically smacked her little round shield. She was also in charge of receiving money, and bargaining. Lin Le was the guard, his job was to look intimidating with his giant glowing red blade. He would deter anyone who wanted to come cause trouble. Finally, Ye Cang stood beside FrozenCloud and slowly brainwashed her.
  
@@ -70,7 +71,7 @@ The players on the street looked jealously at the party's equipment.
  
 "That guy with the giant sword. Tsk~ Tsk~ There were some words that he didn't like, and he directly brandished his giant axe, and was about to kill NalanMoon and the others. Now that's a real man!"
  
-"But the white haired one is the boss. I saw it, that imposing style, that character, he's definitely some tyrant. Even that handcart girl is his personal servant. Just a few words and he had both the Freedom Alliance and Thorns and Roses angered. At the time, the Freedom Alliance, drew their blade, and then guess what happened!?
+"But the white haired one is the boss. I saw it, that imposing style, that character, he's definitely some tyrant. Even that handcart girl is his personal servant. Just a few words and he had both the Freedom Alliance and Thorns and Roses angered. At the time, the Freedom Alliance, drew their blade, and then guess what happened!?"
  
 "What?"
  
@@ -92,4 +93,4 @@ The players on the street looked jealously at the party's equipment.
  
 "Indeed, so praiseworthy! I'm going to go ask if there's anything I can buy for 5 silver."
  
-"5 silver, you'd be lucky if they even gave you a glance! Go die somewhere far away, damn peasant. Handcart Goddess!! I have 1 gold! Do you have anything good?
+"5 silver, you'd be lucky if they even gave you a glance! Go die somewhere far away, damn peasant. Handcart Goddess!! I have 1 gold! Do you have anything good?"

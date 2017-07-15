@@ -3,26 +3,27 @@ layout: chapter
 title:  "Chapter 125"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 comments: true
 ---
 
 **Chapter 125: Hunting in the Jungle**
 
-Kunsa gradually restored his vitality and saw that the adventurer that had brought him the core was battered and exhausted. He must have been fighting bitterly to protect it while it was absorbing the core’s power. It was filled with gratitude.
+Kunsa gradually restored his vitality and saw that the adventurer that had brought him the core was battered and exhausted. He must have been fighting bitterly to protect it while it was absorbing the core's power. It was filled with gratitude.
 
-Ye Cang’s face was covered in teeth marks, his hair was a mess, his feathery robe was torn up, but his expression was still indifferent. He still seemed as light as the wind and free as the clouds. He sighed and pulled FrozenBlood to the side. “Has she been taking the medicine her doctor prescribed everyday?”
+Ye Cang's face was covered in teeth marks, his hair was a mess, his feathery robe was torn up, but his expression was still indifferent. He still seemed as light as the wind and free as the clouds. He sighed and pulled FrozenBlood to the side. "Has she been taking the medicine her doctor prescribed everyday?"
 
-FrozenBlood froze. *It was a good thing that it was me you asked, otherwise your a\*s would be screwed. That said, it was all your doing!!* She glared at him, and didn’t reply.
+FrozenBlood froze. *It was a good thing that it was me you asked, otherwise your a\*s would be screwed. That said, it was all your doing!!* She glared at him, and didn't reply.
 
-ThornyRose quickly asked. “What did that damn lowlife say to you?”
+ThornyRose quickly asked. "What did that damn lowlife say to you?"
 
-“Nothing. He just asked if you’ve calmed down.” FrozenBlood sighed and lied. *These two people… but that PaleSnow is really good at angering people.*
+"Nothing. He just asked if you've calmed down." FrozenBlood sighed and lied. *These two people... but that PaleSnow is really good at angering people.*
 
-“Thank you all for slaying Kunqi and saving me. Nature will recover given time, but right now we must eliminate the corrupted fairy - Alice. She lives in the garden at the end of that path. You should prepare. Once you’re ready, I’ll purify some of the jungle which will weaken her.” Kunsa said. Everyone turned to look at him, they really needed time to prepare.
+"Thank you all for slaying Kunqi and saving me. Nature will recover given time, but right now we must eliminate the corrupted fairy - Alice. She lives in the garden at the end of that path. You should prepare. Once you're ready, I'll purify some of the jungle which will weaken her." Kunsa said. Everyone turned to look at him, they really needed time to prepare.
 
-“Congratulations. You’ve completed the hidden, time-limited quest «Save the Uncorrupted Locust Treant Elder - Kunsa». Received 1300 experience, +5 nature resistance, +5 dark resistance, a masterwork quality item useable by your class with a small chance of getting an distinguished quality one instead, a rare class talent, and a class talent point.”
+"Congratulations. You've completed the hidden, time-limited quest «Save the Uncorrupted Locust Treant Elder - Kunsa». Received 1300 experience, +5 nature resistance, +5 dark resistance, a masterwork quality item useable by your class with a small chance of getting an distinguished quality one instead, a rare class talent, and a class talent point."
 
-“Congratulations. You’ve received the Distinguished quality item - Elder Treant Bark Quiver.”
+"Congratulations. You've received the Distinguished quality item - Elder Treant Bark Quiver."
 
 Elder Treant Bark Quiver (Distinguished - Unique)
 
@@ -38,7 +39,7 @@ Capacity: 50
 
 Power of Nature: Arrows in the quiver are enchanted with the power of nature. They receive +5 penetration and +5 damage.
 
-“Congratulations. You’ve received the class talent - Forest Hunter (Rare - Beginner Level): +6 Dexterity, +6 Wisdom, +6 Reflex, +10% movement speed. Increases your resistance to inertia. When in a jungle/forest type environment, the talent’s effects are doubled and deal an extra 10% damage.”
+"Congratulations. You've received the class talent - Forest Hunter (Rare - Beginner Level): +6 Dexterity, +6 Wisdom, +6 Reflex, +10% movement speed. Increases your resistance to inertia. When in a jungle/forest type environment, the talent's effects are doubled and deals an extra 10% damage."
 
 The party who was lamenting over their lost loot, heard the system message and immediately cheered up. Not only a rare class talent, but even a talent point!!
 
@@ -46,18 +47,18 @@ Ye Cang looked at his own seemingly shoddy quiver, and quickly equipped it. That
 
 Kunsa closed its eyes once more and continued to restore its power. Starting from the dirt around him, the black gas began to slowly recede. The green glow of nature began to spread to the surroundings.
 
-“Let’s go. First we should resupply in town! Then we’ll prepare some more flame flasks.” ThornyRose said, her mood clearly much better. Despite having not obtained any equipment from Kunqi. She began to think about how it could have dropped a masterwork or even a distinguished quality equipment. If only it weren’t for him… She sighed, it was already too late, there was no point in thinking about it.
+"Let's go. First we should resupply in town! Then we'll prepare some more flame flasks." ThornyRose said, her mood clearly much better. Despite having not obtained any equipment from Kunqi. She began to think about how it could have dropped a masterwork or even a distinguished quality equipment. If only it weren't for him... She sighed, it was already too late, there was no point in thinking about it.
 
 Everyone left, and returned to the little town. Ye Cang asked his little team about their new class talents and equipment. They also discussed how to best use their talent point.
 
 Zhang ZhengXiong had received the talent - Cultivate Through Bitterness (+5 Constitution, +7 Wisdom. The effects of holy spells increase by 10%. +5% resistance to mental effects. +5% resistance to stun). He then put his talent point into the talent - Strong and Tough Body (+8 Constitution, every 4 points of constitution increases strength by 1). He also received a pretty good masterwork helmet with high constitution and strength. 
 
-Lin Le received the talent - Merchant’s Benefit (+7 Strength, +5 Dexterity. Effects of skills involving money increase by 30% and has a chance to refund the consumed money). After some thought, he increased his Arms Dealer’s Strength talent to Advanced level (+7 all heavy weapon proficiency, +13 Strength, +12 Constitution. Effects of consumables increases by 45%. Reduce the duration of stuns by 40% with a 20% chance to negate). He then put on his new helmet. It had a rhino horn sticking out the forehead and it was actually Distinguished quality. It had high strength, constitution, and even had a skill. Everyone watched as he swung his head like an angry bull and crashed headfirst into a nearby tree. Then… Snap~ Crash~...
+Lin Le received the talent - Merchant's Benefit (+7 Strength, +5 Dexterity. Effects of skills involving money increase by 30% and has a chance to refund the consumed money). After some thought, he increased his Arms Dealer's Strength talent to Advanced level (+7 all heavy weapon proficiency, +13 Strength, +12 Constitution. Effects of consumables increases by 45%. Reduce the duration of stuns by 40% with a 20% chance to negate). He then put on his new helmet. It had a rhino horn sticking out the forehead and it was actually Distinguished quality. It had high strength, constitution, and even had a skill. Everyone watched as he swung his head like an angry bull and crashed headfirst into a nearby tree. Then... Snap~ Crash~...
 
-FrozenCloud received the talent Inner Strength, and a superior ring. Ye Cang found that her new talent was very useful, and had her invest her talent point into it. Inner Strength - Intermediate Level (+8 Strength, +8 Wisdom, +9 Constitution. Unlocked new resource: Qi. Can activate or deactivate at will. When active, all attack will have +20% damage, +10% penetration, and every attack will use up 10 points of Qi. All skills will deal +40% damage, +15% penetration, and every skill will consumes 30 Qi. When hit, every point of Qi can reduce the damage taken by 1%, up to a maximum of 35%. Qi is restored at 1 point per second. Skills and items that affect resource regeneration also affect Qi. Additionally, some grappler skills could require Qi.)
+FrozenCloud received the talent Inner Strength, and a superior ring. Ye Cang found that her new talent was very useful, and had her invest her talent point into it. Inner Strength - Intermediate Level (+8 Strength, +8 Wisdom, +9 Constitution. Unlocked new resource: Qi. Can activate or deactivate at will. When active, all attacks will have +20% damage, +10% penetration, and every attack will use up 10 points of Qi. All skills will deal +40% damage, +15% penetration, and every skill will consumes 30 Qi. When hit, every point of Qi can reduce the damage taken by 1%, up to a maximum of 35%. Qi is restored at 1 point per second. Skills and items that affect resource regeneration also affect Qi. Additionally, some grappler skills could require Qi.)
 
 FrozenClouds ring gave pretty decent strength, dexterity and constitution. It even had an attack skill which made Zhang ZhengXiong envious.
 
-Finally, there was Little Ye Tian. She immediately invested her talent point without thinking, because she only had one class talent. Moreover, it was a pretty good one. Paladin’s Creed of Righteousness (Super Rare - Intermediate Level): +12 Constitution, +13 Wisdom. Effects of holy spells increase by 15%. You can use your light element healing spells to damage undead creatures. Your light spells deal increased damage to undead.
+Finally, there was Little Ye Tian. She immediately invested her talent point without thinking, because she only had one class talent. Moreover, it was a pretty good one. Paladin's Creed of Righteousness (Super Rare - Intermediate Level): +12 Constitution, +13 Wisdom. Effects of holy spells increase by 15%. You can use your light element healing spells to damage undead creatures. Your light spells deal increased damage to undead.
 
 Little Ye Tian finally knew how overpowered Talents were. Just this intermediate level super rare talent had increased her constitution by about 50%. It even had 13 points of wisdom and increases the effects of holy spells. Now, against undead monsters, she would probably be extremely useful. As for the equipment reward, she received a round shield. It had a white candle coat of arms with some unknown words drawn above it. It was pretty big, with a 1 meter diameter. Little Ye Tian figured that if she crouched down, she could hide her entire body behind it. Just thinking of it made her feel safe.

@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 84"
 category: "VWPWE"
 translator: "syzc"
+editor: "Tab"
 thanks1: "Derael"
 comments: true
 ---
@@ -37,7 +38,7 @@ The scene changed to ThornyRose's location.
  
 ThornyRose, FrozenBlood, and GreenDew watched Little Ye Tian sort through the information and logically analyze it. However, for someone with such terrifying calculation ability, it wasn't too weird. 
  
-The four were in the middle of resting and resupplying in town. Ye Tian was going all over the place gathering information. Whether it was a important or not, she inquired about it all. Moreover, she was very polite about it.
+The four were in the middle of resting and resupplying in town. Ye Tian was going all over the place gathering information. Whether it was important or not, she inquired about it all. Moreover, she was very polite about it.
  
 When the four gathered up again, Ye Tian looked at the three women and indifferently said: "I found the link between the hidden story quests."
  
@@ -61,7 +62,7 @@ Ye Cang, who was exploring all over the place killing monsters and gathering mat
  
 "Little Tian, Good job! Wait in the village, we'll be on our way back." Ye Cang praised, then immediately hung up. He looked at the other three and smiled. "TianTian found us a hidden quest! Let's go! Back to town!"
  
-FrozenCloud raised her brows. That Little Tian should be the girl that was with Sister Rose, Team leader's little sister. From what Sister Rose told her, she was a girl with a high IQ. She joined the others and they urgently kill their way back to town.
+FrozenCloud raised her brows. That Little Tian should be the girl that was with Sister Rose, Team leader's little sister. From what Sister Rose told her, she was a girl with a high IQ. She joined the others and they urgently killed their way back to town.
 
 ...
  
@@ -109,4 +110,4 @@ GreenDew walked before Ye Cang's group. "Really, you guys should stop provoking 
 
 ---
 
-<a name="footnote1">1</a>: Black bellied means evil/sly/manipulative.
+<a name="footnote1">1</a>: Black bellied means someone is innocent looking but is evil/sly/manipulative.
