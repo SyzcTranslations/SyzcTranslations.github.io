@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Virtual World: Peerless White Emperor Chapter 64-68"
+title:  "Virtual World: Peerless White Emperor Chapters 64-68"
 date:   2017-06-10 18:20:00
 comments: true
 ---
@@ -15,4 +15,4 @@ I would like to remind everyone that I am an amateur at chinese and these transl
 
 Anyways, thanks everyone for commenting and rating this novel so highly! 
 
-[vwpwe0064]: {{site.url}}/translations/vwpwe/0064.html
+[vwpwe0064]: {{site.url}}/translations/vwpwe/0064

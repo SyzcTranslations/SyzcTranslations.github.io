@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Virtual World: Peerless White Emperor Chapter 29-33"
+title:  "Virtual World: Peerless White Emperor Chapters 29-33"
 date:   2017-06-01 00:30:00
 comments: true
 ---
@@ -15,4 +15,4 @@ Also, I'm planning to put up a character glossary soon. In it, I plan to put mor
 
 Looking forwards to everyone's comments and please feel free to suggest stuff!
 
-[vwpwe0029]: {{site.url}}/translations/vwpwe/0029.html
+[vwpwe0029]: {{site.url}}/translations/vwpwe/0029

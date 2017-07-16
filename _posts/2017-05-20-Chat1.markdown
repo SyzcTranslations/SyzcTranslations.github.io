@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Virtual World: Peerless White Emperor Chapter 9-12"
+title:  "Virtual World: Peerless White Emperor Chapters 9-12"
 date:   2017-05-20 17:00:00
 comments: true
 ---
@@ -13,4 +13,4 @@ I've added a comment section, hosted by disqus. Hopefully i didn't mess anything
 
 Enjoy!
 
-[vwpwe0009]: {{site.url}}/translations/vwpwe/0009.html
+[vwpwe0009]: {{site.url}}/translations/vwpwe/0009

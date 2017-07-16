@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Virtual World: Peerless White Emperor Chapter 69-72"
+title:  "Virtual World: Peerless White Emperor Chapters 69-72"
 date:   2017-06-11 22:45:00
 comments: true
 ---
@@ -15,4 +15,4 @@ Also sorry for the screw up on chapter 66 :x It's explained in a note at the beg
 
 Enjoy!
 
-[vwpwe0069]: {{site.url}}/translations/vwpwe/0069.html
+[vwpwe0069]: {{site.url}}/translations/vwpwe/0069

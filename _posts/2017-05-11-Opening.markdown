@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Virtual World: Peerless White Emperor Chapter 1 - 4"
+title:  "Virtual World: Peerless White Emperor Chapters 1 - 4"
 date:   2017-05-11 20:15:00
 comments: true
 ---
@@ -20,4 +20,4 @@ Here's a link to [chapter 1][vwpwe0001]!
 [raw]: http://book.qidian.com/info/3332175
 [contact]: {{site.url}}/contact/
 [vwpweTOC]: {{site.url}}/translations/vwpwe/index.html
-[vwpwe0001]: {{site.url}}/translations/vwpwe/0001.html
+[vwpwe0001]: {{site.url}}/translations/vwpwe/0001

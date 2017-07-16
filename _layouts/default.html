@@ -14,8 +14,9 @@
 			  <script>
 
 			  var disqus_config = function () {
-			  	this.page.url = "{{ page.url | prepend: site.url }}";
-			  	//this.page.identifier = "{{ page.category }} {{ page.title }}";
+			  	this.page.url = "{{ page.url | prepend: site.url }}".trim();
+			  	this.page.identifier = "{{ page.category }} {{ page.title }}".trim();
+			  	this.page.title = "{{ page.category }} {{ page.title }}".trim();
 			  };
 			  
 			  (function() { // DON'T EDIT BELOW THIS LINE

@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Virtual World: Peerless White Emperor Chapter 5-7"
+title:  "Virtual World: Peerless White Emperor Chapters 5-7"
 date:   2017-05-14 00:19:00
 comments: true
 ---
@@ -15,4 +15,4 @@ Anyways! It's mother's day so I'd like to thank my mom who always makes time to 
 
 Enjoy!
 
-[vwpwe0005]: {{site.url}}/translations/vwpwe/0005.html
+[vwpwe0005]: {{site.url}}/translations/vwpwe/0005

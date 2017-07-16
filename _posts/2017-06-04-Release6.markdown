@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Virtual World: Peerless White Emperor Chapter 41-50"
+title:  "Virtual World: Peerless White Emperor Chapters 41-50"
 date:   2017-06-04 21:20:00
 comments: true
 ---
@@ -17,4 +17,4 @@ Anyways, here you go: [Chapter 41][vwpwe0041].
 
 Enjoy!
 
-[vwpwe0041]: {{site.url}}/translations/vwpwe/0041.html
+[vwpwe0041]: {{site.url}}/translations/vwpwe/0041

@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Virtual World: Peerless White Emperor Chapter 23-28"
+title:  "Virtual World: Peerless White Emperor Chapters 23-28"
 date:   2017-05-28 23:40:00
 comments: true
 ---
@@ -15,4 +15,4 @@ I also ask everyone to please put up with my going back and changing names and w
 
 Again, thank you to everyone who commented.
 
-[vwpwe0023]: {{site.url}}/translations/vwpwe/0023.html
+[vwpwe0023]: {{site.url}}/translations/vwpwe/0023

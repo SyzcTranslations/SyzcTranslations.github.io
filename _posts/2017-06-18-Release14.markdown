@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Virtual World: Peerless White Emperor Chapter 85 - 91"
+title:  "Virtual World: Peerless White Emperor Chapters 85 - 91"
 date:   2017-06-18 14:10:00
 comments: true
 ---
@@ -17,4 +17,4 @@ PS: Sorry, I broke some links earlier today. I hope it didn't affect anyone.
 
 PSS: I've added an automatic redirect to the 404 page. It'll hopefully get you back to the right page. For those with javascript disabled, I've turned all url to lowercase (and github pages is case-sensitive).
 
-[vwpwe0085]: {{site.url}}/translations/vwpwe/0085.html
+[vwpwe0085]: {{site.url}}/translations/vwpwe/0085

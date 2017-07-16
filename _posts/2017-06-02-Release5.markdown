@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Virtual World: Peerless White Emperor Chapter 34-40"
+title:  "Virtual World: Peerless White Emperor Chapters 34-40"
 date:   2017-06-02 21:10:00
 comments: true
 ---
@@ -17,4 +17,4 @@ Sadly I tried getting some people I know to try reading it, but they found it bo
 
 Well, enjoy the read everyone.
 
-[vwpwe0034]: {{site.url}}/translations/vwpwe/0034.html
+[vwpwe0034]: {{site.url}}/translations/vwpwe/0034

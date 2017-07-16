@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Virtual World: Peerless White Emperor Chapter 79 - 84"
+title:  "Virtual World: Peerless White Emperor Chapters 79 - 84"
 date:   2017-06-16 22:20:00
 comments: true
 ---
@@ -15,4 +15,4 @@ Other than that, not much to say this time around.
 
 Enjoy!
 
-[vwpwe0079]: {{site.url}}/translations/vwpwe/0079.html
+[vwpwe0079]: {{site.url}}/translations/vwpwe/0079

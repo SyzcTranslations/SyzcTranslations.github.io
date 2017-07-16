@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Virtual World: Peerless White Emperor Chapter 92 - 100"
+title:  "Virtual World: Peerless White Emperor Chapters 92 - 100"
 date:   2017-06-22 21:42:00
 comments: true
 ---
@@ -19,4 +19,4 @@ Also, a fellow reading - Tab has kindly volunteered to help me edit my chapters!
 
 Enjoy!
 
-[vwpwe0092]: {{site.url}}/translations/vwpwe/0092.html
+[vwpwe0092]: {{site.url}}/translations/vwpwe/0092

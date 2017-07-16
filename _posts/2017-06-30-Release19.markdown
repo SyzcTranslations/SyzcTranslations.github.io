@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Virtual World: Peerless White Emperor Chapter 112 - 113"
+title:  "Virtual World: Peerless White Emperor Chapters 112 - 113"
 date:   2017-06-30 22:30:00
 comments: true
 ---
@@ -15,4 +15,4 @@ Well, enjoy.
 
 [Chapter 112][vwpwe0112]
 
-[vwpwe0112]: {{site.url}}/translations/vwpwe/0112.html
+[vwpwe0112]: {{site.url}}/translations/vwpwe/0112

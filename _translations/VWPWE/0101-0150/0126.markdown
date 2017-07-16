@@ -4,6 +4,7 @@ title:  "Chapter 126"
 category: "VWPWE"
 translator: "syzc"
 editor: "Tab"
+thanks1: "HolyMistress"
 comments: true
 ---
 
@@ -49,7 +50,7 @@ Head: +2 Intelligence, +1 Wisdom.
 
 Melee Weapon: +2 Constitution, +1 Strength. Attacks have a chance to restore 3 health.
 
-Staff: +1 Spell Power for Nature Spells. Activate to cast Regrowth on the target. Health 4 health every 3 seconds for 12 seconds.
+Staff: +1 Spell Power for Nature Spells. Activate to cast Regrowth on the target. Heal 4 health every 3 seconds for 12 seconds.
 
 Ranged Weapon: +2 Penetration, +1 Dexterity.
 

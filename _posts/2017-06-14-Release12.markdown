@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Virtual World: Peerless White Emperor Chapter 73-78 (and chapter 2 in Spanish)"
+title:  "Virtual World: Peerless White Emperor Chapters 73-78 (and chapter 2 in Spanish)"
 date:   2017-06-14 22:10:00
 comments: true
 ---
@@ -16,5 +16,5 @@ If you haven't already, check out the last announcement post: [Peerless White Em
 Enjoy!
 
 [Spanish]: {{site.url}}/Release11.html
-[vwpwe0073]: {{site.url}}/translations/vwpwe/0073.html
-[mveiwb0002]: {{site.url}}/translations/mveiwb/0002.html
+[vwpwe0073]: {{site.url}}/translations/vwpwe/0073
+[mveiwb0002]: {{site.url}}/translations/mveiwb/0002

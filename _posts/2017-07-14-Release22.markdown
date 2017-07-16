@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Virtual World: Peerless White Emperor Chapter 127 - 132"
+title:  "Virtual World: Peerless White Emperor Chapters 127 - 132"
 date:   2017-07-14 21:10:00
 comments: true
 ---
@@ -28,4 +28,4 @@ I just want to vent a bit below. You don't have to read it... in fact, it's prob
 	Now that I've calmed down a bit, I'd like to thank my now ex who has always been very supportive of me. Her encouragement was one of the main reasons I actually got off my ass to start this site. She doesn't read this novel so she'll probably never see this, and it's probably better that she doesn't as I don't want to make breaking up harder for her. Anyways: "I regret that my stubborness has hurt you. I only realised how important you were to me after you're gone. Thank you for everything you've done for me these last 4 years. I hope you find someone who can make you as happy as can be."
 </details>
 
-[vwpwe0127]: {{site.url}}/translations/vwpwe/0127.html
+[vwpwe0127]: {{site.url}}/translations/vwpwe/0127
