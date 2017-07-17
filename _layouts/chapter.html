@@ -6,10 +6,11 @@ layout: default
 
 <!-- Next and previos chapter link -->
 <div class="pagination">
-  {% if page.url contains "0001" %}
-    <span class="previous">Previous</span>
-  {% else %}
+  {% assign temp = (page.category | downcase) %}
+  {% if page.previous.url contains temp %}
     <a href="{{page.previous.url}}" class="previous">Previous</a>  
+  {% else %}
+    <span class="previous">Previous</span>
   {% endif %}
 
   {% if page.next.url contains "characters" or page.next.url contains "index" %}
@@ -36,10 +37,10 @@ layout: default
 
 <!-- Next and previos chapter link -->
 <div class="pagination">
-  {% if page.url contains "0001" %}
-  	<span class="previous">Previous</span>
-  {% else %}
+  {% if page.previous.url contains temp %}
     <a href="{{page.previous.url}}" class="previous">Previous</a>  
+  {% else %}
+    <span class="previous">Previous</span>
   {% endif %}
 
   {% if page.next.url contains "characters" or page.next.url contains "index" %}
