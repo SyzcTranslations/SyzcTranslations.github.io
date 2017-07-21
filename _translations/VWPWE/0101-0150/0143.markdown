@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 143"
 category: "VWPWE"
 translator: "syzc"
+thanks1: "Hazery"
 comments: true
 ---
 
