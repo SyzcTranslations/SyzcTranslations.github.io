@@ -18,12 +18,12 @@ Main Party
   * [Ye Tian](#yetian)
 
 Thorns and Roses (荆棘与玫瑰)
-  * [ThornyRose](#)
-  * [FrozenBlood](#)
-  * [GreenDew](#)
+  * [ThornyRose](thornyrose)
+  * [FrozenBlood](frozenblood)
+  * [GreenDew](greendew)
   * [ElegantFragrance](#)
   * [FrozenCloud](#frozencloud)
-  * [Li LiJia](#)
+  * [DyedLily](#)
 
 Beauties at the Crossfire (烽火佳人)
   * [BornFlirty](#)
@@ -31,6 +31,8 @@ Beauties at the Crossfire (烽火佳人)
 Mad War (狂战)
   * [YellowSprings](#)
   * [CloudDragon](#)
+  * [BlackIce](#)
+  * [VastSea](#)
 
 Freedom Alliance (自由联盟)
   * [NalanMoon](#)
@@ -44,6 +46,7 @@ Flame Dragon Union (炎龙会)
   * [FlameEmperor](#)
 
 Misty Rain House (通成员)
+  * [MistyVeil](#)
 
 ---
 
@@ -63,6 +66,7 @@ Dragon Group (龙组)
 10 Commandments (圣十议会)
   * [Hunting Flame](#)
   * [Ardent Wind](#)
+  * [White Devil](yecang)
 
 ---
 
@@ -100,6 +104,7 @@ Dragon Group (龙组)
 	  * Clever and Deft (心灵手巧) +
 	  * Azeroth's Magic Proficiency (艾萨罗的法术精通) +
 	  * Forest Hunter (林间狩猎者)
+	  * Eagle Eye (鹰眼)
 
 	Skills: 
 	  * Rapid Shot (急速秒射)
@@ -142,13 +147,13 @@ Dragon Group (龙组)
 
 	Skills: 
 	  * Double Strike (二连击)
-	  * Aura of Light (光环)
 	  * Aura of Vigor (健康之光)
 	  * Barbaric Tackle (野蛮冲撞)
 	  * Minor Healing Light (次级光愈术)
 	  * Aura of Protection (虔诚守护) +
 	  * Heavy Strike (重斩)
 	  * Advanced Aura Mastery (深度光环掌握)
+	  * Aura of Concentration (凝神光环)
 
 ---
 
@@ -182,6 +187,8 @@ Dragon Group (龙组)
 	  * Execute (斩首怒击)
 	  * Rising Slash (升龙斩)
 	  * Power of Money (金钱动力)
+	  * Negotiation Breakdown (非暴力不合作)
+
 ---
 
 <a name="wuna">Wu Na (吴娜)</a>
@@ -212,12 +219,13 @@ Dragon Group (龙组)
 
 	 Talent:
 	   * Paladin's Creed of Righteousness (圣骑士信条·正义) +
+	   * Owl's Wisdom (枭之睿智)
 
 	 Skills:
 	   * Minor Holy Shield (次级光盾吸收)
 	   * Rejuvenating Light (光疗恢复)
 	   * Entangling Roots (蔓藤缠绕)
-
+	   * Minor Healing Light (次级光愈术)
 
 ---
 
@@ -258,6 +266,8 @@ Dragon Group (龙组)
 	Skills:
 	  * Magic Missile (魔法飞弹)
 	  * Tidal Wave (水浪冲击)
+	  * Lesser Fireball (小火球术)
+	  * Earth Spikes (石尖柱)
 
 ---
 
@@ -279,5 +289,6 @@ Dragon Group (龙组)
 	  * Wolverine Strike (狼獾打击) +
 	  * Shouryuukenn (升龙拳)
 	  * Triple Strike (三连击)
+	  * Offence / Defence Stance (攻击/防守)
 
 ---
