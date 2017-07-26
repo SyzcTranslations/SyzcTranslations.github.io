@@ -53,7 +53,7 @@ Execute (Rare - Beginner Level): Perform a finishing strike on the target dealin
  
 Rapid Thrusts (Rare - Beginner Level): Perform 4 quick thrusts against a target, each dealing 55% damage. Cost: 20 energy. Cooldown: 1 minute.
  
-Standard Knight's Legplates (Masterwork - Standardized)
+Standard Knight's Legplates (Masterwork - Standard Issue)
  
 Category: Medium Plate
  

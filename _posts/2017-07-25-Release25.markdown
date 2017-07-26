@@ -1,0 +1,21 @@
+---
+layout: posts
+title:  "Lovable Beauty 1 - 2"
+date:   2017-07-25 23:40:00
+comments: true
+---
+
+Hey Everyone,
+
+Here's the one chapter a week for Lovable Beauty. To be honest, the story is still setting up and nothing much has happened yet.
+
+[Chapter 1][lb001]
+
+[Chapter 2][lb002]
+
+Anyways, translating a romance is making me feel lonely, so I won't be putting too much time into it. Back to Peerless White Emperor! :P
+
+Enjoy!
+
+[lb001]: {{site.url}}/translations/lb/0001
+[lb002]: {{site.url}}/translations/lb/0002
