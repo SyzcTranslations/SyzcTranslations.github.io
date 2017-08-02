@@ -4,4 +4,24 @@ title:  "Lovable Beauty"
 category: "LB"
 ---
 
-Work in progress
+<h1> Lovable Beauty </h1>
+<h3> Author: Xiao Jia Ren </h3>
+
+<img src="{{site.url}}/assets/lb.jpg" />
+
+<h3> Table of Contents</h3>
+
+<p>Summery: Work in Progress...</p>
+
+<ul>
+	<!--<li><a href="{{ 'Characters.html' | prepend: site.baseurl }}"> Character Glossary</a></li>-->
+
+{% for chapter in site.translations %}
+	{% if chapter.category contains 'LB' %}
+		{% if chapter.url contains 'index' or chapter.url contains 'characters' %}
+		{% else %}
+			<li><a href="{{ chapter.url | prepend: site.baseurl }}">{{ chapter.title }}</a></li>
+		{% endif %}
+	{% endif %}
+{% endfor %}
+</ul>

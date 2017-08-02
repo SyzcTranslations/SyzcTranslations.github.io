@@ -1,0 +1,18 @@
+---
+layout: posts
+title:  "Lovable Beauty 3"
+date:   2017-08-02 01:50:00
+comments: true
+---
+
+Hey Everyone,
+
+Here's the another chapter a week for Lovable Beauty. Again, not much is happening yet, but hopefully everyone is still able to enjoy it.
+
+[Chapter 3][lb003]
+
+I'm also trying out google analytics because I want to see how much traffic my site is getting. Please tell me if you feel like it is causing any problems such as speed or loading issues.
+
+Enjoy!
+
+[lb003]: {{site.url}}/translations/lb/0003
