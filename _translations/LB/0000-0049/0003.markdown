@@ -3,6 +3,7 @@ layout: chapter
 title: "Chapter 3"
 category: "LB"
 translator: "syzc"
+thanks1: "TheDarkLink"
 comments: true
 ---
 
@@ -42,7 +43,7 @@ Xiao Yuan leaned lazily on the rattan chair and looked down at a tiny object.
 
 Ge Jen looked towards the wall and knew that his master had heard it. He said in a quiet voice: "Such a coincidence. We meet them again. Young master, I noticed that the young lady's cousin's bearings were not ordinary. Do you want me to have someone investigate them? Even if not, they'll still be on the watch list."
 
-The strong dragon could repress the snake, only because the dragon didn't gather information. Now that his master was the lord of Shangxi, they had to find out what kind of snakes lived here. Once they have a clear picture, then they could use the ones that could be used. As for the one's that couldn't, just kill and cook them, then replace them with one that can be used. Even if that cousin was only a normal person, it would be good to learn more about that young lady. If their master ever becomes interested, they would know where to look for her.
+The strong dragon couldn't repress the snake, only because the dragon didn't gather information. Now that his master was the lord of Shangxi, they had to find out what kind of snakes lived here. Once they have a clear picture, then they could use the ones that could be used. As for the one's that couldn't, just kill and cook them, then replace them with one that can be used. Even if that cousin was only a normal person, it would be good to learn more about that young lady. If their master ever becomes interested, they would know where to look for her.
 
 Xiao Yuan put down his cup and nodded.
  

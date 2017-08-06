@@ -1,0 +1,21 @@
+---
+layout: posts
+title:  "Virtual World: Peerless White Emperor Chapters 156 - 165"
+date:   2017-08-06 15:30:00
+comments: true
+---
+
+Hey Everyone,
+
+I've set the option to donate! Please see the donation page for details and help me keep this website running. If I'm unable to get enough to help pay the disqus subscription, I will have to enable ads >.<
+
+Donation Page: [here][donations]
+
+Anyways, thanks for waiting :) I realize I've been updating rather slowly lately. I'll probably be continuing as is for now until I decide on what I want do about it.
+
+Enjoy.
+
+[Chapter 156][vwpwe0156]
+
+[vwpwe0156]: {{site.url}}/translations/vwpwe/0156
+[donations]: {{site.url}}/donation
