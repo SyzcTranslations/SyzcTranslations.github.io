@@ -9,6 +9,9 @@ permalink: none
 paginate: 10
 future: true
 
+gems:
+  - jekyll-seo-tag
+
 # Build Settings
 sass:
   sass_dir: _sass
