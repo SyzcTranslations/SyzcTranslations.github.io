@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 165"
 category: "VWPWE"
 translator: "syzc"
+thanks1: "Brass"
 comments: true
 ---
 
@@ -44,7 +45,7 @@ BlackIce knew they had spent big this time, but with this skill, she would be ev
 
 “Ok, just hand over 100 gold...” CloudDragon understood he wouldn’t be getting his hands on the first resurrection skillbook, but he still had to recover some of his losses.
 
-Little Ye Tian smiled and took out 100 gold. She split it into 14 shares. Her team had 5 people, she they got 30 gold back.
+Little Ye Tian smiled and took out 100 gold. She split it into 14 shares. Her team had 5 people, so they got 30 gold back.
 
 Beginner Level Revive (Super Rare - Beginner Level): Chant 5 phrases and 2 verses (10 seconds) to bring a dead target back to life. Target will revive with 25% health and mana. Costs: 30 mana. Cooldown: 10 minutes. (Limited to being used on players.)
 
