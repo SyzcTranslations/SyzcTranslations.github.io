@@ -1,0 +1,25 @@
+---
+layout: posts
+title:  "VWPWE ch166-175 & LB ch4"
+date:   2017-08-11 23:15:00
+comments: true
+---
+
+Hey Everyone,
+
+Wow, so I met my donation goals pretty quickly. Thanks so much to those who donated and those who signed up to be patrons :)
+
+So I have some other news. I have a vacation planned so I'll be leaving in a week and won't be able to continue updating the site while I'm away. I'll be visiting my family in Taiwan :3 Super excited. I'll translate there when I have time, but I can't promise anything. There will be at most 1 or 2 more batches of releases before I go.
+
+After the vacations, I'm thinking of setting a schedule for my translations. Still not sure what I want to do with that yet.
+
+Anyways, today I spent all day after work editting these chapters of White Emperor and Lovable Beauty x.x So they're release together this time ^^
+
+Enjoy.
+
+[VWPWE Chapter 166][vwpwe0166]
+
+[LB Chapter 4][lb004]
+
+[vwpwe0166]: {{site.url}}/translations/vwpwe/0166
+[lb004]: {{site.url}}/translations/lb/0004

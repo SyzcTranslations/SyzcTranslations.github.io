@@ -105,6 +105,8 @@ Dragon Group (龙组)
 	  * Azeroth's Magic Proficiency (艾萨罗的法术精通) +
 	  * Forest Hunter (林间狩猎者)
 	  * Eagle Eye (鹰眼)
+	  * Ranged Master (远程大师)
+	  * Rapid Reflex (急速反射)
 
 	Skills: 
 	  * Rapid Shot (急速秒射)
@@ -121,6 +123,7 @@ Dragon Group (龙组)
 	  * Yak's Beast Taming Theory (耶奇的野兽驯化论)
 	  * Entangling Roots (蔓藤缠绕)
 	  * Thorns Armor (荆棘术)
+	  * Multishot (多重射击)
  
 ---
 
@@ -144,6 +147,8 @@ Dragon Group (龙组)
 	  * Strong and Tough Body (身强体壮) +
 	  * Lightning Reflexes (快速反射)
 	  * Cultivate Through Bitterness (苦修者的坚持)
+	  * Andarl's Light (安达卢之光)
+	  * Strong Willed (精神反抗)
 
 	Skills: 
 	  * Double Strike (二连击)
@@ -154,6 +159,7 @@ Dragon Group (龙组)
 	  * Heavy Strike (重斩)
 	  * Advanced Aura Mastery (深度光环掌握)
 	  * Aura of Concentration (凝神光环)
+	  * Aura of Toughness (坚韧光环)
 
 ---
 
@@ -176,6 +182,9 @@ Dragon Group (龙组)
 	  * Arms Dealer's Strength (武装商贩之力) ++
 	  * Tenacious (坚韧)
 	  * Merchant's Benefit (商人逐利)
+	  * Lele Dart Technique (乐乐飞镖术)
+	  * Rule No.1 of Alulu's Forceful Marketing - The Truth is in the Fist (安露露的暴力推销守则第一条·拳头才是推销的真理)
+	  * ???
 
 	Skills: 
 	  * Crossed Eyes (斗鸡眼)
@@ -188,6 +197,8 @@ Dragon Group (龙组)
 	  * Rising Slash (升龙斩)
 	  * Power of Money (金钱动力)
 	  * Negotiation Breakdown (非暴力不合作)
+	  * Lele Certain Hit Dart (乐乐飞镖决)
+	  * Handcart Charge (手推车冲锋)
 
 ---
 
@@ -220,12 +231,15 @@ Dragon Group (龙组)
 	 Talent:
 	   * Paladin's Creed of Righteousness (圣骑士信条·正义) +
 	   * Owl's Wisdom (枭之睿智)
+	   * Paladin's Prayer (圣骑士的祈祷)
+	   * Intelligent (聪颖)
 
 	 Skills:
 	   * Minor Holy Shield (次级光盾吸收)
 	   * Rejuvenating Light (光疗恢复)
 	   * Entangling Roots (蔓藤缠绕)
 	   * Minor Healing Light (次级光愈术)
+	   * Blessing of Glory (荣光·祝福)
 
 ---
 
@@ -284,11 +298,14 @@ Dragon Group (龙组)
 	Talents:
 	  * Attack and Defend (攻守兼备)
 	  * Inner Strength (内劲) +
+	  * Combo Masater (连击大师)
+	  * Toughness (刚体)
 
 	Skills:
 	  * Wolverine Strike (狼獾打击) +
 	  * Shouryuukenn (升龙拳)
 	  * Triple Strike (三连击)
 	  * Offence / Defence Stance (攻击/防守)
+	  * Qi - Collapsing Fist (内劲·崩拳)
 
 ---

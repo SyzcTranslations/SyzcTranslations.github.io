@@ -1,0 +1,17 @@
+---
+layout: chapter
+title:  "Chapter 176"
+category: "VWPWE"
+translator: "syzc"
+comments: true
+---
+
+**Teaser**
+
+As for FrozenCloud.
+
+Combo Master (Epic - Beginner Level): +10 Strength, +10 Dexterity, +15% damage for each skill in the combo.
+
+Qi - Collapsing Fist (Epic - Beginner Level): Spend 50 qi to perform a fierce strike against the target, dealing 275% damage with +30 penetration. Furthermore, has a chance to stun or knockback. Cooldown: 2 minutes.
+
+Toughness (Rare - Beginner Level): +5 Defence, +5 Constitution. 
