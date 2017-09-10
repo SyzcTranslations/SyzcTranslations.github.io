@@ -124,6 +124,7 @@ Dragon Group (龙组)
 	  * Entangling Roots (蔓藤缠绕)
 	  * Thorns Armor (荆棘术)
 	  * Multishot (多重射击)
+	  * Meteor Shot (流星射击)
  
 ---
 
@@ -160,6 +161,7 @@ Dragon Group (龙组)
 	  * Advanced Aura Mastery (深度光环掌握)
 	  * Aura of Concentration (凝神光环)
 	  * Aura of Toughness (坚韧光环)
+	  * Holy Judgement (惩戒圣击)
 
 ---
 
@@ -199,6 +201,8 @@ Dragon Group (龙组)
 	  * Negotiation Breakdown (非暴力不合作)
 	  * Lele Certain Hit Dart (乐乐飞镖决)
 	  * Handcart Charge (手推车冲锋)
+	  * One Handed Sword Drawing Secret Art - Returning Dragon / Surging Dragon (单手拔刀秘术·回龙闪/探龙闪)
+	  * Backup Weapon (备用重兵)
 
 ---
 
@@ -240,6 +244,7 @@ Dragon Group (龙组)
 	   * Entangling Roots (蔓藤缠绕)
 	   * Minor Healing Light (次级光愈术)
 	   * Blessing of Glory (荣光·祝福)
+	   * Light Pearl (光愈珠)
 
 ---
 
