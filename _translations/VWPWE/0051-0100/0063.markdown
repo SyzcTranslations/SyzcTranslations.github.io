@@ -47,7 +47,7 @@ Steal Spell (Rare - Beginner Level): Activate the moment an enemy would complete
  
 Minor Healing Light (Beginner Level): Chant two lines (2 seconds), and heal the target for 10 health. Affected by Intelligence, Wisdom, and Spell Power. Requires a faith based class. Cooldown: 10 seconds. Cost: 4 mana. (Recommended class: priest, paladin, or any other faith based classes).
  
-Shouryuukenn (Beginner Level): Perform an uppercut against your target, dealing 175% damage with a chance to send the target airborne. Cost: 10 Rage and 15 Energy. Restricted to: Grappler, Knight.
+Shouryuukenn (Beginner Level): Perform an uppercut against your target, dealing 175% damage with a chance to send the target airborne. Cost: 10 Rage and 15 Energy. Restricted to: Grappler, Ranger.
  
 Execute (Rare - Beginner Level): Perform a finishing strike on the target dealing 300% damage. Requires the target to be weakened, stunned, or confused. Using this skill will consume all your rage, increasing the damage by 1% for each point of rage consumed. (Additive with the 300% for a maximum of 400%). Cooldown: 5 minutes. (Requires a heavy weapon. Light weapons will only deal half the damage)
  
@@ -87,7 +87,7 @@ The three of them, including Lele stared at him expressionlessly. They looked do
 
 Ye Cang's face didn't change as he coughed. "Cough~ Cough~ Let's distribute the items then."
  
-"I'm probably the only one here who can learn Steal Spell, so I'll be taking it. Shouryuukenn can go to Lil'Dino. Lele can have Execute. Minor Healing Light and the legplates, A'Xiong, come take them. Rapid Thrusts, mine. This belt, Lil'Dino, you can have it. Ok! All done!" Ye Cang finished handing out the loot extremely quickly. FrozenCloud was surprised, she didn't expect to get such a good belt. Even more surprising was that he actually met the requirements to learn Steal Spell!? There's no way! He was a knight! A magic knight? It doesn't make sense! Even spellcasters didn't have that much intelligence, not to mention a jack of all trades class!  
+"I'm probably the only one here who can learn Steal Spell, so I'll be taking it. Shouryuukenn can go to Lil'Dino. Lele can have Execute. Minor Healing Light and the legplates, A'Xiong, come take them. Rapid Thrusts, mine. This belt, Lil'Dino, you can have it. Ok! All done!" Ye Cang finished handing out the loot extremely quickly. FrozenCloud was surprised, she didn't expect to get such a good belt. Even more surprising was that he actually met the requirements to learn Steal Spell!? There's no way! He was a Ranger! A spellcasting Ranger? It doesn't make sense! Even spellcasters didn't have that much intelligence, not to mention a jack of all trades class!  
 
 ---
 

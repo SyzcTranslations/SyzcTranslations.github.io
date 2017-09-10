@@ -77,7 +77,7 @@ Dragon Group (龙组)
 
 	Race: Half-Elf
 
-	Class: Knight
+	Class: Ranger
 
 	Nicknames: Brother Lil'White, Bro, Silver Devil, White Hair
 
@@ -99,8 +99,8 @@ Dragon Group (龙组)
 	  * Cooking (Cooking / Identifying / Gathering) +
 
 	Talents: 
-	  * Heart of a Knight (游侠之心)
-	  * Knight's Mashup Spirit (游侠的强制混搭精神) +
+	  * Heart of a Ranger (游侠之心)
+	  * Ranger's Mashup Spirit (游侠的强制混搭精神) +
 	  * Clever and Deft (心灵手巧) +
 	  * Azeroth's Magic Proficiency (艾萨罗的法术精通) +
 	  * Forest Hunter (林间狩猎者)
@@ -186,7 +186,7 @@ Dragon Group (龙组)
 	  * Merchant's Benefit (商人逐利)
 	  * Lele Dart Technique (乐乐飞镖术)
 	  * Rule No.1 of Alulu's Forceful Marketing - The Truth is in the Fist (安露露的暴力推销守则第一条·拳头才是推销的真理)
-	  * ???
+	  * Backup Weapon (备用重兵)
 
 	Skills: 
 	  * Crossed Eyes (斗鸡眼)
@@ -202,7 +202,6 @@ Dragon Group (龙组)
 	  * Lele Certain Hit Dart (乐乐飞镖决)
 	  * Handcart Charge (手推车冲锋)
 	  * One Handed Sword Drawing Secret Art - Returning Dragon / Surging Dragon (单手拔刀秘术·回龙闪/探龙闪)
-	  * Backup Weapon (备用重兵)
 
 ---
 

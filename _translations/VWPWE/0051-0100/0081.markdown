@@ -29,13 +29,13 @@ The three guys were also extremely happy. There were both skills and class equip
  
 Ye Cang received the common skill - Rapid Dash, as well as a 150cm heavy longbow. It was emerald green, and was quite heavy, but still had texture extremely similar to wood. Moreover, the bowstring was extremely tight. He tried pulling it. Good bow!  
  
-Knight's Heavy Bow (Masterwork - Class)
+Ranger's Heavy Bow (Masterwork - Class)
  
 Category: Heavy Longbow
  
 Requirements: 23 Strength, 21 Dexterity
  
-Required Class: Bowman related (Divine Bowman, Hunter, Knight)
+Required Class: Bowman related (Divine Bowman, Hunter, Ranger)
  
 Damage: 12 - 14
  

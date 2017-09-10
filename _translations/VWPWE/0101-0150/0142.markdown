@@ -80,9 +80,9 @@ Besides Ye Cang, Zhang ZhengXiong, and Lin Le, the other's hadn't received any g
 
 Fine Iron-Fir Heavy Crossbow (Distinguished - Class Equipment)
 
-Category: Heavy Crossbow (Special equipment exclusive to hunters and knights. Considered a one-time per battle ranged burst weapon. Different from a hand-crossbow or light crossbow, it takes quite a bit of time to reload. It should be loaded before starting a fight. It's usually better to shoot your bow a few more time rather than reload it mid-fight. It's only worth it when you need the damage to break through tough defence. Attributes are applied only when equipped. Does not share a slot with the bow.)
+Category: Heavy Crossbow (Special equipment exclusive to hunters and rangers. Considered a one-time per battle ranged burst weapon. Different from a hand-crossbow or light crossbow, it takes quite a bit of time to reload. It should be loaded before starting a fight. It's usually better to shoot your bow a few more time rather than reload it mid-fight. It's only worth it when you need the damage to break through tough defence. Attributes are applied only when equipped. Does not share a slot with the bow.)
 
-Requirements: Hunter, Knight
+Requirements: Hunter, Ranger
 
 Damage: 30 - 40
 

@@ -49,7 +49,7 @@ Ye Cang played with his eyebrows looking at himself as a half-elf in the hologra
 
 "Mm! I understand, bro / brother Lil'White!" Zhang ZhengXiong and Lin Le nodded.
 
-Ye Cang rapidly looked through the human's available classes: Fighter, Monk, Knight, Hunter, Mage, Summoner, Priest, Paladin, Rogue. He opened the stats charts. Fighters leaned towards strength, they were a strong frontline class. He looked at the knight's chart, it looked like a pentagon. Tanking, healing, ranged and melee damage dealer, support, pvp; It could do it all! Wasn't this too broken? Good! The knight it is! "I chose knight!"
+Ye Cang rapidly looked through the human's available classes: Fighter, Monk, Ranger, Hunter, Mage, Summoner, Priest, Paladin, Rogue. He opened the stats charts. Fighters leaned towards strength, they were a strong frontline class. He looked at the Ranger's chart, it looked like a pentagon. Tanking, healing, ranged and melee damage dealer, support, pvp; It could do it all! Wasn't this too broken? Good! Ranger it is! "I chose Ranger!"
 
 "Bro, I chose priest!" Zhang ZhengXiong decided too.
 
@@ -61,7 +61,7 @@ Ye Cang rapidly looked through the human's available classes: Fighter, Monk, Kni
 
 "Oh? Then I'll random... The system gave me a hidden class, Arms Dealer? What sort of class is that?" Lin Le said confused. Ye Cang and Zhang ZhengXiong both felt the ground give out under them. F\*\*k, that could happen!? Ye Cang then remembered to hide his own race. While he was going to do that, he saw his attribute allocation. Every attribute was at the base 5 points with 15 points free to allocate. 
 
-"Let me see... Knights are recommended leaders and should raise Strength, Dexterity, Constitution, Intelligence, Wisdom..." Ye Cang saw the recommendations and immediately became speechless. He flew into a rage! He felt like he was cheated. "I'll raise your uncle! How is this any f\*\*king different than telling me nothing! Random!"
+"Let me see... Rangers are recommended leaders and should raise Strength, Dexterity, Constitution, Intelligence, Wisdom..." Ye Cang saw the recommendations and immediately became speechless. He flew into a rage! He felt like he was cheated. "I'll raise your uncle! How is this any f\*\*king different than telling me nothing! Random!"
 
 "..." Zhang ZhengXiong heard Ye Cang and stayed silent. He saw that his own class recommended Wisdom. After thinking a bit, he put 5 points into Strength and 10 points into Constitution.  A healthy body is a healthy mind.
 
@@ -91,7 +91,7 @@ Race: Half-Elf
 
 Gender: Male
 
-Class: Trainee Knight
+Class: Trainee Ranger
 
 Strength: 11 (1 health, 0.5 attack power, influences your strength)
 

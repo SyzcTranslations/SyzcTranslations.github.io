@@ -60,7 +60,7 @@ Aura of Toughness (Epic - Beginner Level): +9 Defence, +9 Constitution, +7 Stren
 
 Strong Willed (Super Rare - Beginner Level): +10% Will.
 
-PS: The glorious horseman - Andarl. One of the five great paladins of the holy church. He lead the allied force through the Moonlit Dream Forest and obtained the first victory against the calamity. He fought against the water spirit of the moonlit lake - Rincada and was defeated, but used the last of his holy power to perish together, once again making a great contribution to the allied forces.
+PS: The glorious knight - Andarl. One of the five great paladins of the holy church. He lead the allied force through the Moonlit Dream Forest and obtained the first victory against the calamity. He fought against the water spirit of the moonlit lake - Rincada and was defeated, but used the last of his holy power to perish together, once again making a great contribution to the allied forces.
 
 "When Andarl is beside you, you will find you're more powerful than you imagine..."
 
@@ -72,4 +72,4 @@ Paladin's Prayer (Epic - Beginner Level): +10 to light effects, +10 Constitution
 
 Blessing of Glory (Epic - Beginner Level): Chant 10 bars and 5 verses (25 seconds) to bless surrounding friendly forces with +10% all stats for 1 hour. Cost: 30 mana. Cooldown: none.
 
-Intelligent (Rare - First Level): +5 Intelligence, +2% Will.
+Intelligent (Rare - Beginner Level): +5 Intelligence, +2% Will.
