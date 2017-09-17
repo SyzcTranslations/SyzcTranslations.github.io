@@ -1,0 +1,25 @@
+---
+layout: posts
+title:  "LB ch5 & VWPWE ch183-186"
+date:   2017-09-17 18:23:00
+comments: true
+---
+
+Hey Everyone,
+
+The chapter of Lovable beauty along with a couple chapters of Peerless White Emperor. I personally feel that this times releases aren't that interresting, so I will do my best to get the next one out as soon as I can (for Peerless White Emperor).
+
+To make up for that, have some cat pics! My family's little princess.
+
+<img src="{{site.url}}/assets/cat1.jpg" width="100%"/>
+
+<img src="{{site.url}}/assets/cat2.jpg" width="100%"/>
+
+Enjoy!!
+
+[VWPWE Chapter 183][vwpwe0183]
+
+[LB Chapter 5][lb005]
+
+[vwpwe0183]: {{site.url}}/translations/vwpwe/0183
+[lb005]: {{site.url}}/translations/lb/0005

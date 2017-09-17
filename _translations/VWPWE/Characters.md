@@ -125,6 +125,11 @@ Dragon Group (龙组)
 	  * Thorns Armor (荆棘术)
 	  * Multishot (多重射击)
 	  * Meteor Shot (流星射击)
+	  * Kilaris's Shadow (基拉里斯之影)
+	  	* Shadow Step (遁入阴影)
+	  	* Shadow Strike (影子打击)
+	  	* Shadow Equip (影之装备)
+	  * Ice Shards(碎冰刺)
  
 ---
 
@@ -162,6 +167,7 @@ Dragon Group (龙组)
 	  * Aura of Concentration (凝神光环)
 	  * Aura of Toughness (坚韧光环)
 	  * Holy Judgement (惩戒圣击)
+	  * Fierce Tiger Pounce (猛虎出击)
 
 ---
 
@@ -202,6 +208,7 @@ Dragon Group (龙组)
 	  * Lele Certain Hit Dart (乐乐飞镖决)
 	  * Handcart Charge (手推车冲锋)
 	  * One Handed Sword Drawing Secret Art - Returning Dragon / Surging Dragon (单手拔刀秘术·回龙闪/探龙闪)
+	  * Assault Charge (冲锋追击)
 
 ---
 
@@ -244,6 +251,7 @@ Dragon Group (龙组)
 	   * Minor Healing Light (次级光愈术)
 	   * Blessing of Glory (荣光·祝福)
 	   * Light Pearl (光愈珠)
+	   * Blessing of Strength (力量祝福)
 
 ---
 
