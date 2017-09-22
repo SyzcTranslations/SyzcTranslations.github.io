@@ -97,7 +97,7 @@ Class Talents: Heart of a Ranger (Beginner Level), Ranger's Mashup Spirit (Inter
  
 Common Talent: Clever and Deft.
  
-Class Skills: Precise Shot / Strike, Rapid Shot.
+Class Skills: Precise Shot / Strike, Rapid Fire.
  
 Common Skills: Minor Healing Stream, Straight Thrust, Double Shot, Mirror Image.
  

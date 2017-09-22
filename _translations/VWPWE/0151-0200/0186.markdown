@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 186"
 category: "VWPWE"
 translator: "syzc"
+thanks1: "lazygeko"
 comments: true
 ---
 
@@ -28,7 +29,7 @@ FrozenCloud rolled her eyes. How many times had they heard that already. That gu
 
 Ye Cang looked at the loot. 5 skillbooks and 5 pieces of equipment. He first decided to distribute the skillbooks. They were: Fierce Tiger Pounce, Ice Shards, Blessing of Strength, Assault Charge, Summon Water Elemental. According to the agreement with Zhang ZhengXiong, Fierce Tiger Pounce went to him. It was a skill that performed a short distance dash and attack.  
 
-First Tiger Pounce: Dash and strike at a target within range dealing 165% damage. Has a chance of causing stun. Cost: 25 rage. Cooldown: 25 seconds.
+Fierce Tiger Pounce: Dash and strike at a target within range dealing 165% damage. Has a chance of causing stun. Cost: 25 rage. Cooldown: 25 seconds.
 
 Ye Cang gave Ice Shards to himself. Blessing of Strength went to Little Ye Tian. Assault Charge went to Lin Le. As for Summon Water Elemental Companion - Tobira, it was only for Warlocks or Summoners. Since none of them could learn it, it went into the handcart.
 

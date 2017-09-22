@@ -109,7 +109,7 @@ Dragon Group (龙组)
 	  * Rapid Reflex (急速反射)
 
 	Skills: 
-	  * Rapid Shot (急速秒射)
+	  * Rapid Fire (急速秒射)
 	  * Straight Thrust (直线刺击)
 	  * Minor Healing Stream (次级水愈术)
 	  * Double Shot (二连射)
