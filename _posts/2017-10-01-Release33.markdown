@@ -1,0 +1,23 @@
+---
+layout: posts
+title:  "LB ch6 & VWPWE ch196-205"
+date:   2017-10-01 16:50:00
+comments: true
+---
+
+Hey Everyone,
+
+Took a while to get the motivation to edit this.
+
+Anyways, the end of the beginner area is fast approaching!
+
+Also, some drama in Lovable Beauty.
+
+Enjoy!!
+
+[VWPWE Chapter 196][vwpwe0196]
+
+[LB Chapter 6][lb006]
+
+[vwpwe0196]: {{site.url}}/translations/vwpwe/0196
+[lb006]: {{site.url}}/translations/lb/0006

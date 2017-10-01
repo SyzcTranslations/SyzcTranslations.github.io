@@ -47,6 +47,7 @@ Flame Dragon Union (炎龙会)
 
 Misty Rain House (通成员)
   * [MistyVeil](#)
+  * [WillowDream](#)
 
 ---
 
@@ -71,6 +72,7 @@ Dragon Group (龙组)
 ---
 
 <a name="yecang">Ye Cang (叶苍)</a>
+	Family name Ye, given name Cang (the color of the sky which can be blue or ash-gray).
 
 	IGN: PaleSnow (苍雪)
 	  * This name is a combination of Ye Cang's Cang and QinXue's Xue.
@@ -134,6 +136,8 @@ Dragon Group (龙组)
 ---
 
 <a name="zhangzhengxiong">Zhang ZhengXiong (张正雄)</a>
+	Family name Zhang, given name Zheng (Straigh/Upright) Xiong (Male/Mighty/Powerful)
+
 
 	IGN: HeavenShakingMight (雄震天)
 	  * This name uses the Xiong character from his name meaning mighty.
@@ -172,6 +176,7 @@ Dragon Group (龙组)
 ---
 
 <a name="linle">Lin Le (林乐)</a>
+	Family name Lin, given name Le (Happy/Cheerful)
 
 	IGN: HappyAndCheerful (开心乐乐)
 	  * Uses the Le character from his name meaning cheerful.
@@ -213,6 +218,7 @@ Dragon Group (龙组)
 ---
 
 <a name="wuna">Wu Na (吴娜)</a>
+	Family name Wu, given name Na (just a character used in female names)
 
 	IGN: ???
 
@@ -228,6 +234,7 @@ Dragon Group (龙组)
 ---
 
 <a name="yetian">Ye Tian (叶天)</a>
+	Family name Ye, given name Tian (Sky)
 
 	IGN: NightSky (夜天)
 	  * Night sky in chinese is also Ye Tian (a different Ye but the same Tian)
@@ -236,7 +243,7 @@ Dragon Group (龙组)
 
 	 Class: Paladin
 
-	 Nicknames: TianTian, Little Ye Tian
+	 Nicknames: TianTian, Little Ye Tian, Little Girl
 
 	 Talent:
 	   * Paladin's Creed of Righteousness (圣骑士信条·正义) +
@@ -255,7 +262,8 @@ Dragon Group (龙组)
 
 ---
 
-<a name="thornyrose">???</a>
+<a name="thornyrose">Qin Zhen (秦贞)</a>
+	Family name Qin, given name Zhen (Chaste)
 
 	IGN: ThornyRose (刺玫)
 
@@ -267,7 +275,8 @@ Dragon Group (龙组)
 
 ---
 
-<a name="frozenblood">???</a>
+<a name="frozenblood">Su ?? (苏??)</a>
+	Family Name Su
 
 	IGN: FrozenBlood (冰血)
 
@@ -275,7 +284,7 @@ Dragon Group (龙组)
 
 	Class: Assassin
 
-	Nicknames: Ice, Night Empress
+	Nicknames: Icy, Night Empress
 
 ---
 
