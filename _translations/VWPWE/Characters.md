@@ -111,12 +111,14 @@ Dragon Group (龙组)
 	  * Eagle Eye (鹰眼)
 	  * Ranged Master (远程大师)
 	  * Rapid Reflex (急速反射)
+	  * Adventurer's Essentials (游击者纲要)
+	  * Tactics - Rapid Withdrawal/Persuit (战术·急速撤离/追击)
 
 	Skills: 
 	  * Rapid Fire (急速秒射)
 	  * Straight Thrust (直线刺击)
 	  * Minor Healing Stream (次级水愈术)
-	  * Double Shot (二连射)
+	  * Triple Shot (三连射)
 	  * Precise Shot / Strike (瞄准射击/精准打击)
 	  * Mirror Image (水影换形) +
 	  * Tidal Wave (水浪冲击)
@@ -138,6 +140,8 @@ Dragon Group (龙组)
 	  * Enchant Arrow - Fire (附魔箭·火)
 	  	* Fire Arrow (火箭)
 	  	* Explosive Arrow (爆炸箭)
+	  * Hunter's Mark (猎手印记)
+	  * Cloudwalk (云步)
  
 ---
 
@@ -181,6 +185,7 @@ Dragon Group (龙组)
 	  * Aura of Toughness (坚韧光环)
 	  * Holy Judgement (惩戒圣击)
 	  * Fierce Tiger Pounce (猛虎出击)
+	  * Thunderclap (雷霆践踏)
 
 ---
 
@@ -226,6 +231,8 @@ Dragon Group (龙组)
 	  * Handcart Charge (手推车冲锋)
 	  * One Handed Sword Drawing Secret Art - Returning Dragon / Surging Dragon (单手拔刀秘术·回龙闪/探龙闪)
 	  * Assault Charge (冲锋追击)
+	  * Wild Blows (狂击)
+	  * Money Maintenance (金钱养生)
 
 ---
 
@@ -260,6 +267,10 @@ Dragon Group (龙组)
 	Achievements:
 	  * Really New Village's Hero (真新镇的英雄)
 
+	Proession:
+	  * Engineering
+
+
 	Talent:
 	   * Paladin's Creed of Righteousness (圣骑士信条·正义) +
 	   * Owl's Wisdom (枭之睿智)
@@ -274,6 +285,7 @@ Dragon Group (龙组)
 	   * Blessing of Glory (荣光·祝福)
 	   * Light Pearl (光愈珠)
 	   * Blessing of Strength (力量祝福)
+	   * Mana Regeneration Passive
 
 ---
 
@@ -346,5 +358,6 @@ Dragon Group (龙组)
 	  * Triple Strike (三连击)
 	  * Offence / Defence Stance (攻击/防守)
 	  * Qi - Collapsing Fist (内劲·崩拳)
+	  * Shattering Blow (碎裂打击)
 
 ---
