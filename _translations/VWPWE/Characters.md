@@ -86,9 +86,11 @@ Dragon Group (龙组)
 	Titles: 
 	  * Blue Scaled Pioneer (蓝鳞先驱者)
 	  * Really New Village's Diplomat Hero (真新镇外交英雄)
+	  * Really New Village's Light (真新镇之光)
 
 	Achievements:
 	  * Friend of the Fishmen
+	  * Really New Village's Hero (真新镇的英雄)
 
 	Racials:
 	  * Diplomat (外交家)
@@ -132,6 +134,10 @@ Dragon Group (龙组)
 	  	* Shadow Strike (影子打击)
 	  	* Shadow Equip (影之装备)
 	  * Ice Shards(碎冰刺)
+	  * Food Poisoning Arrows (烹饪之箭枝淬毒术)
+	  * Enchant Arrow - Fire (附魔箭·火)
+	  	* Fire Arrow (火箭)
+	  	* Explosive Arrow (爆炸箭)
  
 ---
 
@@ -148,6 +154,9 @@ Dragon Group (龙组)
 
 	Nicknames: A'Xiong, Brother Lil'Xiong, Shaking Bear
 	  * Shaking bear: The chinese raw can mean both blackbear and coward. It's a combination of the character for dog (maybe cause he keeps hitting on the girls) and bear (sounds like Xiong from his name).
+
+	Achievements:
+	  * Really New Village's Hero (真新镇的英雄)
 
 	Profession:
 	  * Smithing (Smithing / Mining / Smelting)
@@ -186,6 +195,9 @@ Dragon Group (龙组)
 	Class: Arms Dealer
 
 	Nicknames: Lele
+
+	Achievements:
+	  * Really New Village's Hero (真新镇的英雄)
 
 	Proession:
 	  * Fishing (Fishing / Identifying Aquatic / Creating Bait)
@@ -239,19 +251,22 @@ Dragon Group (龙组)
 	IGN: NightSky (夜天)
 	  * Night sky in chinese is also Ye Tian (a different Ye but the same Tian)
 
-	 Race: Human
+	Race: Human
 
-	 Class: Paladin
+	Class: Paladin
 
-	 Nicknames: TianTian, Little Ye Tian, Little Girl
+	Nicknames: TianTian, Little Ye Tian, Little Girl
 
-	 Talent:
+	Achievements:
+	  * Really New Village's Hero (真新镇的英雄)
+
+	Talent:
 	   * Paladin's Creed of Righteousness (圣骑士信条·正义) +
 	   * Owl's Wisdom (枭之睿智)
 	   * Paladin's Prayer (圣骑士的祈祷)
 	   * Intelligent (聪颖)
 
-	 Skills:
+	Skills:
 	   * Minor Holy Shield (次级光盾吸收)
 	   * Rejuvenating Light (光疗恢复)
 	   * Entangling Roots (蔓藤缠绕)
@@ -315,6 +330,9 @@ Dragon Group (龙组)
 	Class: Grappler
 
 	Nicknames: Lil'Dino
+
+	Achievements:
+	  * Really New Village's Hero (真新镇的英雄)
 
 	Talents:
 	  * Attack and Defend (攻守兼备)
