@@ -302,10 +302,11 @@ Dragon Group (龙组)
 
 ---
 
-<a name="frozenblood">Su ?? (苏??)</a>
-	Family Name Su
+<a name="frozenblood">Su BingXue (苏冰雪)</a>
+	Family Name Su, given name Bing (Cold/Ice) Xue (Snow)
 
 	IGN: FrozenBlood (冰血)
+	  * Xue (Snow) and Xue (Blood) sound the same.
 
 	Race: Human
 
@@ -333,9 +334,10 @@ Dragon Group (龙组)
 
 ---
 
-<a name="frozencloud">???</a>
+<a name="frozencloud">Su BingYun (苏冰云)</a>
 
 	IGN: FrozenCloud (冰云)
+	  * Appears to be the same as her real name (unless that isn't her real name).
 
 	Race: Human
 
