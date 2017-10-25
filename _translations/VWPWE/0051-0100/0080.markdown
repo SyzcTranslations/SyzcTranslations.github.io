@@ -5,6 +5,7 @@ category: "VWPWE"
 translator: "syzc"
 editor: "Tab"
 comments: true
+thanks1: "serioGM"
 ---
 
 **Chapter 80: Overlord of Water**
@@ -37,7 +38,7 @@ The system message arrived. FrozenCloud who was busy defending Pastor sighed in 
  
 Hogfish Boss: The leader of a shoal of hogfish. Has ample strength.
  
-The enormous shadow splashed out of the water. FrozenBlood looked up at the figure that blocked out the moon, and her heart sank.
+The enormous shadow splashed out of the water. FrozenCloud looked up at the figure that blocked out the moon, and her heart sank.
  
 She suddenly crouched down and prepared to use Shouryuukenn. It was her only crowd control skill, perhaps she could protect the boat if she used it. It was the only thing she could do under these circumstances.
  

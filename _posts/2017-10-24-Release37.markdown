@@ -1,0 +1,14 @@
+---
+layout: posts
+title:  "Virtual World: Peerless White Emperor Chapters 233 - 236"
+date:   2017-10-24 22:45:00
+comments: true
+---
+
+Hey Everyone,
+
+Sorry for the delay. I've been busy with work and Etrian Odyssey V. After playing it obsessively for a few days, I'm ready to get back to release chapters. I've got a bunch translated, just need check it over and edit it, so can expect more chapters very soon.
+
+[VWPWE Chapter 233][vwpwe0233]
+
+[vwpwe0233]: {{site.url}}/translations/vwpwe/0233
