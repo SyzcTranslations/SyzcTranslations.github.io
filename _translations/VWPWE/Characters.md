@@ -126,6 +126,8 @@ Dragon Group (龙组)
 	  * Multiple Straight Thrusts (多重直刺)
 	  * Dashing Straight Thrust (直线冲刺)
 	  * Swift Retreat (急速逃脱)
+	  * Kakalika - Flame Blade (卡卡里卡·火刃加持)
+	  * Kakalika - Flame Burst (卡卡里卡·炎爆术)
 	  * Yak's Beast Taming Theory (耶奇的野兽驯化论)
 	  * Entangling Roots (蔓藤缠绕)
 	  * Thorns Armor (荆棘术)
@@ -186,6 +188,7 @@ Dragon Group (龙组)
 	  * Holy Judgement (惩戒圣击)
 	  * Fierce Tiger Pounce (猛虎出击)
 	  * Thunderclap (雷霆践踏)
+	  * Warsong Aura (战争律动)
 
 ---
 
@@ -233,6 +236,11 @@ Dragon Group (龙组)
 	  * Assault Charge (冲锋追击)
 	  * Wild Blows (狂击)
 	  * Money Maintenance (金钱养生)
+	  * Handcart Tornado (手推车旋风)
+	  * Armed Destuction (武装拆解)
+
+  	Pet:	
+  	  * Little Ren (Rennes Tiger)
 
 ---
 
@@ -270,7 +278,6 @@ Dragon Group (龙组)
 	Proession:
 	  * Engineering
 
-
 	Talent:
 	   * Paladin's Creed of Righteousness (圣骑士信条·正义) +
 	   * Owl's Wisdom (枭之睿智)
@@ -286,6 +293,9 @@ Dragon Group (龙组)
 	   * Light Pearl (光愈珠)
 	   * Blessing of Strength (力量祝福)
 	   * Mana Regeneration Passive
+
+	Pet:
+		* Emergency Ration (Kaakoo Bug Soldier)
 
 ---
 
@@ -359,7 +369,8 @@ Dragon Group (龙组)
 	  * Shouryuukenn (升龙拳)
 	  * Triple Strike (三连击)
 	  * Offence / Defence Stance (攻击/防守)
-	  * Qi - Collapsing Fist (内劲·崩拳)
+	  * Qi - Collapsing Palm (内劲·崩拳)
 	  * Shattering Blow (碎裂打击)
+	  * Wyvern Kick (飞龙踢)
 
 ---
