@@ -144,6 +144,7 @@ Dragon Group (龙组)
 	  	* Explosive Arrow (爆炸箭)
 	  * Hunter's Mark (猎手印记)
 	  * Cloudwalk (云步)
+	  * Create Water (造水术)
  
 ---
 
@@ -251,12 +252,20 @@ Dragon Group (龙组)
 
 	Race: ???
 
-	Class: Priest
+	Class: ???
 
 	Nicknames: Nana
 
 	Skills: 
 	  * Lesser Wind Blade (小风刃)
+	  * Minor Windstorm (次级群体风刃术)
+	  * Entangling Roots (蔓藤术)
+	  * Ice Arrow (寒冰箭)
+	  * Magic Missile (魔法飞弹)
+	  * Magic Knowledge (魔术智慧)
+	  * Piercing Cold (冰风刺骨)
+	  * Ice Spear (冰锥贯体)
+	  * Arcane Brilliance (奥能智慧)
 
 ---
 
