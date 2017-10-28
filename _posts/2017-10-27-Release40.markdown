@@ -1,0 +1,20 @@
+---
+layout: posts
+title:  "Virtual World: Peerless White Emperor Chapters 250 - 253"
+date:   2017-10-27 22:20:00
+comments: true
+---
+
+Hey Everyone,
+
+So I spent some of the donations to buy the VIP chapters. It only costed like 10$ for everything up to date (ch700+), which feels pretty cheep. Just thought I'd let everyone know where their donation money is going, as for the rest, it's being used to pay for disqus subscription.
+
+I'm thinking of getting a domain name and maybe switching to wordpress (I hear it's free and can do comments so I can stop paying disqus).
+
+Again, more chapters coming tomorrow.
+
+Enjoy~~
+
+[VWPWE Chapter 250][vwpwe0250]
+
+[vwpwe0250]: {{site.url}}/translations/vwpwe/0250

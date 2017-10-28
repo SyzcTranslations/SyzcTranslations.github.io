@@ -16,13 +16,13 @@ Main Party
   * [Lin Le](#linle)
   * [Wu Na](#wuna)
   * [Ye Tian](#yetian)
+  * [FrozenCloud](#frozencloud)
 
 Thorns and Roses (荆棘与玫瑰)
   * [ThornyRose](thornyrose)
   * [FrozenBlood](frozenblood)
   * [GreenDew](greendew)
   * [ElegantFragrance](#)
-  * [FrozenCloud](#frozencloud)
   * [DyedLily](#)
 
 Beauties at the Crossfire (烽火佳人)
@@ -79,7 +79,7 @@ Dragon Group (龙组)
 
 	Race: Half-Elf
 
-	Class: Ranger
+	Class: Ranger (Everything - All Rounder)
 
 	Nicknames: Brother Lil'White, Bro, Silver Devil, White Hair
 
@@ -157,7 +157,7 @@ Dragon Group (龙组)
 
 	Race: Human
 
-	Class: Priest
+	Class: War Priest (Constitution - Tank)
 
 	Nicknames: A'Xiong, Brother Lil'Xiong, Shaking Bear
 	  * Shaking bear: The chinese raw can mean both blackbear and coward. It's a combination of the character for dog (maybe cause he keeps hitting on the girls) and bear (sounds like Xiong from his name).
@@ -186,6 +186,7 @@ Dragon Group (龙组)
 	  * Advanced Aura Mastery (深度光环掌握)
 	  * Aura of Concentration (凝神光环)
 	  * Aura of Toughness (坚韧光环)
+	  * Berserk Recovery (狂暴恢复)
 	  * Holy Judgement (惩戒圣击)
 	  * Fierce Tiger Pounce (猛虎出击)
 	  * Thunderclap (雷霆践踏)
@@ -201,7 +202,7 @@ Dragon Group (龙组)
 
 	Race: Human
 
-	Class: Arms Dealer
+	Class: Arms Dealer (Stength - Heavy Weapons Expert)
 
 	Nicknames: Lele
 
@@ -252,7 +253,7 @@ Dragon Group (龙组)
 
 	Race: ???
 
-	Class: ???
+	Class: ??? (Wisdom - Wind/Ice Control Mage)
 
 	Nicknames: Nana
 
@@ -266,6 +267,7 @@ Dragon Group (龙组)
 	  * Piercing Cold (冰风刺骨)
 	  * Ice Spear (冰锥贯体)
 	  * Arcane Brilliance (奥能智慧)
+	  * Gale (强风扰)
 
 ---
 
@@ -277,7 +279,7 @@ Dragon Group (龙组)
 
 	Race: Human
 
-	Class: Paladin
+	Class: Paladin (Wisdom / Constitution - Healer)
 
 	Nicknames: TianTian, Little Ye Tian, Little Girl
 
@@ -301,10 +303,42 @@ Dragon Group (龙组)
 	   * Blessing of Glory (荣光·祝福)
 	   * Light Pearl (光愈珠)
 	   * Blessing of Strength (力量祝福)
+	   * Beginner Level Revive (初级复苏之术)
 	   * Mana Regeneration Passive
 
 	Pet:
-		* Emergency Ration (Kaakoo Bug Soldier)
+		* Emergency Ration (Kagu Bug General)
+
+---
+
+<a name="frozencloud">Su BingYun (苏冰云)</a>
+
+	IGN: FrozenCloud (冰云)
+	  * Appears to be the same as her real name (unless that isn't her real name).
+
+	Race: Human
+
+	Class: Grappler
+
+	Nicknames: Lil'Dino
+
+	Achievements:
+	  * Really New Village's Hero (真新镇的英雄)
+
+	Talents:
+	  * Attack and Defend (攻守兼备)
+	  * Inner Strength (内劲) +
+	  * Combo Masater (连击大师)
+	  * Toughness (刚体)
+
+	Skills:
+	  * Wolverine Strike (狼獾打击) +
+	  * Shouryuukenn (升龙拳)
+	  * Triple Strike (三连击)
+	  * Offence / Defence Stance (攻击/防守)
+	  * Qi - Collapsing Palm (内劲·崩拳)
+	  * Shattering Blow (碎裂打击)
+	  * Wyvern Kick (飞龙踢)
 
 ---
 
@@ -350,36 +384,5 @@ Dragon Group (龙组)
 	  * Tidal Wave (水浪冲击)
 	  * Lesser Fireball (小火球术)
 	  * Earth Spikes (石尖柱)
-
----
-
-<a name="frozencloud">Su BingYun (苏冰云)</a>
-
-	IGN: FrozenCloud (冰云)
-	  * Appears to be the same as her real name (unless that isn't her real name).
-
-	Race: Human
-
-	Class: Grappler
-
-	Nicknames: Lil'Dino
-
-	Achievements:
-	  * Really New Village's Hero (真新镇的英雄)
-
-	Talents:
-	  * Attack and Defend (攻守兼备)
-	  * Inner Strength (内劲) +
-	  * Combo Masater (连击大师)
-	  * Toughness (刚体)
-
-	Skills:
-	  * Wolverine Strike (狼獾打击) +
-	  * Shouryuukenn (升龙拳)
-	  * Triple Strike (三连击)
-	  * Offence / Defence Stance (攻击/防守)
-	  * Qi - Collapsing Palm (内劲·崩拳)
-	  * Shattering Blow (碎裂打击)
-	  * Wyvern Kick (飞龙踢)
 
 ---
