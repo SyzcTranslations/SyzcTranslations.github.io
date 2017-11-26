@@ -33,7 +33,7 @@ Fierce Tiger Pounce: Dash and strike at a target within range dealing 165% damag
 
 Ye Cang gave Ice Shards to himself. Blessing of Strength went to Little Ye Tian. Assault Charge went to Lin Le. As for Summon Water Elemental Companion - Tobira, it was only for Warlocks or Summoners. Since none of them could learn it, it went into the handcart.
 
-Ice Shards (Rare - Beginner Level): Chant 3 lines (2.5 seconds), to condense an Ice Crystal and then shatter it into 5 pieces which will each shoot out at nearby targets. Every shard of ice deals 26 damage and reduces movement speed by 25% for 5 seconds. Cost: 5 mana. Cooldown: 15 seconds.
+Ice Shards (Uncommon - Beginner Level): Chant 3 lines (2.5 seconds), to condense an Ice Crystal and then shatter it into 5 pieces which will each shoot out at nearby targets. Every shard of ice deals 26 damage and reduces movement speed by 25% for 5 seconds. Cost: 5 mana. Cooldown: 15 seconds.
 
 Blessing of Strength (Super Rare - Beginner Level): Chant 3 verses and 5 phrases (30 seconds), friendly allies in range receive a blessing which gives +13 Strength and +8 Damage for 1 hour. Cost: 25 mana. Cooldown: None.
 

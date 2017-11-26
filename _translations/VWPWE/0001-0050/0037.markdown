@@ -15,7 +15,7 @@ FrozenBlood ducked, sticking close to the ground. SpyingBlade was lucky, he was 
  
 The Blue Scaled Elder Shaman was hit by the two sweeping spins and fell over. ThornyRose watched the powerful vertical chop that followed. FrozenBlood saw the shaman that had fallen right beside her, as well as the falling axe. She frantically rolled away, not caring about appearances. As for the shaman that wanted to also roll away, he was shot by an arrow and nailed into the ground. The enormous axe let out a red glow as it smashed down to execute the shaman. FrozenBlood saw the axe that had just missed her by a few centimeters. Beside her was the upper half of the fishman shaman. She looked terrified as she thought of what would happen to a squishy assassin like her if she was hit.
 
-"Congratulations. You've killed the rare elite Bluescaled Fishman Elder Shaman - Bartolia. Received 400 experience." 
+"Congratulations. You've killed the uncommon elite Bluescaled Fishman Elder Shaman - Bartolia. Received 400 experience." 
  
 "Haha~! Isn't my new skill strong?"  Lin Le posed heroically with his enormous axe, his chin proudly held high, as he laughed.
  
@@ -51,9 +51,9 @@ Lin Le shrugged and looted the boss. SpyingBlade frowned, wondering why ThornyRo
  
 Ye Cang arrived beside Lin Le and took the loot. A skillbook, and the other was a caster class offhand item.
  
-Minor Healing Stream (Rare - Fishman Language): Chant 3 phrases (about 2 seconds) to enchant a target with water magic. Every 3 seconds, heal 2 health. Lasts 15 seconds. (The duration and potency is affected by Intelligence, Wisdom, and Spell Power stat.) Cooldown: 10 seconds. Cost: 6 mana. Requirements: 12 Intelligence, Fishman Language.
+Minor Healing Stream (Uncommon - Fishman Language): Chant 3 phrases (about 2 seconds) to enchant a target with water magic. Every 3 seconds, heal 2 health. Lasts 15 seconds. (The duration and potency is affected by Intelligence, Wisdom, and Spell Power stat.) Cooldown: 10 seconds. Cost: 6 mana. Requirements: 12 Intelligence, Fishman Language.
  
-Apprentice's Tome (Excellent - Rare)
+Apprentice's Tome (Excellent - Uncommon)
  
 Category: Offhand Item
  

@@ -32,7 +32,7 @@ Requirements: 50 Constitution, 30 Wisdom
  
 +13 Defence
  
-+5% Stun Resistance
++5% Fortitude
  
 +5% Will
  
@@ -44,7 +44,7 @@ Resplendent (Passive): While holding the shield, gain +10% all attributes, incom
  
 Rainbow (Active): Activate to emit rainbow colored light from the shield. Enemies in front have a chance to receive one of: confused, stunned, dazed, nauseated, or some other half-conscious state, and deal 20 20 elemental damage. Cooldown: 5 minutes.
  
-Ye Cang looked at the shield and froze. The effects were abnormal, it could even compare to his ring. It had a monstrous 19 defence! It not only added +4 to all stats, but even added an additional 10%. It even gave 10% damage resistance, along with stun resistance and will. However, it had that massive 50 constitution requirement that would make it unwearable for most people. Fortunately Zhang ZhengXiong was a constitution focused priest. 50 wasn't much to him. Even 60 wouldn't have been a problem. It was pretty much a shield made just for him. As for its external appearance, it made all their other equipment look like country bumpkins. It was too dazzling.
+Ye Cang looked at the shield and froze. The effects were abnormal, it could even compare to his ring. It had a monstrous 19 defence! It not only added +4 to all stats, but even added an additional 10%. It even gave 10% damage resistance, along with fortitude and will. However, it had that massive 50 constitution requirement that would make it unwearable for most people. Fortunately Zhang ZhengXiong was a constitution focused priest. 50 wasn't much to him. Even 60 wouldn't have been a problem. It was pretty much a shield made just for him. As for its external appearance, it made all their other equipment look like country bumpkins. It was too dazzling.
  
 Zhang ZhengXiong slowly picked up the shield, and gently ran his hand over its surface. It had a beautiful surface made of many gems and minerals. It was too beautiful to use as a shield.
  

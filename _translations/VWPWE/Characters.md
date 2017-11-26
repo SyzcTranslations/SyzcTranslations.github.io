@@ -100,19 +100,22 @@ Dragon Group (龙组)
 	  * Aquatic Killer (水中杀手)
 
 	Profession:
-	  * Cooking (Cooking / Identifying / Gathering) +
+	  * Cooking (Cooking / Identifying / Gathering) ++
+	  * Barber +
 
 	Talents: 
 	  * Heart of a Ranger (游侠之心)
-	  * Ranger's Mashup Spirit (游侠的强制混搭精神) +
+	  * Ranger's Mashup Spirit (游侠的强制混搭精神) ++
 	  * Clever and Deft (心灵手巧) +
 	  * Azeroth's Magic Proficiency (艾萨罗的法术精通) +
-	  * Forest Hunter (林间狩猎者)
+	  * Mountain Forest Hunter (林间狩猎者) +
 	  * Eagle Eye (鹰眼)
 	  * Ranged Master (远程大师)
 	  * Rapid Reflex (急速反射)
 	  * Adventurer's Essentials (游击者纲要)
-	  * Tactics - Rapid Withdrawal/Persuit (战术·急速撤离/追击)
+	  * Tactics - Rapid Retreat/Persuit (战术·急速撤离/追击)
+	  * Beast Knowledge (野兽知识)
+	  * Instrument Expert (器乐达人)
 
 	Skills: 
 	  * Rapid Fire (急速秒射)
@@ -122,7 +125,7 @@ Dragon Group (龙组)
 	  * Precise Shot / Strike (瞄准射击/精准打击)
 	  * Mirror Image (水影换形) +
 	  * Tidal Wave (水浪冲击)
-	  * Steal Spell (窃取魔法)
+	  * Steal Spell (窃取魔法) +
 	  * Multiple Straight Thrusts (多重直刺)
 	  * Dashing Straight Thrust (直线冲刺)
 	  * Swift Retreat (急速逃脱)
@@ -133,10 +136,11 @@ Dragon Group (龙组)
 	  * Thorns Armor (荆棘术)
 	  * Multishot (多重射击)
 	  * Meteor Shot (流星射击)
-	  * Kilaris's Shadow (基拉里斯之影)
+	  * Kilaris's Shadow (基拉里斯之影) +
 	  	* Shadow Step (遁入阴影)
 	  	* Shadow Strike (影子打击)
 	  	* Shadow Equip (影之装备)
+	  	* Summon - Shadow Weapon (召唤.影子武器)
 	  * Ice Shards(碎冰刺)
 	  * Food Poisoning Arrows (烹饪之箭枝淬毒术)
 	  * Enchant Arrow - Fire (附魔箭·火)
@@ -145,6 +149,10 @@ Dragon Group (龙组)
 	  * Hunter's Mark (猎手印记)
 	  * Cloudwalk (云步)
 	  * Create Water (造水术)
+	  * Flame Lotus (火莲刃)
+	  * Light Strike Array (光击阵)
+	  * Mark of the Wild (自然印记)
+	  * Hunter Imprint (狩猎印记)
  
 ---
 
@@ -169,12 +177,14 @@ Dragon Group (龙组)
 	  * Smithing (Smithing / Mining / Smelting)
 
 	Talents: 
-	  * Feel Your Pain (感同身受) +
-	  * Strong and Tough Body (身强体壮) +
+	  * Feel Your Pain (感同身受) ++
+	  * Strong and Tough Body (身强体壮) ++
 	  * Lightning Reflexes (快速反射)
 	  * Cultivate Through Bitterness (苦修者的坚持)
-	  * Andarl's Light (安达卢之光)
+	  * Andarl's Light (安达卢之光) +
 	  * Strong Willed (精神反抗)
+	  * Heavy Armor Proficiency (重甲精通)
+	  * Heavy Armor Mastery (重甲精通)
 
 	Skills: 
 	  * Double Strike (二连击)
@@ -191,6 +201,9 @@ Dragon Group (龙组)
 	  * Fierce Tiger Pounce (猛虎出击)
 	  * Thunderclap (雷霆践踏)
 	  * Warsong Aura (战争律动)
+	  * Berserk Recovery (狂暴恢复)
+	  * Stone Skin (石肤装甲)
+	  * Desperate Prayer (绝望祷言)
 
 ---
 
@@ -202,7 +215,7 @@ Dragon Group (龙组)
 
 	Race: Human
 
-	Class: Arms Dealer (Stength - Heavy Weapons Expert)
+	Class: Armed Merchant (Stength - Heavy Weapons Expert)
 
 	Nicknames: Lele
 
@@ -210,16 +223,18 @@ Dragon Group (龙组)
 	  * Really New Village's Hero (真新镇的英雄)
 
 	Proession:
-	  * Fishing (Fishing / Identifying Aquatic / Creating Bait)
+	  * Fishing (Fishing / Identifying Aquatic / Creating Bait) +
 
 	Talents: 
-	  * Knockoff Alchemy (杂牌炼金术)
-	  * Arms Dealer's Strength (武装商贩之力) ++
+	  * Knockoff Alchemy (杂牌炼金术) +
+	  * Armed Merchant's Strength (武装商贩之力) ++
 	  * Tenacious (坚韧)
 	  * Merchant's Benefit (商人逐利)
 	  * Lele Dart Technique (乐乐飞镖术)
-	  * Rule No.1 of Alulu's Forceful Marketing - The Truth is in the Fist (安露露的暴力推销守则第一条·拳头才是推销的真理)
-	  * Backup Weapon (备用重兵)
+	  * Rule No.1 of Alulu's Forceful Marketing - The Truth is in the Fist (安露露的暴力推销守则第一条·拳头才是推销的真理) +
+	  * Backup Weapon (备用重兵) +
+	  * No Business is Not Bad (无商不奸)
+	  * Trade Secret - Shamelessness (买卖要诀.耍赖)
 
 	Skills: 
 	  * Crossed Eyes (斗鸡眼)
@@ -234,12 +249,18 @@ Dragon Group (龙组)
 	  * Negotiation Breakdown (非暴力不合作)
 	  * Lele Certain Hit Dart (乐乐飞镖决)
 	  * Handcart Charge (手推车冲锋)
-	  * One Handed Sword Drawing Secret Art - Returning Dragon / Surging Dragon (单手拔刀秘术·回龙闪/探龙闪)
+	  * One Handed Sword Drawing Secret Art (单手拔刀秘术·回龙闪/探龙闪)
+	  	* Returning Dragon
+	  	* Surging Dragon 
+	  	* Flash (拔刀斩.一闪)
 	  * Assault Charge (冲锋追击)
 	  * Wild Blows (狂击)
 	  * Money Maintenance (金钱养生)
 	  * Handcart Tornado (手推车旋风)
 	  * Armed Destuction (武装拆解)
+	  * Bone Penetrating Eyes (彻骨之眼)
+	  * Bull's Strength (蛮牛之力)
+	  * Mallow's Healing Medicine KNowledge (玛露丝的恢复药剂知识)
 
   	Pet:	
   	  * Little Ren (Rennes Tiger)
@@ -257,6 +278,9 @@ Dragon Group (龙组)
 
 	Nicknames: Nana
 
+	Talents:
+	  * Piercing Cold (寒冰刺骨)
+
 	Skills: 
 	  * Lesser Wind Blade (小风刃)
 	  * Minor Windstorm (次级群体风刃术)
@@ -264,10 +288,11 @@ Dragon Group (龙组)
 	  * Ice Arrow (寒冰箭)
 	  * Magic Missile (魔法飞弹)
 	  * Magic Knowledge (魔术智慧)
-	  * Piercing Cold (冰风刺骨)
+	  * Chilling Wind (冰风刺骨)
 	  * Ice Spear (冰锥贯体)
 	  * Arcane Brilliance (奥能智慧)
 	  * Gale (强风扰)
+	  * Frost Armour (寒冰护体)
 
 ---
 
@@ -304,7 +329,7 @@ Dragon Group (龙组)
 	   * Light Pearl (光愈珠)
 	   * Blessing of Strength (力量祝福)
 	   * Beginner Level Revive (初级复苏之术)
-	   * Mana Regeneration Passive
+	   * Healing Chain (光疗链)
 
 	Pet:
 		* Emergency Ration (Kagu Bug General)
@@ -330,6 +355,7 @@ Dragon Group (龙组)
 	  * Inner Strength (内劲) +
 	  * Combo Masater (连击大师)
 	  * Toughness (刚体)
+	  * Qi Attribute - Wind (气劲属性.风)
 
 	Skills:
 	  * Wolverine Strike (狼獾打击) +
@@ -339,6 +365,9 @@ Dragon Group (龙组)
 	  * Qi - Collapsing Palm (内劲·崩拳)
 	  * Shattering Blow (碎裂打击)
 	  * Wyvern Kick (飞龙踢)
+	  * Leg Sweep (扫堂腿)
+	  * Kamaitachi - Sweeping Wind (镰鼬.旋风扫)
+	  * Mountain-Cat Strike (山猫打击)
 
 ---
 

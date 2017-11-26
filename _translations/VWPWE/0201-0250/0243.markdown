@@ -66,7 +66,7 @@ Requirements: 85 Strength, 60 Constitution
 
 +21 Dark Resistance
 
-+5% Stun Resistance
++5% Fortitude
 
 Recover 1 health every 5 seconds.
 

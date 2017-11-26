@@ -71,7 +71,7 @@ Attack: 2 - 5
  
 +3 Defence
  
-+5% Stun Resistance
++5% Fortitude
  
 +5 All Resistances
  

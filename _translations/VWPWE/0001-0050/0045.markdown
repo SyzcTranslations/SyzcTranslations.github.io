@@ -63,7 +63,7 @@ After FrozenBlood's consoling, ThornyRose had settled down a bit. She thought of
  
 "Brother Lil'White. It dropped a saber, a chest armor, and a ring." Lin Le handed over the loot. The saber looked like that hooked blade the fishman chief was using. The armor was made of blue fish scales, it was probably medium armor. It looked quite beautiful. As for the ring, it was silver and was engraved with what looked like a fishman poem.
  
-Gil Rage's Blade (Superior - Rare)
+Gil Rage's Blade (Superior - Uncommon)
  
 Category: One Handed Blade
  
@@ -77,7 +77,7 @@ Damage: 8 - 11
  
 Gil Rage's Heavy Strike: Perform a powerful attack against the target, dealing 200% damage. Has a chance to knockback or stun the target. Cooldown: 15 minutes.
  
-Blue Scaled Fishman's Guard (Superior - Rare)
+Blue Scaled Fishman's Guard (Superior - Uncommon)
  
 Category: Medium Armor
  
@@ -91,7 +91,7 @@ Requirements: 20 Constitution or 15 Strength
  
 Reduce incoming damage by 5%.
  
-Blue Scaled Fishman Chief's Ring (Superior - Rare)
+Blue Scaled Fishman Chief's Ring (Superior - Uncommon)
  
 Category: Ring
  

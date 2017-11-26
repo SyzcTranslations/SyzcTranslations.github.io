@@ -49,9 +49,9 @@ Minor Healing Light (Beginner Level): Chant two lines (2 seconds), and heal the 
  
 Shouryuukenn (Beginner Level): Perform an uppercut against your target, dealing 175% damage with a chance to send the target airborne. Cost: 10 Rage and 15 Energy. Restricted to: Grappler, Ranger.
  
-Execute (Rare - Beginner Level): Perform a finishing strike on the target dealing 300% damage. Requires the target to be weakened, stunned, or confused. Using this skill will consume all your rage, increasing the damage by 1% for each point of rage consumed. (Additive with the 300% for a maximum of 400%). Cooldown: 5 minutes. (Requires a heavy weapon. Light weapons will only deal half the damage)
+Execute (Uncommon - Beginner Level): Perform a finishing strike on the target dealing 300% damage. Requires the target to be weakened, stunned, or confused. Using this skill will consume all your rage, increasing the damage by 1% for each point of rage consumed. (Additive with the 300% for a maximum of 400%). Cooldown: 5 minutes. (Requires a heavy weapon. Light weapons will only deal half the damage)
  
-Rapid Thrusts (Rare - Beginner Level): Perform 4 quick thrusts against a target, each dealing 55% damage. Cost: 20 energy. Cooldown: 1 minute.
+Rapid Thrusts (Uncommon - Beginner Level): Perform 4 quick thrusts against a target, each dealing 55% damage. Cost: 20 energy. Cooldown: 1 minute.
  
 Standard Knight's Legplates (Masterwork - Standard Issue)
  

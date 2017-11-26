@@ -72,7 +72,7 @@ Requirements: 70 Strength, 75 Dexterity
 
 +11 Dexterity
 
-+5% Stun Resistance
++5% Fortitude
 
 Reduces magic damage taken by 5.
 

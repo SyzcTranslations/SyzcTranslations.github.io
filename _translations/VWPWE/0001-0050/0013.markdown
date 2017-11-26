@@ -33,7 +33,7 @@ Lin Le looted the boss. Ye Cang slid down the hill and asked: "What did we get?"
 
 "A skill book and a wand!" Lele held a book in one hand and a wooden wand in the other. The wand had some feathers decorating the end. 
 
-Crossed-Eyes (Rare - Skill): To use, cross your eyes and look at the target to confuse them for a period of time. Receiving damage will end the effect. Must lock eyes for at least 1 second to take effect. No resource cost. Cooldown: 5 minutes.
+Crossed-Eyes (Uncommon - Skill): To use, cross your eyes and look at the target to confuse them for a period of time. Receiving damage will end the effect. Must lock eyes for at least 1 second to take effect. No resource cost. Cooldown: 5 minutes.
 
 Monstrous Bird's Wooden Wand (Fine)
 
@@ -49,7 +49,7 @@ Attack: 2 - 4
 
 Minor Wind Blade: Release a minor wind blade to attack a target, dealing 15 damage. Cooldown: 5 minutes.
 
-"Wow, a good wand. And there's even a rare skill book..." Zhang ZhengXiong praised.
+"Wow, a good wand. And there's even an uncommon skill book..." Zhang ZhengXiong praised.
 
 "Let's give the skill book to Lele. As for the wand, currently only I can wield it. Depending on the situation, I can use it..." Ye Cang gave the book to Lele and stuck the wand by his waist on the right. He then took out his longsword to dismantle. He received: Monstrous Bird Meat, Monstrous Bird's Claw, Monstrous Bird's Feathers, and Monstrous Bird's Beak.
 

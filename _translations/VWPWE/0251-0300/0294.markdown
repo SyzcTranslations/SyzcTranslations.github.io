@@ -1,0 +1,112 @@
+---
+layout: chapter
+title:  "Chapter 294"
+category: "VWPWE"
+translator: "syzc"
+comments: true
+---
+
+**Chapter 294: Tears and Remorse**
+
+The old chief pulled Ye Cang over and said quietly, "I'm already old. I'll hand the position of chief over to you. I was planning to betroth Lili to you if you saved her, but who would have thought that that girl would... Hah."
+
+When Ye Cang heard the first half of his wards, he was very happy, but the next half almost made him pee his pants. *It's ok, it's ok,* he thought as he wiped the sweat from his forehead. "Chief's love is deep..."
+
+"Congratulations, you've become the newly appointed chief of Bal Village. When your nobility reaches viscount, you can claim it as your official territory. Current nobility: baron."
+
+Ye Cang pondered over it. *Viscount huh. Didn't Little Mar say that there was a person who could promote me to Viscount? Let's deal with it when we get back.* He looked at everyone who were all happily examining their new talents. After some urging, they left Bal Village, continue their crusade against Dudosa.
+
+Little Ye Tian brought everyone along the shortest path to the cave. The two warlocks raised their brows in surprise. The one called Medas said amazed, "It really is a leader of the cerberus."
+
+The other name Makala drew his magic sword. "Let's go in. The faster we finish, the earlier we can return."
+
+When everyone arrived at the first open space, they could already see the molten rock and Dudosa trying to make his way out. Medas began chanting a spell. A creature as big as Dudosa, made of dark blue energy appeared. From its swirling body, two arms and two eyes appeared, and a trail of energy anchored to the ground, propping it up.
+
+Ye Cang quickly identified it.
+
+Voidwalker Guard (Abyss - Boss - Void Creature): A type of void creature. Can be paired with a fire elemental to make a delicacy that no fire element creature can resist.
+
+Makala reached out his hand and created tens of meter wide balls made of a dark energy. Dark light shined from the ball as his magic sword burned with hellfire.
+
+The voidwalker guard sent its thick and solid fist punching forwards, making the cave rock. Raging flames spouted out of all three of Dudosa's three heads. A dark energy whirlpool continuously countered it. The voidwalker's fist once again smashed at one of the heads. The berserk void energy in the fist exploded, and half the middle head was blasted apart. In a desperate retaliation, Dudosa's sharp flaming claws also also tore through half the voidwalker's waist. Makala waved his hand, and half his energy balls flew towards the voidwalker, the other half flying towards Dudosa. 
+
+Ye Cang and the others were completely unable join the fight. This was their first time seeing a fight between high level classes in this game. Even Ye Cang began to wish he was a Warlock. He turned and looked at Weak Sauce, whose eyes were full of reverence, and sighed. *Forget about it. With a contracted demon like this, it doesn't matter how awesome I am. Good thing I'm a ranger.*
+
+The dark energy balls restored the voidwalker to perfect condition. The fight didn't last much longer. The two demon controller warlocks obliterated the boss with shadows and flames, nearly not leaving a corpse behind for Ye Cang and the others. They watched as the boss fell with a bang. Ye Cang was planning to rush over and loot the body, but everyone stopped him. Lin Le quickly jumped over and looted.
+
+Ye Cang looked at the two powerful NPCs. Then while grumbling, he began to skillfully dismantle the boss. Medas and Makala saw Ye Cang's skillful actions. Cerberus were very hard to dismember. Without a specialized skill, it was very easy to accidently damage the parts, leading to a big drop in quality. If that were to happen, their efforts wouldn't be worth it. They were originally planning on lugging it back to the city and finding a skillful butcher to give it a try. Who would have thought that this white haired guy's handiwork was so good. When they saw the high-quality cerberus heart, they quickly said, "White haired adventurer, give me its heart. Also, give me a few bottles of its boiling blood and an intact sheet of its scorching fur."
+
+Ye Cang raised his brows, *another ring!?* The cerberus heart, blood, and fur were useless to him. At most, he would just end up selling it as they weren't very useful as food. He exchanged it for the ring even though he didn't know its stats. This wasn't his kill anyways, he had merely spectated the battle between the hell beast and void creature. Being able to earn anything at all was good already. He nodded and packaged the heart nicely for them. The blood was stored into bottles, and a piece of leather cut from its flank were all handed over in exchange for the ring.
+
+Kundala's Remorse (Unique - Quest)
+
+Category: Ring
+
+Requirements: None
+
++10 Defence
+
++5 Attack Power
+
++8 All Attributes
+
++10 All Resistances
+
++8 Spell Power
+
++5% Will
+
++3% Life Leach
+
+???: ???????.
+
+"Truth be told, I also don't know much about this ring, but it seems to have some history." Makala smiled.
+
+"Eh, isn't this the ring that you found while looking through books in the library? It's pretty good. It increases spell power by a bit." Medas looked at the ring and recalled. The two of them didn't really care about it. They began to leave the cave cheerfully. Before leaving, then looked towards NalanPureSoul, "This time, your performance was pretty good. Report back to the association later. Oh right, also, white hair, when you go back, say hello to those old fellows and the milk overlord for me... "
+
+Ye Cang, Zhang ZhengXiong, and Lin Le all froze. Milk overlord? Those rippling waves appeared in their minds, and they nodded. A very fitting nickname... 
+
+Shaking the distracting thoughts out of his mind. Ye Cang put on the ring. A hoarse and decrepit voice rang out in his mind. "Alina, sorry..."
+
+Alina's tear began to emit a light blue glow. Kundala's remorse glowed a dark red. A scene appeared in his mind. A white armored knight was kneeling, holding onto the hand of a young lady with eyes full of admiration. He had a very sincere smile on his face. The warm scene of the two of them froze there.
+
+"You've triggered a hidden quest - Alina's and Kundala's Soul Melody. Uncover their story which has been buried by history. Time Limit: None."
+
+Ye Cang noticed that the two rings were made to fit together, so he put them together. The blue and red gem on the ring matched like the sun and moon.
+
+"Congratulations, you've obtained Alina's and Kundala's Elegy."
+
+Alina's and Kundala's Elegy (Unique - Quest)
+
+Category: Ring
+
+Requirements: None
+
++12 All Attributes
+
++10 Attack 
+
++15 Defence
+
++19 Spell Power
+
++20 All Resistances
+
++10% Fortitude<sup>[1](#footnote1)</sup>
+
++10% Will
+
+Recover 1% health and mana every 10 seconds.
+
++3% Life / Magic Leach.
+
+Alina's Tear: On death, can revive at full health. Cooldown: 2 natural days.
+
+Kundala's Remorse: On death, can explode dealing 50% of your health as shadow damage to nearby targets, with a chance of inflicting a 5 second stun and knockback. Cooldown: 2 natural days.
+
+Ye Cang had no clues for the quest, but the ring's stats left him stunned. It was almost as good as 3 distinguished quality rings put together! Most importantly, these two rings now fit in a single ring slot, to say nothing of the fact that it also had such a divine skill. Ye Cang looked at his own 300 health. Half of it was still 150. It could be considered extremely high damage. Noticing the look everyone was giving him, he skimped over it. "Haha, it's nothing special. Let's split the boss drops."
+
+---
+
+<a name="footnote1">1</a>: I use to call it stun resistance. Fortitude will now be resistance against stun effects.
+

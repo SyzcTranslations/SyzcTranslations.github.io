@@ -43,7 +43,7 @@ ThornyRose was moved. They actually found both a shield and a ring!? This was to
  
 Everyone looked at the half meter large, crystal roundshield in Lin Le's hand. It was made of a polished white crystal looking exceptionally beautiful. Everyone also fell in love with the crystal ring's beauty.
  
-Harja's Crystal Rampart (Excellent - Rare)
+Harja's Crystal Rampart (Excellent - Uncommon)
  
 Category: Shield
  
@@ -55,7 +55,7 @@ Requirements: 20 Constitution
  
 Harja's Rampart (Passive): +3 Defence
  
-Harja's Crystal Ring (Excellent - Rare)
+Harja's Crystal Ring (Excellent - Uncommon)
  
 Category: Ring
  
@@ -81,7 +81,7 @@ Everyone watched as the Fluorescent Ring and Crystal Ring both turned into a dro
  
 "Congratulations. You received a 'Slime - Fluorescent Crystal Ring'"
  
-Slime - Fluorescent Crystal Ring (Superior - Rare)
+Slime - Fluorescent Crystal Ring (Superior - Uncommon)
  
 Category: Ring
  

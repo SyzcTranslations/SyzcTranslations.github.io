@@ -80,7 +80,7 @@ Additional Shadow Damage: 7 - 9
 
 Spirit Bind: Select an area. Targets in the area become slowed by 60% and receive 3 damage per second for 15 seconds. Cooldown: 1 hour.
 
-Puzzle Ring (Distinguished - Treasure)
+Puzzle Ring (Distinguished - Valuable)
 
 Category: Ring
 
@@ -96,7 +96,7 @@ Requirements: None
 
 Puzzle Ring Effect: Activate to turn 20 health into 20 mana. Cooldown: 20 minutes.
 
-Composite Spirit Armor (Distinguished - Treasure)
+Composite Spirit Armor (Distinguished - Valuable)
 
 Category: Heavy Armor
 
@@ -108,7 +108,7 @@ Requirements: 70 Constitution, 40 Strength
 
 +5 Strength
 
-+9% Stun Resistance
++9% Fortitude
 
 7% Damage Reduction
 
