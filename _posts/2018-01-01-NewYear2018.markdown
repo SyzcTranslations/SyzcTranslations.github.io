@@ -1,0 +1,20 @@
+---
+layout: posts
+title:  "New Year 2018"
+date:   2018-01-01 15::00
+comments: true
+---
+
+Happy New Year~!
+
+Hope everyone enjoyed their holiday!
+
+Apologies, I took a little break from translating over the holidays. I'll start releasing again now that the new year has started.
+
+Also, if anyone is interrested in helping edit/proof-read/tlc or anything, feel free to email me at syc0308tw@gmail.com.
+
+Enjoy!
+
+[VWPWE Chapter 340][vwpwe0340]
+
+[vwpwe0340]: {{site.url}}/translations/vwpwe/0340

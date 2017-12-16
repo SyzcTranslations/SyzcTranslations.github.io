@@ -154,6 +154,10 @@ Dragon Group (龙组)
 	  * Mark of the Wild (自然印记)
 	  * Hunter Imprint (狩猎印记)
  
+	Pet:
+	  * Weak Sauce ()
+	  * Little Blue Feather ()
+	
 ---
 
 <a name="zhangzhengxiong">Zhang ZhengXiong (张正雄)</a>
@@ -262,8 +266,8 @@ Dragon Group (龙组)
 	  * Bull's Strength (蛮牛之力)
 	  * Mallow's Healing Medicine KNowledge (玛露丝的恢复药剂知识)
 
-  	Pet:	
-  	  * Little Ren (Rennes Tiger)
+	Pet:	
+	  * Little Ren (Rennes Tiger)
 
 ---
 

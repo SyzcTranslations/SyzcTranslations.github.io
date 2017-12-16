@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 299"
 category: "VWPWE"
 translator: "syzc"
+thanks1: "Ersal Hidayat"
 comments: true
 ---
 
@@ -42,7 +43,7 @@ Ye Cang turned and looked at Verali's distant figure. *For poorer, for richer, i
 
 Wu Na's heart felt tight, an indescribably heartache overcame her. *What is he thinking about?*
 
-Zhang ZhengXiong looked away, tears had begun forming in the corner of his eyes. Her was recalling the memories of the three of them, the conversation they had while sitting in the living room and eating together.
+Zhang ZhengXiong looked away, tears had begun forming in the corner of his eyes. He was recalling the memories of the three of them, the conversation they had while sitting in the living room and eating together.
 
 "A'Xue, I'm going to marry you..."
 
@@ -72,7 +73,7 @@ The strange wedding had ended, stirring the emotions of many.
 
 While eating, Ye Cang reached out and turned on the TV.
 
-"Lin Hai's flash news. Flasher Uncle was spotted scaring people with his elephant on XingYao street. The student union has submitted a the 'must wear uniforms on campus' proposal..."
+"Lin Hai's flash news. Flasher Uncle was spotted scaring people with his elephant on XingYao street. The student union has submitted a 'must wear uniforms on campus' proposal..."
 
 ...
 
