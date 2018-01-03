@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 340"
 category: "VWPWE"
 translator: "syzc"
+thanks1: "Raphael Ramirez"
 comments: true
 ---
 
@@ -74,7 +75,7 @@ BitingCold had been killed, which was a big blow on the enemy’s morale. In the
 
 MistyVeil watched from beginning to end, then summed up her analysis.
 
-ID: PaleSnoe
+ID: PaleSnow
 
 Evaluation: S
 
