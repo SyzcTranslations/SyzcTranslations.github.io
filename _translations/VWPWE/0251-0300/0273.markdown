@@ -42,7 +42,7 @@ Additional 30 poison damage.
 
 Kagu King Bee's Poison: Once poisoned, deal 1 damage every second for 5 minutes.
 
-Kagu Queen Bee's Heavy Bold (Distinguished - Insect Stinger)
+Kagu Queen Bee's Heavy Bolt (Distinguished - Insect Stinger)
 
 Damage: 31 - 35
 

@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 367"
 category: "VWPWE"
 translator: "syzc"
+thanks1: "TheReader"
 comments: true
 ---
 

@@ -75,7 +75,7 @@ FrozenCloud saw this skill and froze. *Damn, who can possibly PK him now? He's a
 
 Ye Cang continued to look at Lin Le's skill and talent.
 
-Trade Secret - Shamelessness (Epic - Armed Merchant - Beginner Level): +10 Strength. When a skill with a probability is successful, it has a chance to trigger a second time within 30 seconds.
+Trade Secret - Shamelessness (Epic - Armed Merchant - Beginner Level): +10 Strength. When a skill with a probability is unsuccessful, it has a chance to trigger again within 30 seconds up to 2 times..
 
 Sword Drawing Art - Flash (Epic - Beginner Level): Immediately perform a rapid sword draw, dealing 175% damage and inflicting bleed. This skill requires a previous sword drawing skill and will be added to it. Cooldown: 15 seconds. Cost: 10 rage and 15 energy.
 

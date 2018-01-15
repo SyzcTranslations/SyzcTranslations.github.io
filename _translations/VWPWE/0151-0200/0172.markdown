@@ -76,7 +76,7 @@ Damage: 21 - 24
 
 +5 Strength
 
-Additional Shadow Damage: 7 - 9
+Additional Dark Damage: 7 - 9
 
 Spirit Bind: Select an area. Targets in the area become slowed by 60% and receive 3 damage per second for 15 seconds. Cooldown: 1 hour.
 
@@ -112,7 +112,7 @@ Requirements: 70 Constitution, 40 Strength
 
 7% Damage Reduction
 
-All three were top quality equipment for this stage of the game. The swordstaff's stat requirements was too harsh for most players. There weren't any other warmages or magic swordsmen who could use it, so Ye Cang got it without any competition. He somewhat reluctantly gave up his rapier and equipped it. That high 24 damage as well as the additional shadow damage and that crowd control active were just too good to refuse. He tried swinging it around to test it and it didn't feel too bad...
+All three were top quality equipment for this stage of the game. The swordstaff's stat requirements was too harsh for most players. There weren't any other warmages or magic swordsmen who could use it, so Ye Cang got it without any competition. He somewhat reluctantly gave up his rapier and equipped it. That high 24 damage as well as the additional dark damage and that crowd control active were just too good to refuse. He tried swinging it around to test it and it didn't feel too bad...
 
 ThornyRose looked at the swordstaff, and faintly raised her eyebrows. This sort of weapon was really too suited to his all-rounder build.
 

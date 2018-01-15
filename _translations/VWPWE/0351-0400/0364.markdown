@@ -3,6 +3,7 @@ layout: chapter
 title:  "Chapter 364"
 category: "VWPWE"
 translator: "syzc"
+thanks1: "Umair Ahmed"
 comments: true
 ---
 
@@ -60,6 +61,6 @@ Ye Cang suffered a few hits from the tower but managed to kill BlackPhoenix with
 
 “Akai, you two be more careful. You should pay more attention to your surroundings. I fear the enemy Blade Demoness is even better at ganking than FrozenBlood. This will be troublesome...” BlackForestMoon didn’t think that Ye Cang’s intuition for ganking would be so good. Without anyone noticing, he had made his way into their jungle and ganked from behind.
 
-“In the future, let’s just let that guy jungle. We have too much competition over the lanes, while the Blade Demoness’s early game surprise attacks are too good to not use. Earlier, he could forcefully kill someone (half health) under the tower, and then escape with Blade Edge Blink. Even with an archer shooting at him, he was able to get away. Blade Edge Blink has a blocking effect, which lets him forcefully block one attack...” ThornyRose said, going back to farming souls.
+“In the future, let’s just send that guy into the jungle. We have too much competition over the lanes, while the Blade Demoness’s early game surprise attacks are too good to not use. Earlier, he could forcefully kill someone (half health) under the tower, and then escape with Blade Edge Blink. Even with an archer shooting at him, he was able to get away. Blade Edge Blink has a blocking effect, which lets him forcefully block one attack...” ThornyRose said, going back to farming souls.
 
 “He can be either a solo lane or jungle. Team Leader’s killing ability in a solo lane is also first class...” FrozenBlood began to get chatty inside the bush. 

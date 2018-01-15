@@ -1,0 +1,20 @@
+---
+layout: posts
+title:  "Virtual World: Peerless White Emperor Chapters 384 - 393"
+date:   2018-01-15 00:20:00
+comments: true
+---
+
+Hey everyone,
+
+People have applied to help edit and proofread for me. Hopefully, there will be less mistakes. There's even a new translator joining!
+
+This times release had a lot of work done by (editor) BaronCrux and (translator/editor) ColdLove. Thanks for your hard work :D
+
+I've also taken a few days to build up a bit of a stockpile. Hopefully, this will lead to releasing more often.
+
+Enjoy~~
+
+[VWPWE Chapter 384][vwpwe0384]
+
+[vwpwe0384]: {{site.url}}/translations/vwpwe/0384

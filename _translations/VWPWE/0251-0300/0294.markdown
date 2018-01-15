@@ -102,7 +102,7 @@ Recover 1% health and mana every 10 seconds.
 
 Alina's Tear: On death, can revive at full health. Cooldown: 2 natural days.
 
-Kundala's Remorse: On death, can explode dealing 50% of your health as shadow damage to nearby targets, with a chance of inflicting a 5 second stun and knockback. Cooldown: 2 natural days.
+Kundala's Remorse: On death, can explode dealing 50% of your health as dark damage to nearby targets, with a chance of inflicting a 5 second stun and knockback. Cooldown: 2 natural days.
 
 Ye Cang had no clues for the quest, but the ring's stats left him stunned. It was almost as good as 3 distinguished quality rings put together! Most importantly, these two rings now fit in a single ring slot, to say nothing of the fact that it also had such a divine skill. Ye Cang looked at his own 300 health. Half of it was still 150. It could be considered extremely high damage. Noticing the look everyone was giving him, he skimped over it. "Haha, it's nothing special. Let's split the boss drops."
 
