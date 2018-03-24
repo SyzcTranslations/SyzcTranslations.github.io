@@ -85,7 +85,7 @@ Zhang ZhengXiong knew that Ye Cang also didn't have much health left. Though he 
 
 Ye Cang also noticed this. Little Ren who use to be just a little tiger cub was now about the size of a normal tiger. When standing, he was around 2 meters tall. Little Ration was also about the same size, with meter long scythes. He checked their attributes.
 
-Pet (HappyAndCheerful): Little Ren
+Animal Companion (HappyAndCheerful): Little Ren
 
 Level: 10
 
@@ -121,7 +121,7 @@ Jump Expertise: Extremely good at jumping.
 
 Rennes Rapid Charge: Movement Speed +50%.
 
-Pet (NightSky): Emergency Ration
+Animal Companion (NightSky): Emergency Ration
 
 Level: 10
 

@@ -1,0 +1,86 @@
+---
+layout: chapter
+title:  "Chapter 430"
+category: "VWPWE"
+translator: "syzc"
+editor: "openbookworm, skizlock"
+comments: true
+---
+
+**Chapter 430: Amplification Device and Soldier Food**
+
+Ye Cang accepted the new, three meter long pike. It was pitch black and simple, with no decorations. He was very satisfied.
+
+Shadow Spear (Dark Gold - HeavenShakingMight - Reinforced)
+
+Category: Large Spear
+
+Requirements: 145 Strength, 113 Dexterity, 125 Constitution
+
+Damage: 36 - 42
+
++25 Strength
+
++20 Dexterity
+
++17 Constitution
+
++60 Armor Penetration
+
++25% Piercing Damage and Speed.
+
+Shadow Spear (Passive): +2 meter attack range.
+
+Barbed Spear - Bleed (Passive): A successful attack will cause a bleed debuff. Bleed damage is affected by the strength behind an attack and its damage.
+
+Shadow Strike: 
+
+Immediately become three shadow clones which charge at the target. Can freely switch between them. Deals 185% piercing damage + 35% for each clone, and a chance to break through armor, reducing armor by 15%. 
+
+Cooldown: 5 minutes.
+
+“Bro, how is it? Awesome right!?” Zhang ZhengXiong was very pleased with his own creation.
+
+“Not bad. Can you create staff type weapons yet?” Ye Cang tossed the pike into his shadow, equipping it.
+
+“I don’t really get it. The church’s forging is mainly of weapons and scepters, things made fully out of metal. Little Tian’s dark gold scepter was made by me using magic iron and mithril. It has three powerful holy skills sealed inside it. Many magician wands are made of wood… it doesn’t fall under smithing...” Zhang ZhengXiong shook his head.
+
+“That’s fine. I’ll go plant some vegetables. Lil’Dino’s gauntlets also need forging. Help her do it next...” Ye Cang turned and left the smithy. He went to ask Rica to help him rent a private farm. He planted some fungus spores, and some seed from uncommon vegetables. Then he began to use the plant skill to sow the seeds and urge them to grow. Since they needed a period to fully mature, he left, planning to come back later. He conveniently asked the experienced Makarlo to look over it occasionally.
+
+Makarlo was free anyways, and was just wandering around the city by himself. He broke out in a cold sweat when he saw two particular saplings. He couldn’t help rubbing his eyes and smiling bitterly. “It’s really a holy oak tree and a black dragon titan fruit tree… Those are peerless treasures...”
+
+Makarlo summoned a few powerful treants and began to reorganize the field. Like a kind neighbourhood farmer, he began to classify and sort them into fungus, shrubs, fruit trees, vegetables...
+
+Ye Cang yawned, feeling bored. He went to Aily’s house and had some tea. When he left, he saw Aily waving at him, which made him smile. Where to next? As he thought that, Little Ye Tian notified him, “Father, the research has borne fruit! I’ve successfully developed the amplification devices!”
+
+*What’s an amplification device?* Doubtfully, Ye Cang went over to Little Ye Tian’s laboratory and saw it empty. *Didn’t she say it was here?*
+
+“Father, teacher has taken an airship back to White Stone City and let me watch over the laboratory. I can use it as I please...” Little Ye Tian saw Ye Cang looking around and smiled. Like a little girl who had made a new toy, she took out a complex device. “Father, this is the new special assistance type equipment that I developed - Amplification Device! Right now it is only divided into Magic Amplification Device and Motion Amplification Device...”
+
+“Nani?” Ye Cang looked lost...
+
+“The magic amplification device is a tool to improve the quality of spellcaster weapons, like my scepter. If I equip a magic amplification device to it, its attributes will increase by roughly 18%. The motion amplification device can only be equipped on defensive equipment. The amplification device will improve the body’s kinetic energy. For example, it can temporarily increase your strength or speed, and it can reinforce defence. However, only one of each amplification device can be used! And each piece of equipment can only have one. These are the system’s limitations...” Little Ye Tian began to advertise her goods like a little doctor.
+
+“So that’s it. Cost?” Ye Cang more or less understood.
+
+“About three gold, but some materials are uncommon at this point in the game, especially the magic amplification device. The motion amplification device requires the support of a magic crystal, like father’s guns. Oh right! Father, your guns, I’ve already analysed their structure. It’s just a type of magic crystal conversion weapon. Although it’s not a defensive tool, but we can build a magic amplification device or a motion amplification device into it. Its principle is to draw out the condensed magic energy and convert it into a kinetic energy bullet. If I build an amplification device into it, its might will approximately double. And the overdrive mode, due to the amplification device sharing the burden, can last for an additional four seconds. I’ve already applied motion amplification devices to your guns. As for the magic amplification device, we can just put it on your staff for now. Also, swapping them out is very simple, but has to be done by me, otherwise it will break...” Little Ye Tian continued to explain, then took out the already strengthened Giant Owl No.2 guns and returned them to Ye Cang.
+
+Ye Cang took the guns and saw that their damage was really upgraded by quite a bit. The overdrive mode too. He petted Little Ye Tian’s head. “As expected of my Little Tian, well done...”
+
+Little Ye Tian’s smile was very pure, then she turned away and sneered. *Damn Lele, how can you compete with me!? I’ve finally beaten you!*
+
+At that time, Lin Le excitedly burst into the laboratory. “Brother Lil’White! I’ve discovered a new formula! I’ve named it Lele’s Soldier Food! Look at the effects. Consume to restore 10 health every second for 20 seconds, and instantly heal half the total amount. But it can only be used 5 times a day!”
+
+Little Ye Tian was surprised. *To instantly restore 100 health, and then for another 20 seconds, 10 health will be restored every second… Thi- This is not any worse than my growth amplification device based on usefulness to the team and the market value.* She saw the look Lin Le was giving her, as if he was saying, ‘Hehe, damn Little Tian. The moment you raise your butt, Lele knows exactly what you’re doing.’ Little Tian’s chest tightened and she roared in her heart, *Aaaaah!! That Lele is the worst!!*
+
+Ye Cang assessed it. 5 times a day was already very practical. This was a very important life-saving item. “Lele, what does it cost?”
+
+“I don’t know. It needs this, this, and also… these...” Lin Le took out all the materials. Little Ye Tian instantly calculated its approximate value to be about 1 gold. Although it was high, but its usefulness was much higher than its value. LordAsked, NalanPureSoul, NalanMoon, or the other experts definitely wouldn’t be stingy with these. As for materials, they could have the store procure them...
+
+“Little Tian, how many amplification devices did you make?” Ye Cang asked.
+
+“Besides ours, there are 2 extra magic amplification devices and 3 motion amplification devices...” Little Ye Tian replied.
+
+“I got it. Lele, make some more soldier foods. I’ll get some buyers. Tsk tsk, this time, we’ll make a fortune, then I’ll bring you both to the high-end auction. You can tell me if you want anything, we’ll buy! Buy! Buy!” Ye Cang turned and looked into the distance.
+
+“Brother Lil’White! Yay!” Lin Le became excited. Little Ye Tian was a bit slower but also jumped up and cheered, “Yay...”
