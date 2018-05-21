@@ -1,0 +1,38 @@
+---
+layout: posts
+title:  "Second Year"
+date:   2018-05-20 21:28:00
+comments: true
+---
+
+Hey everyone,
+
+First, apologies for the long absence. I can't guarantee steady releases yet, but I'm back to reading/translating peerless white emperor at least.
+
+This is my first release of my second year of translating. In year one, we managed to release 432 chapters of peerless white emperor, which happens to meet my goal of average 1 chapter a day xD (even with the long abscences).
+
+For my first post in my second year, I bring you all the stuff I have been checking out these past couple months. I do not intend to translate all of them, but if there is enough interrest in any, I might work on it while taking breaks from PWE.
+
+Also, thanks to everyone who have continued to support the site through donations.
+
+Without further ado:
+
+[Peerless White Emperor Chapter 433-449][vwpwe0433]
+
+[My Disciple Wants to Tease Me Every Day 1-5][disciple0001]
+
+[This Slime Is Poisonous 1-6][slime0001]
+
+[I'm a Professional NPC 1-4][npc0001]
+
+As always, feel free to contact me if you want to take over any of these.
+
+-- syzc
+
+[vwpwe0433]: {{site.url}}/translations/vwpwe/0433
+
+[disciple0001]: {{site.url}}/translations/disciple/0001
+
+[slime0001]: {{site.url}}/translations/slime/0001
+
+[npc0001]: {{site.url}}/translations/npc/0001

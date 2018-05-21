@@ -1,0 +1,29 @@
+---
+layout: page
+title:  "This Slime is Poisonous"
+category: "SLIME"
+---
+
+<h1> This Slime is Poisonous </h1>
+<h3> Author: Chu Liu (厨六) </h3>
+
+<img src="{{site.url}}/assets/slime.jpg" />
+
+<h3> Table of Contents</h3>
+
+<p>
+	Dragonica World a game with a world ruled by dragons. So how did I become a slime? What should this brother do...
+</p>
+
+<ul>
+	<!--<li><a href="{{ 'Characters.html' | prepend: site.baseurl }}"> Character Glossary</a></li>-->
+
+{% for chapter in site.translations %}
+	{% if chapter.category contains 'SLIME' %}
+		{% if chapter.url contains 'index' or chapter.url contains 'characters' %}
+		{% else %}
+			<li><a href="{{ chapter.url | prepend: site.baseurl }}">{{ chapter.title }}</a></li>
+		{% endif %}
+	{% endif %}
+{% endfor %}
+</ul>

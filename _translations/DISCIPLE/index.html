@@ -1,0 +1,50 @@
+---
+layout: page
+title:  "My Disciple Wants to Tease Me Every Day"
+category: "DISCIPLE"
+---
+
+<h1> My Disciple Wants to Tease Me Every Day </h1>
+<h3> Author: Jiang Ru (姜茹) </h3>
+
+<img src="{{site.url}}/assets/disciple.jpg" />
+
+<h3> Table of Contents</h3>
+
+<p>
+The number 1 beauty of the cultivation world, Di Jiufeng. Her enchanting beauty can drive any living thing crazy.
+</p>
+<p>
+One day, Fairy Jiufeng had a change of heart, becoming aloof and no longer partaking in mortal affairs. No one knew why. 
+</p>
+<p>
+But the legendary Fairy Jiufeng did not have a change of heart, she was kidnapped by the fraudulent transmigration system.
+</p>
+<p>
+Transmigration System: Main Quest - The ancient witch, Deep Darkness, has reincarnated. Avert the apocalypse or die.
+</p>
+<p>
+In order to survive, Di Jiufeng had no choice but to bring home and raise the ancient witch. She suffered bitter hardships in order to reform the demon. A pity, she didn't know where things went wrong, but her disciple not only refuse to set revenge aside, but even wants to tease her every day!
+</p>
+<p>
+Lumina (Reincarnated Ancient Witch): Be mine or I will destroy the world.
+</p>
+<p>
+Fairy Jiufeng: ...... (terrified).
+</p>
+<p>
+NOTE: This is yuri/gl/girl-love story.
+</p>
+
+<ul>
+	<!--<li><a href="{{ 'Characters.html' | prepend: site.baseurl }}"> Character Glossary</a></li>-->
+
+{% for chapter in site.translations %}
+	{% if chapter.category contains 'DISCIPLE' %}
+		{% if chapter.url contains 'index' or chapter.url contains 'characters' %}
+		{% else %}
+			<li><a href="{{ chapter.url | prepend: site.baseurl }}">{{ chapter.title }}</a></li>
+		{% endif %}
+	{% endif %}
+{% endfor %}
+</ul>

@@ -1,0 +1,41 @@
+---
+layout: page
+title:  "I'm a Professional NPC"
+category: "NPC"
+---
+
+<h1> I'm a Professional NPC </h1>
+<h3> Author: Sichuan Pepper (蜀椒) </h3>
+
+<img src="{{site.url}}/assets/npc.jpg" />
+
+<h3> Table of Contents</h3>
+
+<p>
+A professional NPC's motto is: Everything for the player.
+</p>
+<p>
+...: This NPC dares to mess with us?!
+</p>
+<p>
+Qing Ya: You guys continue, I'm just passing by. Eh... I'll get some experience while I'm at it.
+</p>
+<p>
+...: Aaah, kill her!
+</p>
+<p>
+Come come, let us kill eachother.
+</p>
+
+<ul>
+	<!--<li><a href="{{ 'Characters.html' | prepend: site.baseurl }}"> Character Glossary</a></li>-->
+
+{% for chapter in site.translations %}
+	{% if chapter.category contains 'NPC' %}
+		{% if chapter.url contains 'index' or chapter.url contains 'characters' %}
+		{% else %}
+			<li><a href="{{ chapter.url | prepend: site.baseurl }}">{{ chapter.title }}</a></li>
+		{% endif %}
+	{% endif %}
+{% endfor %}
+</ul>
