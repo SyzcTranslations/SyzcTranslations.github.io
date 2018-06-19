@@ -3,7 +3,7 @@ layout: chapter
 title:  "Chapter 151"
 category: "VWPWE"
 translator: "syzc"
-thanks1: "Hazery"
+thanks1: "Hazery, Shane Richmond"
 comments: true
 ---
 

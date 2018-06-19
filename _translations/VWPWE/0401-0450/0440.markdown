@@ -3,7 +3,7 @@ layout: chapter
 title:  "Chapter 440"
 category: "VWPWE"
 translator: "syzc"
-editor: "skizlock"
+editor: "skizlock, shinydragonmist"
 comments: true
 ---
 
