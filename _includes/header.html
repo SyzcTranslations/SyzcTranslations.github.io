@@ -16,6 +16,10 @@
 			{% for page in site.pages %} {% if page.title %}
 				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
 			{% endif %} {% endfor %}
+			<li class="darkmodebutton">
+				<button id="enableDarkMode" onclick="toggleDarkMode(true)"> Enable Darkmode </button>
+				<button id="disableDarkMode" onclick="toggleDarkMode(false)"> Disable Darkmode </button>
+			</li>
 		</ul>
 	</nav>
 </aside>

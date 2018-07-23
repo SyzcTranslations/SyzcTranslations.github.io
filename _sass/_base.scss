@@ -1,5 +1,6 @@
 $content-width: 1000px;
 $main: #8e5652;
+$background-color: #f5f0f0;
 $font-style: 'Open Sans', sans-serif;
 $font-color: #262626;
 $link-color: #425469;
@@ -7,6 +8,10 @@ $link-hover-color: $main;
 $heading-font: 'Muli', sans-serif;
 $heading-font-color: #8e5652;
 $light: #E7EDF4;
+
+$darkmode-font-color: #e1dcdc;
+$darkmode-background-color: #323232;
+$darkmode-link-color: #86a7cc;
 
 // Navigation Variables
 $breakpoint: 800px;
@@ -21,4 +26,4 @@ $link-hover-color: #2581DC;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
-} 
+}

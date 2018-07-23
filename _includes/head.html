@@ -34,4 +34,35 @@
 		  }); // end DOM ready
 		})(jQuery); // end jQuery
 	</script>
+	<script>
+		// Darkmode script
+		function toggleDarkMode(state) {
+			var body = document.querySelector('body');
+
+			if (state) {
+				if (body.classList.contains('darkmode')) {
+			     	// Do Nothing
+			    } else {
+			    	body.classList.add('darkmode');
+			    	localStorage.darkmode = true;
+			    }
+			}
+    		else 
+    		{
+    			if (body.classList.contains('darkmode')) {
+      				body.classList.remove('darkmode');
+      				localStorage.removeItem('darkmode');
+    			} else {
+    				// Do Nothing
+    			}
+			}
+		}
+
+		document.addEventListener("DOMContentLoaded",
+			function(event) {
+				if (localStorage.darkmode) {
+					toggleDarkMode(true);
+				}
+			});
+	</script>
 </head> 
