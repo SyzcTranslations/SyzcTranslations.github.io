@@ -1,0 +1,18 @@
+---
+layout: posts
+title:  "Virtual World: Peerless White Emperor Chapters 461 - 474"
+date:   2018-07-23 19:23:00
+comments: true
+---
+
+Hey everyone,
+
+Here's a few more chapters. Extra thanks to skizlock for helping me get everything ready so I could just copy and paste.
+
+Also, I've tried adding a darkmode to the site. Hopefully, the colors I chose are alright. If any problems occur, please email me or leave a comment. I couldn't get disqus to switch to dark theme though, so comments still in white.
+
+[Peerless White Emperor Chapter 461-474][vwpwe0461]
+
+-- syzc
+
+[vwpwe0461]: {{site.url}}/translations/vwpwe/0461
