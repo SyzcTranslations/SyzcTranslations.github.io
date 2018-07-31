@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 175: Pair of Heroes**
+### Chapter 175: Pair of Heroes
 
 "Bro, we can also join in the competition...?" Zhang ZhengXiong smiled.
 

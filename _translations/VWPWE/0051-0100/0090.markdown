@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 90: Upgraded Cooking**
+### Chapter 90: Upgraded Cooking
  
 "It should start getting difficult. Let's all heal up a bit." Ye Cang indifferently smiled.
  

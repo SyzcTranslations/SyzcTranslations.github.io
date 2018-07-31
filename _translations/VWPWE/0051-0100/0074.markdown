@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 74: A Bit of the Past**
+### Chapter 74: A Bit of the Past
  
 "Children shouldn't say s\*\*t, got it?" Ye Cang said helplessly.
  

@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 180: Guild Disk**
+### Chapter 180: Guild Disk
 
 "Most importantly, that feeling of leisurely strolling through an army of ten thousand people makes them look so domineering. This is the image I got of Brother Le and Brother Hero..."
 

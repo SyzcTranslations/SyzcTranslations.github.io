@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 170: A Matter of Life or Death**
+### Chapter 170: A Matter of Life or Death
 
 Barbaric Tackle!
 

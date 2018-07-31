@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 4: Shared Bath Quest**
+### Chapter 4: Shared Bath Quest
 
 Quest Confirmation Window: According to the programmed settings, for every death, host will be struck once by lightning. Not fatal, but will experience level 10 pain. Now please choose whether to accept the quest.
 

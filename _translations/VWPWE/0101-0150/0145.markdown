@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 145: Stars by the Beach**
+### Chapter 145: Stars by the Beach
 
 Night time on the beach, it was like there were stars everywhere you looked as the countless jellyfish came to the surface and shined their beautiful light becoming an inverted starry sky. This was a famous scene that you could only find during the summers at LinHai - The Sea of Stars.
 

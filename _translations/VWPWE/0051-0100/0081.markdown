@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 81: Class Equipment**
+### Chapter 81: Class Equipment
  
 "What a beautiful fish..." Lin Le looked at the luminous fish and couldn't help murmuring.
  

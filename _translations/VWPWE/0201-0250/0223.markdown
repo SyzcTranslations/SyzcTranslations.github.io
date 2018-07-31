@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 223: Meeting at the Station**
+### Chapter 223: Meeting at the Station
 
 Ye Cang was on the 2nd floor balcony. He stretched lazily and then collapsed onto a chair as he watched the beautiful Sea of Stars. Wu Na sat to his side, "I'm also almost level 10. Next time, we'll be able to play together."
 

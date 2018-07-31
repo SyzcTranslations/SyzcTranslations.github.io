@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 334: Arena Group Battle**
+### Chapter 334: Arena Group Battle
 
 The audience and other athletes were in an uproar. Mad War was a seeded team, so CloudDragon also had to watch Lin Le kill an assassin with the Giant Blade Warrior. He smiled, “If I remember correctly, in arena mode, every time the Giant Blade Warrior gets a kill, his attributes will increase by 50%, including speed. If the second one is also killed, then the third might as well not go up.”
 

@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 45: Furious ThornyRose**
+### Chapter 45: Furious ThornyRose
  
 The fishman chief, in front of Ye Cang's skill, could only howl in pain. The dark red sword had firmly stabbed into its right eye and was immediately pulled out, bringing with it a spurt of blood.
  
@@ -25,7 +25,7 @@ ThornyRose was also puzzled. What skill was it, it was so amazing. Who did it? L
  
 3 Minor Flame Flasks all hit the wound on its face and started to burn. The fishman awakened and screamed in pain.
  
-"Finish him!" Ye Cang leapt forwards and used his straight thrust. His dark red sword flashed as it stabbed into the fishman chief's throat, leaving a hole which spurted blood. The fishman struggled to block the incoming attacks but didn't make it in time. Lin Le wielded his large axe and shouted: "Lele's Big Windmill!!" 
+"Finish him!" Ye Cang leapt forwards and used his straight thrust. His dark red sword flashed as it stabbed into the fishman chief's throat, leaving a hole which spurted blood. The fishman struggled to block the incoming attacks but didn't make it in time. Lin Le wielded his large axe and shouted, "Lele's Big Windmill!!" 
  
 The fishman's hooked long blade blocked the first spin. FrozenCloud leapt over, her right tonfa ferociously attacking its bleeding throat. She landed and dodged past Lin Le's spin with a roll.
  
@@ -39,13 +39,13 @@ Zhang ZhengXiong quickly charged over, but someone was even faster than him. In 
  
 "It's already become an instinct?" FrozenBlood murmured. Zhang ZhengXiong was extremely jealous.
  
-This time, Ye Cang felt something was off. ThornyRose had a murderous expression, one that made others shiver in fear. He saw her delicate hands reaching towards his face, he thought: "Not good, she's going to do something!" and he quickly intercepted her hands to resist. The two were again in an inappropriate position with her above and him below.
+This time, Ye Cang felt something was off. ThornyRose had a murderous expression, one that made others shiver in fear. He saw her delicate hands reaching towards his face, he thought, "Not good, she's going to do something!" and he quickly intercepted her hands to resist. The two were again in an inappropriate position with her above and him below.
  
 "Perverted Lowlife! I won't be at peace until I tear you apart!" ThornyRose's face was already red from rage and was grinding her teeth.
  
 "Hey, Madam. Have some dignity. Your image is falling apart..." Ye Cang tightly held her hands, resisting while 'calming her down'. He sighed and looked away. "Earlier, that wasn't my fault. It was the boss..."
  
-Before he could finish speaking, he felt a pain on his face and he screamed: "Aaah!! My Face!! She's biting my face!"
+Before he could finish speaking, he felt a pain on his face and he screamed, "Aaah!! My Face!! She's biting my face!"
  
 Everyone watched ThornyRose who was biting at Ye Cang as if she was a zombie. They inhaled sharply and started to step away. This woman was so terrifying. FrozenBlood looked at the mad woman who had completely lost her reason and quickly ran over. Once she was close, she took a picture before pulling ThornyRose away. "Calm down, calm down. Let's split the boss's loot, then return to Really New Village for the reward..."
  
@@ -63,49 +63,34 @@ After FrozenBlood's consoling, ThornyRose had settled down a bit. She thought of
  
 "Brother Lil'White. It dropped a saber, a chest armor, and a ring." Lin Le handed over the loot. The saber looked like that hooked blade the fishman chief was using. The armor was made of blue fish scales, it was probably medium armor. It looked quite beautiful. As for the ring, it was silver and was engraved with what looked like a fishman poem.
  
-Gil Rage's Blade (Superior - Uncommon)
+>**Gil Rage's Blade *(Superior · Uncommon)***  
+Category: One Handed Blade   
+Requirements: 12 Strength, 13 Constitution  
+Damage: 8 - 11  
++2 Strength  
++2 Constitution  
+>- Gil Rage's Heavy Strike  
+   Perform a powerful attack against the target, dealing 200% damage. Has a chance to knockback or stun the target.  
+   Cooldown: 15 minutes
  
-Category: One Handed Blade
- 
-Requirements: 12 Strength, 13 Constitution
- 
-Damage: 8 - 11
- 
-+2 Strength
- 
-+2 Constitution
- 
-Gil Rage's Heavy Strike: Perform a powerful attack against the target, dealing 200% damage. Has a chance to knockback or stun the target. Cooldown: 15 minutes.
- 
-Blue Scaled Fishman's Guard (Superior - Uncommon)
- 
-Category: Medium Armor
- 
-Requirements: 20 Constitution or 15 Strength
- 
-+5 Defence
- 
-+1 Strength
- 
-+3 Constitution
- 
+>**Blue Scaled Fishman's Guard *(Superior · Uncommon)***  
+Category: Medium Armor  
+Requirements: 20 Constitution or 15 Strength  
++5 Defence  
++1 Strength  
++3 Constitution  
 Reduce incoming damage by 5%.
  
-Blue Scaled Fishman Chief's Ring (Superior - Uncommon)
- 
-Category: Ring
- 
-Requirements: None
- 
-+2 Strength
- 
-+2 Dexterity
- 
+>**Blue Scaled Fishman Chief's Ring *(Superior · Uncommon)***  
+Category: Ring  
+Requirements: None  
++2 Strength  
++2 Dexterity  
 +2 Damage
- 
+
 Three pieces of equipment, each of which could drive someone mad with greed. Although the weapon was one-handed, but the damage was almost as high as Ye Cang's two handed sword. It was a fairly heavy one handed weapon. It even had a high damage crowd control skill. Except for Ye Cang and Lin Le, everyone wanted it. The breast plate's defence and attributes were all really good. It had high defence and constitution along with % damage reduction, perfect for a tank. As for the ring, it didn't even need to be said. 2 Strength, 2 Dexterity, and 2 damage, compared to having a special ability, a damage bonus was a lot more stable.
  
-No one was in a rush to distribute it. Looting the other fishmen, they received 2 fine and 2 excellent equipment. This times harvest was really plentiful. One of the excellent equipment was a wand. There was also a skirt that added intelligence among the fine equipment. GreenDew who was in town was really happy. She didn't die for nothing.
+No one was in a rush to distribute it. Looting the other fishmen, they received 2 fine and 2 excellent equipment. This times harvest was really plentiful. One of the excellent equipment was a wand. There was also a skirt that added intelligence among the fine equipment. GreenDew, who was in town, was really happy. She didn't die for nothing.
 
 ---
 

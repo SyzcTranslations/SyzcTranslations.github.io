@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 330: The Concert Begins**
+### Chapter 330: The Concert Begins
 
 “Entertainment mode is?” Ye Cang was puzzled.
 

@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 141: Zero Luck**
+### Chapter 141: Zero Luck
 
 "Let's roll for the skillbook." Ye Cang stood out and said. The others were about to object.
 

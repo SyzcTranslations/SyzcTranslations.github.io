@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 68: New Assistants**
+### Chapter 68: New Assistants
  
 "The things sire did today, I'm afraid they aren't too honorable." NalanMoon looked at his high and mighty attitude and frowned.
  

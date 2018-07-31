@@ -24,6 +24,12 @@ h3 {
 	font-family: $heading-font;
 	line-height: 1.5;
 }
+h3 {
+	color: $font-color;
+}
+.darkmode h3 {
+	color: $darkmode-font-color;
+}
 h1,
 .darkmode h1 {
 	color: $main;

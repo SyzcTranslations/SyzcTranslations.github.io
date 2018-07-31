@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 58: New Plan**
+### Chapter 58: New Plan
  
 Ye Cang's group reconnected to the game and immediately got a message from ThornyRose.
  
@@ -63,7 +63,7 @@ Ye Cang felt this mission wasn't as easy as it sounded, but it was still feasibl
  
 Madam Mar walked in from the courtyard. "Hubby, you can do it. Also, that white haired young man is like me, a half-elf."
  
-Mar smiled. "No wonder I keep wanting to temper him, he's just like little Mar."
+Mar smiled. "No wonder I keep wanting to temper him, he's just like Mar Junior."
  
 "You... come back with me and rest. You'll get sick from working so much." Madam Mar tugged at him.
  

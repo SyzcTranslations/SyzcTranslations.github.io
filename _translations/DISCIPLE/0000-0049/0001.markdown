@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 1: Cultivation Quest**
+### Chapter 1: Cultivation Quest
 
 "Retard."
 

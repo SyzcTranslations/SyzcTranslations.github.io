@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 2: Entering Conviction**
+### Chapter 2: Entering Conviction
 
 On the east side of the city college, in an apartment building on YueRong Street.
 
@@ -31,7 +31,7 @@ The three of them waited for the countdown.
 
 After the announcement, the display changed into a character creation interface. In the race selection there was: Human, Elf, Beastkin, Devils, Spirits, etc. All kinds of races.
 
-Ye Cang didn't want to waste too much time. He thought that by the time Lele finished choosing, it would be breakfast time, so he quickly said: "Everyone pick human, don't waste time!"
+Ye Cang didn't want to waste too much time. He thought that by the time Lele finished choosing, it would be breakfast time, so he quickly said, "Everyone pick human, don't waste time!"
 
 "Understood bro" Zhang ZhengXiong replied.
 
@@ -85,45 +85,30 @@ His mind was painting pink pictures. Ye Cang slowly returned from his recollecti
 
 "Yes."
 
-Character: PaleSnow
+>**Character**: PaleSnow  
+**Race**: Half-Elf  
+**Gender**: Male  
+**Class**: Trainee Ranger  
+**Strength**: 11 *(1 health, 0.5 attack power, influences your strength)*  
+**Dexterity**: 8+1 *(0.25 attack power, influences your ability to dodge and your reflexes)*  
+**Constitution**: 5 *(3 health, influences your stamina and ability to resist attacks)*  
+**Intelligence**: 10+1 *(2 mana, influences the power and accuracy of your spells, your ability to read)*  
+**Wisdom**: 7 *(1 mana, influences spell focus and accuracy, mental resistance, ability to find traps and hidden enemies)*
 
-Race: Half-Elf
+>**Health**: 26 / 26  
+**Mana**: 27 / 27  
+**Fury**: 0 / 100  
+**Energy**: 100 / 100  
+**Attack**: 2 - 5  
 
-Gender: Male
+>**Racial Characteristics**    
+Diplomatic *(Human)*: Obtain +10% prestige. Raises social ability.  
+Learned *(Human)*: Every 10 levels, gain an additional common talent point.  
+Graceful *(Dark Elf)*: + 1 Dexterity and another 1 every 5 levels. Gain + 1 with bows.  
+Magic Power *(Sunfury Elf)*: +1 Intelligence and another 1 every 5 levels.  
 
-Class: Trainee Ranger
-
-Strength: 11 (1 health, 0.5 attack power, influences your strength)
-
-Dexterity: 8+1 (0.25 attack power, influences your ability to dodge and your reflexes)
-
-Constitution: 5 (3 health, influences your stamina and ability to resist attacks)
-
-Intelligence: 10+1 (2 mana, influences the power and accuracy of your spells, your ability to read)
-
-Wisdom: 7 (1 mana, influences spell focus and accuracy, mental resistance, ability to find traps and hidden enemies)
-
-Attack: 2 - 5
-
-Health: 26 / 26
-
-Mana: 27 / 27
-
-Fury: 0 / 100
-
-Energy: 100 / 100
-
-Racial Characteristics:
-
-Diplomatic (Human): Obtain +10% prestige. Raises social ability.
-
-Learned (Human): Every 10 levels, gain an additional common talent point.
-
-Graceful (Dark Elf): + 1 Dexterity and another 1 every 5 levels. Gain + 1 with bows.
-
-Magic Power (Sunfury Elf): +1 Intelligence and another 1 every 5 levels.
-
-Class Talents: None.
+>**Class Talents**  
+None.
 
 "Would you like to enter the game?"
 
@@ -133,19 +118,17 @@ Class Talents: None.
 
 Ye Cang's screen went black for a moment then he found himself in the middle of a village. It immediately became noisy. A sea of people were bustling around in excitement. He looked at the set of villager clothes he was wearing. It was useless with it's 0 defence. In his backpack was a wooden sword and a novice gift box.  
 
-Shoddy Wooden Sword (Poor)
+>**Shoddy Wooden Sword (Poor)**  
+Attack 1 - 1  
+*PS: Be careful! This sword breaks easily.*  
 
-Attack 1 - 1
-
-PS: Be careful! This sword breaks easily.
-
-"..." Seeing the weapon in his hand, Ye Cang wanted to snap it in half with his knee on the spot. He sighed and turn on his virtual chat: "I was assigned to Really New Village, you guys?"
+"..." Seeing the weapon in his hand, Ye Cang wanted to snap it in half with his knee on the spot. He sighed and turn on his virtual chat, "I was assigned to Really New Village, you guys?"
 
 "Really New Village." Zhang ZhengXiong reported.
 
 "Me too!" Lin Le said happily.
 
-"Good, let's first get together. I'm at xxx,yyyy." Ye Cang said. Zhang ZhengXiong and Lin Le hurriedly arrived at Ye Cang's coordinates: outside of a farmhouse.
+"Good, let's first get together. I'm at xxx,yyy." Ye Cang said. Zhang ZhengXiong and Lin Le hurriedly arrived at Ye Cang's coordinates: outside of a farmhouse.
 
 "Ye Cang, I've arrived. I'm in Maple Forest Village, you guys?" Wu Na's call arrived.
 

@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 337: Boss Fight**
+### Chapter 337: Boss Fight
 
 Outside in the lounge, FrozenCloud fiercely shook her head. “Brother Zhao, Team Leader just wanted to kill Sister Rose...”
 

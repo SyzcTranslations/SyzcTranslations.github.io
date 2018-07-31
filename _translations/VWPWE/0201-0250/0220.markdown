@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 220: Class Change and Dividing the Work**
+### Chapter 220: Class Change and Dividing the Work
 
 With FrozenCloud repeated urging, Lin Le reluctantly gave up on the idea of quitting the Armed Merchant's Association to join the Adventurer's association.
 

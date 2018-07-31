@@ -11,16 +11,15 @@ TN: That organ theft thing better not be foreshadowing :( I don't want anyone to
 
 ---
 
-**Chapter 17: To The Peak**
+### Chapter 17: To The Peak
 
-After being together for a while, ThornyRose realised that these three guys were not bad. 
-She also learned that they were new to gaming, but their luck was really good. Right at the beginning they managed to get a good profession, and even a hidden class. She looked at Zhang ZhengXiong and asked: "You're a fighter who focuses on constitution with some strength?"
+After being together for a while, ThornyRose realised that these three guys were not bad. She also learned that they were new to gaming, but their luck was really good. Right at the beginning they managed to get a good profession, and even a hidden class. She looked at Zhang ZhengXiong and asked, "You're a fighter who focuses on constitution with some strength?"
 
-"Ah~ no. I'm a priest..." Zhang ZhengXiong replied calmly. He then turned back and used the story about the human organ theft in the western district to scare Lin Le.
+"Ah~ no. I'm a priest..." Zhang ZhengXiong replied casually. He then turned back and used the story about the human organ theft in the western district to scare Lin Le.
 
-"..." ThornyRose, FrozenBlood, and GreenDew were speechless. This guy was unexpectedly a f\*\*king priest?
+"..." ThornyRose, FrozenBlood, and GreenDew were all speechless. This guy was unexpectedly a f\*\*king priest?
 
-ThornyRose's chest felt heavy. He's taking a priest and playing like a fighter. It was a bit too late to remind him, but with good intentions, she asked: "Don't tell me you added your points to..."
+ThornyRose's chest felt heavy. He's taking a priest and playing like a fighter. It was a bit too late to remind him, but with good intentions, she asked, "Don't tell me you added your points to..."
 
 Zhang ZhengXiong turned back and patted his chest. "No problem! A healthy body is a healthy mind."
 
@@ -34,7 +33,7 @@ At nightfall, darkness covered their field of view. They all took out their torc
 
 "Bring it over and let me see." Ye Cang took the recipe. ThornyRose looked at Lin Le. More than one of them had a profession? How did they acquire them?
 
-Minor Flame Flask - Recipe: A Recipe to create a Minor Flame Flask. Deal 15 fire damage to a target and have a chance to deal burn damage over time. (Requirements: Alchemist or Arm's Dealer).
+>**Minor Flame Flask - Recipe**: A Recipe to create a Minor Flame Flask. Deal 15 fire damage to a target and have a chance to deal burn damage over time. (Requirements: Alchemist or Arm's Dealer)
 
 "Do you have someone who can learn this recipe?" Ye Cang looked between the recipe and ThornyRose and asked.
 
@@ -46,7 +45,10 @@ ThornyRose shook her head. There still hadn't been any word of an alchemy instru
 
 Ye Cang took the skill book.
 
-Heavy Strike: Perform a heavy attack at the target, dealing 150% damage. Consumes 10 rage. Cooldown: 10 seconds. (Requirements: A class that uses rage.)
+>**Heavy Strike**  
+Perform a heavy attack at the target, dealing 150% damage.  
+Cost: 10 rage *(Requirements: A class that uses rage)*  
+Cooldown: 10 seconds
 
 The three of them faced each other. "Rock, Paper, Scissors!"
 
@@ -64,7 +66,7 @@ Ye Cang froze for a second then immediately said. "Forgot... then let's go again
 
 FrozenBlood facepalmed. Just how new and primitive were these three.
 
-"Let's roll for them. Only those who have rage..." ThornyRose sighed. She figured they also didn't know how to roll. She demonstrated: "Like this. Watch. The one who rolls highest gets it." She then rolled the dice and got a 2.
+"Let's roll for them. Only those who have rage..." ThornyRose sighed. She figured they also didn't know how to roll. She demonstrated, "Like this. Watch. The one who rolls highest gets it." She then rolled the dice and got a 2.
 
 The three guys threw out their dice. Ye Cang got a 1. Zhang ZhengXiong got 15. Lin Le got 100.
 
@@ -74,7 +76,7 @@ The three guys threw out their dice. Ye Cang got a 1. Zhang ZhengXiong got 15. L
 
 "Ah, miss, you can call me A'Xiong. Actually, when my Constitution passed 20 and my Strength reached 10, the system told me I unlocked Rage." Zhang ZhengXiong replied.
 
-"Get lost! You're the miss!" ThornyRose roared. She felt that anything that comes out of a loser like Zhang ZhengXiong's mouth becomes rotten, especially since he was a priest that had rage. The system probably already thinks he's a fighter! She put her hand on her forehead and sighed.
+"Get lost! You're the miss!" ThornyRose roared. She felt that anything that comes out of a loser like Zhang ZhengXiong's mouth became rotten, especially since he was a priest that had rage. The system probably already thought he was a fighter! She put her hand on her forehead and sighed.
 
 "Then... Madam?" Ye Cang played with his eyebrows and tried.
 
@@ -82,7 +84,7 @@ The three guys threw out their dice. Ye Cang got a 1. Zhang ZhengXiong got 15. L
 
 "Madam, you're trying to cheat?" Lin Le pouted, feeling wronged.
 
-ThornyRose saw that the three of them had come to an agreement. Madam your sister! She roared again: "I'm not Madam!"
+ThornyRose saw that the three of them had come to an agreement. Madam your sister! She roared again, "I'm not Madam!"
 
 FrozenBlood couldn't help laughing happily. "Very good. Madam..."
 
@@ -104,11 +106,11 @@ GreenDew was on the side, covering her mouth and trying to hold in her laughter.
 
 The six of them continued walking and clearing out the red slimes and the large bats that appear at night. Partway up, they ran into a small swarm of bats. The 10 or so large bats caught the six of them unprepared. Fortunately, there weren't too many of them. Flaming Dog's Fang that was in ThornyRose's hand spouted flame as it struck. Two hit's caused extraordinary damage. ThornyRose was becoming too attached to it. If she brought it to PK, now that players didn't have much defence, and she activated flame strike, two strikes, each dealing 20+ damage could instantly kill a player. Of course, it wouldn't work on guys like Zhang ZhengXiong, who had fire resistance, a defensive skill, and even high Constitution. Zhang ZhengXiong currently had over 80 health.
 
-Now that Lin Le had Heavy Strike, his damage increased by a lot. After the ambush, their food buffs had almost run out. They also needed to heal. However, they were almost at the top.
+Now that Lin Le learned Heavy Strike, his damage increased by a lot. After the ambush, their food buffs had almost run out. They also needed to heal. However, they were almost at the top.
 
 "Mada..." Before Ye Cang could finish speaking, ThornyRose gave him a murderous glare. "Sister Rose, lets heal a bit."
 
-Everyone looked at the red liquid in the pot. ThornyRose felt powerless, she said giving Ye Cang a serious look: "Can't you make it taste a bit better? It doesn't need to be good, just edible."
+Everyone looked at the red liquid in the pot. ThornyRose felt powerless, she said giving Ye Cang a serious look, "Can't you make it taste a bit better? It doesn't need to be good, just edible."
 
 "Eh~, this is the just how red slimes taste. Though I have a recipe that is edible, it doesn't give fire resistance." Ye Cang shook his head.
 
@@ -120,6 +122,6 @@ Without a fuss, FrozenBlood sheathed her dagger at her waist and began quietly c
 
 Not far away, Ye Cang watched FrozenBlood's noiseless and elegant climbing motions. She was a natural at concealment. 
 
-Zhang ZhengXiong stroked his chin and praised: "Amazing."
+Zhang ZhengXiong stroked his chin and praised, "Amazing."
 
 Ye Cang slowly nodded. "Indeed."

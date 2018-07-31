@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 71: Artificial Experiment**
+### Chapter 71: Artificial Experiment
  
 TianXing city, in some research lab.
  

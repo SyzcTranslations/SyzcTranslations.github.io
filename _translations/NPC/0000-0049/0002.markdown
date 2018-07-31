@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 2: Cutie, Harder**
+### Chapter 2: Cutie, Harder
 
 Mumu, who had called out to Qing Ya was already a tenured professional NPC who had signed an agreement with the main system. As long as he doesn't violate the agreement, then within the allotted time, his character would be his. No one could snatch it.
 

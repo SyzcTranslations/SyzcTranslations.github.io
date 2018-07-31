@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 349: SpyingBlade’s Resolution**
+### Chapter 349: SpyingBlade’s Resolution
 
 “Who would have thought the Blade Demoness had a chance to rise to SS rank...” CloudDragon muttered.
 

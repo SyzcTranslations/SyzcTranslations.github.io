@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 5: Archie's Counter-Attack**
+### Chapter 5: Archie's Counter-Attack
 
 Death always accompanied gaming.
 

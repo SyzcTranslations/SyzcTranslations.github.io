@@ -7,7 +7,7 @@ editor: "BaronCrux, openbookworm, ColdLove"
 comments: true
 ---
 
-**Chapter 384: Liu Family**
+### Chapter 384: Liu Family
 
 Seaside cottage.
 

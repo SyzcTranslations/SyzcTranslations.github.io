@@ -7,7 +7,7 @@ editor: "skizlock, openbookworm"
 comments: true
 ---
 
-**Chapter 462: The Dark Cave**
+### Chapter 462: The Dark Cave
 
 Zhang ZhengXiong felt like he was on the verge of collapse. He picked up the iron spit and threw it onto the cloth in front of everyone, then quickly backed up tens of steps. "My god, that was too f\*\*king strong...."
 

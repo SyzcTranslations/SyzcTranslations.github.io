@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 4: Hard to Complete Quest**
+### Chapter 4: Hard to Complete Quest
 
 For once, everything went smoothly.
 

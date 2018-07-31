@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 118: Corrupted Jungle**
+### Chapter 118: Corrupted Jungle
 
 As they went deeper into the forest they came upon a path. Nearby was the skeletal remains of a corpse, covered in brambles. Beside it was a damaged parchment, on which they could make out some text.
 

@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 210: The Food Poisoning Arrow**
+### Chapter 210: The Food Poisoning Arrow
 
 The situation was becoming messy.
 

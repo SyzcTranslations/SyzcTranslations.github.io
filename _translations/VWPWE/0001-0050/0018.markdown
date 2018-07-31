@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 18: Hemlock Longbow**
+### Chapter 18: Hemlock Longbow
 
 "Everyone come up. Besides a cave, there's nothing else up here." FrozenBlood voice arrived from above. Everyone started climbing up and arrived at the cave.
 
@@ -15,11 +15,11 @@ comments: true
 
 Although it was disgusting, ThornyRose was still a bit envious. It was a very useful skill, and greatly reduced the amount of time needed to level. Healing items were extremely expensive. One small red potion sold for 15 silver each at the NPC and it healed very little. As for blue potions, no one has seen them yet. Waiting for mana to recover really was a pain in the ass. That's why ThornyRose made GreenDew control her mana. She wouldn't use more than one spell on a normal monster, so that when an elite monster appeared, they would have enough to deal it with it. 
 
-What everyone didn't know was that, as a half-elf, Ye Cang could see a lot further in the dark than the others, but not as far as a full elf. Light faintly flickered in his silver eyes. He pointed at the rocks to the right and said: "There's a cave on that side."
+What everyone didn't know was that, as a half-elf, Ye Cang could see a lot further in the dark than the others, but not as far as a full elf. Light faintly flickered in his silver eyes. He pointed at the rocks to the right and said, "There's a cave on that side."
 
 Everyone looked over and could only see pitch-black, moreover it was in the middle of nowhere. ThornyRose looked at Ye Cang's eyes that shined like a nocturnal animal's. "You're not human?"
 
-Ye Cang shrugged and said: "Mm, I can't say I'm not. I'm a Half-Elf."
+Ye Cang shrugged and said, "Mm, I can't say I'm not. I'm a Half-Elf."
 
 Zhang ZhengXiong finally realised. No wonder he always notice things before them.
 
@@ -27,11 +27,11 @@ FrozenBlood already thought it was a bit weird. Every time a bat came, it was al
 
 ThornyRose looked at the three of them: Hidden Class, Hidden Race, Professions, What else? She didn't want to ask. "Since you have night vision, then let's have you be responsible for scouting. Go take a look ahead."
 
-Ye Cang nodded. He brought everyone to a steep slope, jumped up and started climbing. Everyone followed closely behind him. When they climbed into the cave, the inside was just a small hollow with two treasure chests. He said with excitement: "There's two treasure chests!"
+Ye Cang nodded. He brought everyone to a steep slope, jumped up and started climbing. Everyone followed closely behind him. When they climbed into the cave, the inside was just a small hollow with two treasure chests. He said with excitement, "There's two treasure chests!"
 
 Treasure chests!? Everyone quickly climbed in.
 
-ThornyRose wanted to say that each group would get one, but Ye Cang had already opened one. He saw that inside was completely empty and asked: "Why is there nothing at all?" He took the chest and turned it upside down, then in anger he smashed it onto the ground with a "Bang~"
+ThornyRose wanted to say that each group would get one, but Ye Cang had already opened one. He saw that inside was completely empty and asked, "Why is there nothing at all?" He took the chest and turned it upside down, then in anger he smashed it onto the ground with a "Bang~"
 
 "..." ThornyRose was speechless. A treasure chest was unexpectedly empty, then the other one must definitely have something. She was sure that no other player had been here before.
 
@@ -47,18 +47,12 @@ Lin Le opened the treasure chest. "Brother Lil'White! Brother Lil'Xiong! There's
 
 "Something for me!?" Ye Cang excitedly grabbed the bow from Lin Le. It was a very textured wooden longbow that was 120cm long.
 
-Hemlock Longbow (Excellent)
-
-Category: Longbow
-
-Requirements: 11 Strength or 13 Dexterity
-
-Damage: 5 - 9
-
-+1 Strength
-
-+1 Dexterity
-
+>**Hemlock Longbow *(Excellent)***  
+Category: Longbow  
+Requirements: 11 Strength or 13 Dexterity  
+Damage: 5 - 9  
++1 Strength  
++1 Dexterity  
 +10m Range
 
 "Bro! Every time you open a chest or loot a boss, nothing ever comes out. Now you've wasted a chest." Zhang ZhengXiong grumbled. 
@@ -71,18 +65,14 @@ ThornyRose and the girls were confused. FrozenBlood touched her brows. Weren't t
 
 Ye Cang took the bow and equipped it. "I'm taking this bow, any objections?"
 
-For the longbow, ThornyRose and the girl's had no objections. Although the stats were good, only he could use it well since it was one of the weapons the jack-of-all-trades Ranger could use. She asked: "Let's see the helmet."
+For the longbow, ThornyRose and the girl's had no objections. Although the stats were good, only he could use it well since it was one of the weapons the jack-of-all-trades Ranger could use. She asked, "Let's see the helmet."
 
 Lin Le nodded and took leather hat with a few metal rivets.
 
-Iron Riveted Leather Hat (Fine)
-
-Category: Light Helmet
-
-Requirements: 15 Constitution, 10 Strength
-
-+2 Defence
-
+>**Iron Riveted Leather Hat *(Fine)***  
+Category: Light Helmet  
+Requirements: 15 Constitution, 10 Strength  
++2 Defence  
 +1 Constitution
 
 Since his group had already gotten something, he handed the hat over to ThornyRose.

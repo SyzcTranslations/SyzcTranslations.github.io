@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 6: Chief is Also Running to His Corpse**
+### Chapter 6: Chief is Also Running to His Corpse
 
 Though the animosity was great, man still has to answer to the call of nature. 
 

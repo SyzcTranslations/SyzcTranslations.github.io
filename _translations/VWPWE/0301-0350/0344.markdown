@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 344: Blade Demoness**
+### Chapter 344: Blade Demoness
 
 Division matches, at the arena.
 

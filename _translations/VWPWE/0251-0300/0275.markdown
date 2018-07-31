@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 275: Mountain Trail**
+### Chapter 275: Mountain Trail
 
 Black Peaks is a large mountain range north of Black Rock City. There were many monsters there, and it bordered the wastelands. The tall terrain extended as far as the eye could see, separating Black Rock City from the wastelands.
 

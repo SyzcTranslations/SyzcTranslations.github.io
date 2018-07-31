@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 161: Sayle**
+### Chapter 161: Sayle
 
 The guard boss was also slain in midair.
 

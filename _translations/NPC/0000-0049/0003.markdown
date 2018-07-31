@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 3: The Path of a Professional NPC**
+### Chapter 3: The Path of a Professional NPC
 
 The so called basic energy meal was a set of fast foods containing basic energy. With Qing Ya eating as if her life was on the line, she could still afford to eat for a week.
 

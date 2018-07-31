@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 6: Fluorescent Slime**
+### Chapter 6: Fluorescent Slime
 
 Ye Cang bore the wound from the claw, and firmly nailed the wolf under him into the ground, killing it. Seeing that he didn't even have 6 health left, he laughed bitterly.
 
@@ -15,25 +15,23 @@ On the other side, because of Lin Le's help, the pressure on Zhang ZhengXiong re
 
 Lin Le reached out and searched one of the dead feral wolves and pulled out a sheepskin map covered in drool. "Brother Lil'White! I found something!"
 
-Zhang ZhengXiong searched another one of the corpses: "Bro, I found a wolf tooth necklace!"
+Zhang ZhengXiong searched another one of the corpses, "Bro, I found a wolf tooth necklace!"
 
-Wolf Tooth Necklace (Common)
-
-Category: Necklace
-
+>**Wolf Tooth Necklace *(Common)***  
+Category: Necklace  
 Attack + 1
 
-Ye Cang turned his head realising these feral wolves give pretty good loot. He looked at the wolf pinned under him and reached his hand out. The other two watched Ye Cang searching left and right and finally stood up and gave the feral wolf corpse two good kicks before continuing to search. He straightforwardly picked up the feral wolf corpse and shook it with all his strength, hoping something would fall out. Finally, he suddenly threw the wolf corpse to the ground and roared: "F\*\*k! This biased system!"
+Ye Cang turned his head realising these feral wolves give pretty good loot. He looked at the wolf pinned under him and reached his hand out. The other two watched Ye Cang searching left and right and finally stood up and gave the feral wolf corpse two good kicks before continuing to search. He straightforwardly picked up the feral wolf corpse and shook it with all his strength, hoping something would fall out. Finally, he suddenly threw the wolf corpse to the ground and roared, "F\*\*k! This biased system!"
 
 "..." Both Zhang ZhengXiong and Lin Le were speechless.
 
 Ye Cang used his harvest skill on the 3 wolf corpses and got non-food materials: black feral wolf leather and teeth; as well as the cooking materials: feral wolf meat, heart and bone.
 
-Feral Wolf Meat (Common): edible, has a heavy fishy smell.
+>**Feral Wolf Meat *(Common)***: Edible, has a heavy fishy smell.
 
-Wolf Heart (Common): edible, fairly tasty.
+>**Wolf Heart *(Common)***: Edible, fairly tasty.
 
-Wolf Bone (Common): contains calcium.
+>**Wolf Bone *(Common)***: Contains calcium.
 
 "Let's quickly recover." Ye Cang took out his iron pot, lit a fire and started cooking green slime and mushroom stew. Zhang ZhengXiong and Lin Le weakly nodded. Taking advantage of the cooking fire, the three of them looked at the map. There was a compass in the middle to tell direction. There was an X  mark southeast of town near a river on a pile of rocks.
 
@@ -49,9 +47,12 @@ Ye Cang hurriedly pulled out some wolf meat (legs and ribs), a couple wolf bones
 
 "Congratulations, you completed a dark recipe. Please name it. You receive 50 experience and cooking proficiency +5%."
 
-Ye Cang stared blankly for a moment before saying: "Green Slime and Feral Wolf Stew."
+Ye Cang stared blankly for a moment before saying, "Green Slime and Feral Wolf Stew."
 
-Green Slime and Feral Wolf Stew (Dark Cooking): While you're eating, heal 3 health every 5 seconds. Furthermore, gain 4 poison resistance and 1 strength but can cause nausea, discomfort and other side-effects. (PS: This is a simple and easy dark recipe.)
+>**Green Slime and Feral Wolf Stew *(Dark Cooking)***  
+Restore 3 health every 5 seconds while eating.  
+Gain +4 poison resistance and +1 strength, but can cause nausea, discomfort and other side-effects.  
+*(PS: This is a simple and easy dark recipe.)*
 
 "Bro, are you sure we should eat this thing?" Zhang ZhengXiong asked timidly. Lin Le pointed at a wild boar and feral wolf that was approaching them. The three of them leaned over and watched as the wolf and boar got closer, smelled the product and turned heel running for their lives.
 
@@ -65,7 +66,7 @@ After the three healed up, they each stuck a finger in their mouth trying to thr
 
 "Bro, I suddenly feel like the plan where I sell fried cakes and Lele sold baked yams sounds really good right now..." Zhang ZhengXiong murmured. Lin Le couldn't help by nod his head.
 
-Ye Cang coldly roared: "You're really saying these ambitionless words!? We're already about to become professional gamers!!" The other two sighed. They lit another torch and continued onwards, leaving marks so they wouldn't lose their way.
+Ye Cang coldly roared, "You're really saying these ambitionless words!? We're already about to become professional gamers!!" The other two sighed. They lit another torch and continued onwards, leaving marks so they wouldn't lose their way.
 
 Several hours of searching and they still turned up empty handed. The game had already become late night. Besides a pile of wolf meat, wolf skin, etc, the other things became a second dark cooking product. Despite adding mushrooms found in the forest, there was not much change.
 
@@ -85,11 +86,11 @@ Lin Le nodded and carefully went around the right to flank the creature.
 
 Ye Cang went to the left and slowly raise his head, peeking over a large rock. A meter large slime radiating fluorescent light was eating the bush. He rubbed his eyes and looked again. "Slime?"
 
-Fluorescent Slime (Uncommon Creature): A monster in the slime family. There are extremely few of them and they only occasionally come out to hunt at night.
+>**Fluorescent Slime *(Uncommon Creature)***: A monster in the slime family. There are extremely few of them and they only occasionally come out to hunt at night.
 
 "This one should taste better..." Zhang ZhengXiong slowly made his way over and waited for Ye Cang's signal.
 
-Ye Cang slowly took out an arrow and readied his short bow, the bowstring stretched taut aiming at the slime. He let go: "Shoo!"
+Ye Cang slowly took out an arrow and readied his short bow, the bowstring stretched taut aiming at the slime. He let go, "Shoo!"
 
 Perhaps because of it's danger sense, the slime moved. The arrow ended up hitting the fluorescent slime right in the eye, spurting out transparent liquids.
 

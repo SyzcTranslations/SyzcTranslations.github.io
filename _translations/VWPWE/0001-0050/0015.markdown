@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 15: Temporary Truce**
+### Chapter 15: Temporary Truce
 
 Ye Cang readied his bow and shot three arrows, two of which were swept away by the tail. Zhang ZhengXiong also hurried over.
 
@@ -39,13 +39,13 @@ Lin Le quickly looted the corpse and stored it away. "Brother Lil'White, we got 
 
 Ye Cang remained silent and nodded. Lin Le also prepared for battle.
 
-Three wonderful silhouettes appeared on the mountain path. Ye Cang awkwardly touched his nose. Zhang ZhengXiong raised his shield to, as much as possible, cover his current embarrassing state. Lin Le played with his eyebrows as he focused on the 3 woman approaching and said gloomily: "They look really familiar, where have we met them..."
+Three wonderful silhouettes appeared on the mountain path. Ye Cang awkwardly touched his nose. Zhang ZhengXiong raised his shield to, as much as possible, cover his current embarrassing state. Lin Le played with his eyebrows as he focused on the 3 woman approaching and said gloomily, "They look really familiar, where have we met them..."
 
 ThornyRose looked at the bow. Currently, Rangers who possessed a bow could be counted on one-hand, Really New Village won't have more than 3 people. Looking at them playing dumb, she gnashed her teeth even harder. She slowly took out her longsword. 
 
 Ye Cang said without moving his mouth. "Pretend not to recognize them..."
 
-Before he even finished speaking, Lin Le loudly said: "Brother Lil'White, those three women look so familiar! Are they the one's we accidently..."
+Before he even finished speaking, Lin Le loudly said, "Brother Lil'White, those three women look so familiar! Are they the one's we accidently..."
 
 Zhang ZhengXiong immediately covered Lin Le's mouth.
 
@@ -57,15 +57,15 @@ Zhang ZhengXiong quickly tried to smile and mediate. "Cough~ Cough~ Back then, i
 
 "Cough~ Cough~ In short, it was an accident." Ye Cang saw the three women's faces becoming more and more green and hurriedly cut it short with a hollow laugh.
 
-ThornyRose, hearing their words, felt like they were bullying her. Her anger turned into a smile! The smile continued to become colder as she looked towards Ye Cang and said coldly: "Then your meaning?"
+ThornyRose, hearing their words, felt like they were bullying her. Her anger turned into a smile! The smile continued to become colder as she looked towards Ye Cang and said coldly, "Then your meaning?"
 
 FrozenBlood saw the corpse of a huge beast nearby and didn't dare to be reckless. If they really ended up fighting, she wasn't sure they could win. That big man would not be easy to deal with. Currently, when there were not many skills, battles mostly relied on their response times. That bastard was strong.
 
-Ye Cang saw their three faces becoming increasingly ash colored and knew they didn't believe them. He took out the wand and said: "Correct. My brothers words are all true. We had good intentions and wanted to help you and invite you to join us on a hidden story quest. But then that little accident happened... Of course, we're the one's who were wrong. We'll return the equipment that the boss dropped." 
+Ye Cang saw their three faces becoming increasingly ash colored and knew they didn't believe them. He took out the wand and said, "Correct. My brothers words are all true. We had good intentions and wanted to help you and invite you to join us on a hidden story quest. But then that little accident happened... Of course, we're the one's who were wrong. We'll return the equipment that the boss dropped." 
 
 "What do you think?"
 
-GreenDew almost lost her voice and exclaimed: "Hidden story quest!?"
+GreenDew almost lost her voice and exclaimed, "Hidden story quest!?"
 
 ThornyRose remained silent, her expression very complicated. On one hand she wanted to rush over and tear apart that Ranger who pierced her behind and caused her to die. On the other hand, a \* hidden story quest was offered to her. Hidden story quests were the hidden quests that a new player wanted the most, but could only get depending on their fate. The rewards would be considerable at the early levels. She thought it over with her arms crossed, her slender finger tapping on her arm. The veins on her forehead continued to throb as she closely stared at Ye Cang's  indifferent silver eyes. She couldn't help but recall what happened back at the monstrous bird. She resisted the urge to charge over and tear him apart and took a deep breath. "You're telling the truth? The hidden story quest..." 
 
@@ -87,11 +87,11 @@ Although they didn't know the contents, but it really was the mark of a hidden s
 
 "GreenDew." GreenDew sighed.
 
-After the brief and awkward introductions, ThornyRose got straight to the point and inquired: "How many people can we bring?"
+After the brief and awkward introductions, ThornyRose got straight to the point and inquired, "How many people can we bring?"
 
 "8 people" Ye Cang said as he went towards Kivis' body and took out his longsword. He got: Red Furred Flaming Dog's Fur, Meat, Bones, Heart, Claws, Fang and something else. Ye Cang was surprised that he got something the other creatures didn't drop: A Small Flame Crystal.
 
-Small Flame Crystal: A fire attribute magic crystal. Many Uses. Can be used in cooking after grinding it into powder.
+>**Small Flame Crystal**: A fire attribute magic crystal. Many Uses. Can be used in cooking after grinding it into powder.
 
 "Then we're still missing two. We should bring..." ThornyRose crossed her arms and watched Ye Cang quickly dismantling the boss' corpse. It turned out he had a gathering skill, and not an ordinary one.
 
@@ -99,7 +99,7 @@ Ye Cang turned and interrupted her. "We already have 7. There's someone who is n
 
 "Brother Lil'White, you're the best!" Lin Le was abnormally happy.
 
-The three girls were speechless. ThornyRose looked at Lin Le's foolish appearance and had some misgivings in her heart regarding the final spot. She asked, trying to dispel her doubt: "Who is the other person?"
+The three girls were speechless. ThornyRose looked at Lin Le's foolish appearance and had some misgivings in her heart regarding the final spot. She asked, trying to dispel her doubt, "Who is the other person?"
 
 "A guy called SpyingBlade." Ye Cang said, sheathing his longsword.
 

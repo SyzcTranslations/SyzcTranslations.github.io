@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 155: Optimal Eating Method**
+### Chapter 155: Optimal Eating Method
 
 GreenDew's face was full of suffering. They could feel a chill spread from their heart to their scalp when they looked at it.
 

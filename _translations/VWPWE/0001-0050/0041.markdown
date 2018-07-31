@@ -8,17 +8,7 @@ thanks1: "shizu yami"
 comments: true
 ---
 
-TN: A few changes again. 
-
-Fishman Chief Gil Raji -> Gil Rage (Doesn't Raji sound sorta like rage? I was slow to notice)
-
-Guard Captain -> Lieutenant (It was that title they got for handing in the werewolf bounty for those who don't remember)
-
-Specialization -> Perk (I also considered talent or feat, but ultimately decided on perk cause I felt like it.) (Changed to talent)
-
----
-
-**Chapter 41: Blue Scaled Fishman Cave**
+### Chapter 41: Blue Scaled Fishman Cave
  
 Everyone fainted for a short time. The first thing they did upon waking was to stick a finger in their throats but none of them managed to puke the stew out.
  
@@ -32,17 +22,17 @@ FrozenCloud, who was kneeling on the ground, looked at the three of them and bec
  
 "Don't just sit there, let's move while we have the buff." ThornyRose said unhappily.
  
-GreenDew knew there was still another half a pot that they hadn't eaten yet. She weakly asked without forgetting to be polite: "Party Leader PaleSnow, that half pot..."
+GreenDew knew there was still another half a pot that they hadn't eaten yet. She weakly asked without forgetting to be polite, "Party Leader PaleSnow, that half pot..."
  
-"We'll eat it next time we have to heal. Don't worry, there is enough for you too." Ye Cang answered calmly, making GreenDew's heart beat quicken due to fear. She thought to herself: "F\*\*k! The way he says it makes me sound like a glutton!"
+"We'll eat it next time we have to heal. Don't worry, there is enough for you too." Ye Cang answered calmly, making GreenDew's heart beat quicken due to fear. She thought to herself, "F\*\*k! The way he says it makes me sound like a glutton!"
  
-Everyone got goosebumps hearing that they'd have to eat it again. Even FrozenBlood who had strong willpower was shivering. ThornyRose asked: "You really can't make it taste any better? I'll settle for bad or really bad. Your food can't even be called food."
+Everyone got goosebumps hearing that they'd have to eat it again. Even FrozenBlood who had strong willpower was shivering. ThornyRose asked, "You really can't make it taste any better? I'll settle for bad or really bad. Your food can't even be called food."
  
 Everyone nodded. Even Zhang ZhengXiong and Lin Le betrayed him and nodded with them.
  
 "This time was unexpected. Next time I'll adjust the recipe and it should be better. This is the body of two elites, don't waste them. Hah~ the art of cooking is so profound, there's always more to learn. Forget it, you guys wouldn't understand even if I told you..." Ye Cang spoke like a lonely master and continued walking along the shallows.
  
-ThornyRose and the girls felt their hearts sink, and chose to remain silent. They looked with guarded eyes as they yearned to roar out: "You have no right to talk about culinary arts!"
+ThornyRose and the girls felt their hearts sink, and chose to remain silent. They looked with guarded eyes as they yearned to roar out,"You have no right to talk about culinary arts!"
  
 Everyone took advantage of the Werewolf and Fishman stew's buff, and traveled quickly up the river. They ran into a few waves of fishmen, but they dealt with it skillfully. Lin Le's attacks were super strong attacks. He would use his AOE fire attack to knock the fishmen fighters over and then he would use his tornado strike, smashing through their ranks like a meat grinder. ThornyRose couldn't stop her sighs as she thought about Lin Le's AOE skills and Ye Cang's healing stream. Having Zhang ZhengXiong also reduced the pressure on the team.
  
@@ -54,11 +44,11 @@ After two more sittings to restore health, that taste had already become a shado
  
 "Mm. Now that we're here, everyone should not hold back. Whatever useful items you have, take them out." ThornyRose said with her eyes fixed on Ye Cang. 
  
-Ye Cang felt her burning gaze. He turned away to look at the sky and lazily said: "So blue..."
+Ye Cang felt her burning gaze. He turned away to look at the sky and lazily said, "So blue..."
  
 "Mm, it is..." Lin Le also raised his head to looked up.
  
-ThornyRose rolled her eyes. Only his group could have some good consumables, because Lele was a hidden class. Although she didn't know which one, but it definitely had something to do with alchemy. Seeing them play dumb, she clenched her teeth: "Damn lowlife! We'll buy it at market value."
+ThornyRose rolled her eyes. Only his group could have some good consumables, because Lele was a hidden class. Although she didn't know which one, but it definitely had something to do with alchemy. Seeing them play dumb, she clenched her teeth, "Damn lowlife! We'll buy it at market value."
  
 "This is a Minor Flame Flask, and this one is a Small Health Potion, 10 silver each." Ye Cang quickly went to Lin Le and Zhang ZhengXiong, and pulled out some things. For the hidden story quest, they would have distributed it anyways. But since they could earn a bit, then might as well.
  
@@ -84,7 +74,7 @@ Everyone followed closely behind. The cave was exceptionally damp and there was 
  
 "Three fishmen warriors, all elite grade. They said: "I want these invaders dead!" Ye Cang raised his bow and an arrow instantly shot out.  
  
-Fishman Warrior (Elite): Elite guards of the fishmen.
+>**Fishman Warrior *(Elite)***: Elite guards of the fishmen.
  
 "Go! Hold them back!" ThornyRose, Zhang ZhengXiong and FrozenCloud ran up to welcome them. SpyingBlade, FrozenBlood and Lin Le followed behind them. They had already fought a few battles together so they knew what to do. GreenDew began casting her spell. 
  

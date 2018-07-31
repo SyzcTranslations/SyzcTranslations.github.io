@@ -7,13 +7,13 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 25: Lava Lamia**
+### Chapter 25: Lava Lamia
  
 Ye Cang dismantled the crystal slime's body and received: Slime Crystal, and Slime's Crystal Eye. 
  
-Slime Crystal: The body of a Crystal Slime. Edible.
+>**Slime Crystal**: The body of a Crystal Slime. Edible.
  
-Slime's Crystal Eye: A beautiful and valuable crystal eye. There is probably a gem collector that would want it. Can be used for cooking after grinding into powder.
+>**Slime's Crystal Eye**: A beautiful and valuable crystal eye. There is probably a gem collector that would want it. Can be used for cooking after grinding into powder.
  
 ThornyRose really wanted to know just how many ingredients Ye Cang was carrying and what they were. His gathering skill was really too broad, from as small as a mushroom to as big as a boss' corpse, he could gather them all. Although Ye Cang's skill was just for obtaining food items, it was taught by Dodola, a legendary chef that had traveled the world. In his eyes, there is nothing that can't be eaten, only who best to serve it to. For example, if the customer was a monster that liked eating ores, Dodola was able to put together a delicious ore feast. 
  
@@ -27,13 +27,13 @@ Soon, everyone was able to feel the air heating up. They should almost be at the
  
 Ye Cang estimated the boss' length, and it was at least a terrifying 7 meters. If it stood up, it was probably 4-5 meters tall. "Careful, there is a big boss inside. Abyss Elite, Lava Lamia..."
  
-Lava Lamia - Curse (Abyss Elite - Uncommon): A dangerous lamia that lives near lava. Contains many valuable cooking materials.
+>**Lava Lamia - Curse *(Abyss Elite · Uncommon)***: A dangerous lamia that lives near lava. Contains many valuable cooking materials.
  
 Ye Cang's words shocked everyone's. ThornyRose could barely see anything. Only Ye Cang could see so far. While she was waiting, she could faintly see a figure by relying on the flickering lava, but it was very vague. So the Rune Stone they found should be for dealing with this guy. Looking around at the cracked ground, it seemed to be related to the boss' AOE fire attack. She drew her longsword. "Don't alert him. Let's look around inside first."
  
 The few of them carefully tread on the volcanic rock until they could finally see the boss. He looked like someone they really shouldn't be messing with. ThornyRose frowned, these humanoid creatures all have some intelligence and were usually strong. Just looking at that massive axe and his big and solid arms, it was obvious that his strength was considerably high. Furthermore, her own fire damage probably wouldn't do anything to it.
  
-Everyone hid behind a stalagmite. Zhang ZhengXiong asked: "Bro, how do we handle it?"
+Everyone hid behind a stalagmite. Zhang ZhengXiong asked, "Bro, how do we handle it?"
  
 "What do you think?" Ye Cang put on a brave face as he stroked his chin and looked towards ThornyRose who was holding the rune stone tightly.
  
@@ -49,15 +49,15 @@ Zhang ZhengXiong nodded without speaking.
  
 "Then let's start..." Ye Cang cut off any further explanation. He looked towards Zhang ZhengXiong and Lin Le. "You two, give an acid flask to each of FrozenBlood and GreenDew." Saying that, he opened his pack and handed one over to the confused ThornyRose.
  
-ThornyRose looked at the flask in her hand. A very useful offensive consumable item. The damage was not low, and most importantly, it had a corrosive damage over time effect. She couldn't help curiously looking towards Ye Cang and asking: "How many more do you have?"
+ThornyRose looked at the flask in her hand. A very useful offensive consumable item. The damage was not low, and most importantly, it had a corrosive damage over time effect. She couldn't help curiously looking towards Ye Cang and asking, "How many more do you have?"
  
 "I only have 2 left, and everyone else should have one. There's no extra." Ye Cang shrugged.
  
-"Give me one more." ThornyRose said, holding out her hand. Ye Cang obediently handed another one over while complaining:  "You're acting like their worth nothing. We had to kill 10 green slimes for their acid to make this. We even needed to buy an empty bottle..."
+"Give me one more." ThornyRose said, holding out her hand. Ye Cang obediently handed another one over while complaining,  "You're acting like their worth nothing. We had to kill 10 green slimes for their acid to make this. We even needed to buy an empty bottle..."
  
 ThornyRose rolled her eyes, taking the flask.
  
-FrozenBlood looked at the small bottle in her hand and thought: "This thing's not bad."
+FrozenBlood looked at the small bottle in her hand and thought, "This thing's not bad."
  
 "Since he's still resting, we should all throw an acid flask at him." ThornyRose said, preparing to throw a flask. Everyone slowly walked out from behind cover.
  
@@ -67,12 +67,12 @@ FrozenBlood looked at the small bottle in her hand and thought: "This thing's no
  
 "He said something like: F\*\*king Son of a B\*\*\*h. Who was it!? Then it was just a chain of profanities." Ye Cang explained. Unexpectedly, he could understand it.
  
-ThornyRose was surprised. He could understand other languages? Thinking it over, it could be that half elves start with a few other languages. But right now it wasn't important. She shouted: "Shaking Bear! Go!"
+ThornyRose was surprised. He could understand other languages? Thinking it over, it could be that half elves start with a few other languages. But right now it wasn't important. She shouted, "Shaking Bear! Go!"
  
 Saying that, the two of them charged over. FrozenBlood and Lin Le split up and ran on the two sides. Ye Cang raised his bow and shot an arrow at his's angry eyes. The lamia simply waved his arm, knocking the arrow down. Ye Cang quickly hid behind a stalagmite, and looked towards GreenDew. "Done?"
  
 GreenDew shook her head without stopping her magic.
  
-Zhang ZhengXiong went right up to the creature's face, leaning his body to dodge the oversized axe's attack. He jumped and hit the creature in the face with his machete. ThornyRose activated flame strike, stabbing at the creature's chest, then quickly pulled it out and backed up. She smiled bitterly: "Looks like he's immune to fire damage."
+Zhang ZhengXiong went right up to the creature's face, leaning his body to dodge the oversized axe's attack. He jumped and hit the creature in the face with his machete. ThornyRose activated flame strike, stabbing at the creature's chest, then quickly pulled it out and backed up. She smiled bitterly, "Looks like he's immune to fire damage."
  
 Curse suddenly let go of his axe with one hand and then sent a backhand slap towards Zhang ZhengXiong. Zhang ZhengXiong quickly raised his shield and blocked. Although the damage was very small, the force was large enough to knock him to the ground. Curse used a single hand to lift the oversized axe preparing to chop down. At this time, an arrow accurately hit him in the corner of his eye, bringing about a spurt of dark blood. Lin Le's jump attack was also smashing down on his head from the side. Curse lifted his free arm to block Lin Le's attack.

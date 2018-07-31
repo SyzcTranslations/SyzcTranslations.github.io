@@ -7,7 +7,7 @@ editor: "openbookworm, skizlock"
 comments: true
 ---
 
-**Chapter 428: Chilvini’s Blade Net**
+### Chapter 428: Chilvini’s Blade Net
 
 Ye Cang got up begrudgingly. He looked at LordAsked, “Brother Asked, if you ever fight a boss and need someone to loot a top quality godly artifact, then remember to call me. I’ll definitely give you a fair price...”
 

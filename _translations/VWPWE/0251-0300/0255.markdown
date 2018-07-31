@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 255: Deep in the Insect Nest**
+### Chapter 255: Deep in the Insect Nest
 
 Kagu Bug Guard (Insect - Elite): An extremely aggressive insect race. The flesh under it's hard outer shell is delicious and tender. Top choice ingredient for deep frying and steaming.
 

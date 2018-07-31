@@ -7,13 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-TN: Masterwork -> Excellent.
-
-Due to the next tier of items being revealed, I've changed the last one so it sounds less powerful. Also, it appears that Rare isn't an item quality? I currently don't understand too well as they havn't explained in depth in the story. I'll continue to make changes as we find out more.
-
----
-
-**Chapter 24: Fluorescent Crystal ring**
+### Chapter 24: Fluorescent Crystal ring
  
 "Too cruel! Brother Lil'White! I want to take revenge for Brother Lil'Xiong. Lele Strike!" Lin Le shouted with a pout.
  
@@ -43,31 +37,24 @@ ThornyRose was moved. They actually found both a shield and a ring!? This was to
  
 Everyone looked at the half meter large, crystal roundshield in Lin Le's hand. It was made of a polished white crystal looking exceptionally beautiful. Everyone also fell in love with the crystal ring's beauty.
  
-Harja's Crystal Rampart (Excellent - Uncommon)
+>**Harja's Crystal Rampart *(Excellent · Uncommon)***   
+Category: Shield    
+Requirements: 20 Constitution   
++5 Defence   
++3 Constitution   
+>- Harja's Rampart (Passive)
+   +3 Defence   
+
+>**Harja's Crystal Ring *(Excellent · Uncommon)***   
+Category: Ring   
+Requirements: None  
++1 Wisdom  
++1 Constitution  
+>- Harja's Protection  
+   On activation, reduce incoming physical damage by 10% for 15 seconds.  
+   Cooldown: 1 hour
  
-Category: Shield
- 
-Requirements: 20 Constitution
- 
-+5 Defence
- 
-+3 Constitution
- 
-Harja's Rampart (Passive): +3 Defence
- 
-Harja's Crystal Ring (Excellent - Uncommon)
- 
-Category: Ring
- 
-Requirements: None
- 
-+1 Wisdom
- 
-+1 Constitution
- 
-Harja's Protection: On activation, reduce incoming physical damage by 10% for 15 seconds. Cooldown: 1 hour.
- 
-ThornyRose's heart rate rose. Both items were perfect for defensive classes. Especially that ring, it could be used for a long time. Too bad that wisdom was wasted, though it would help a fighter a little bit. As for the shield, it's stats were really too perfect. A massive 8 defence, it was just like it's name, a rampart. However, that 20 constitution requirement, she looked at her own, it was still 2 away. It was only her and Shaking Bear that could use them. What made her speechless was that a priest was competing with her for defensive equipment. She felt a heart-stopping panic and faintly sighed. Oh mother in heaven. She, a defensive fighter was actually letting a priest have first pick on defensive equipment. This was something that she never thought would happen. With some hesitation, she said: "He can pick first."
+ThornyRose's heart rate rose. Both items were perfect for defensive classes. Especially that ring, it could be used for a long time. Too bad that wisdom was wasted, though it would help a fighter a little bit. As for the shield, it's stats were really too perfect. A massive 8 defence, it was just like it's name, a rampart. However, that 20 constitution requirement, she looked at her own, it was still 2 away. It was only her and Shaking Bear that could use them. What made her speechless was that a priest was competing with her for defensive equipment. She felt a heart-stopping panic and faintly sighed. Oh mother in heaven. She, a defensive fighter was actually letting a priest have first pick on defensive equipment. This was something that she never thought would happen. With some hesitation, she said, "He can pick first."
  
 "Go ahead and pick A'Xiong." Ye Cang said handing over the two items for him to see.
  
@@ -81,17 +68,14 @@ Everyone watched as the Fluorescent Ring and Crystal Ring both turned into a dro
  
 "Congratulations. You received a 'Slime - Fluorescent Crystal Ring'"
  
-Slime - Fluorescent Crystal Ring (Superior - Uncommon)
- 
-Category: Ring
- 
-Requirements: None
- 
-+2 Wisdom
- 
-+3 Constitution
- 
-Fluorescent Crystal: Use to deal 10 light damage to a target and blinding it. The ring will become charged and if used again, will grant 15% reduction to physical damage for 20 seconds. Cooldown: 30 minutes.
+>**Slime - Fluorescent Crystal Ring *(Superior · Uncommon)***  
+Category: Ring   
+Requirements: None  
++2 Wisdom  
++3 Constitution  
+>- Fluorescent Crystal  
+   Use to deal 10 light damage to a target and blinding it. The ring will become charged and if used again, will grant 15% reduction to physical damage for 20 seconds.  
+   Cooldown: 30 minutes
  
 ThornyRose saw the ring in Zhang ZhengXiong's hand turn into a glowing crystal ring. It was exceptionally beautiful, and it was actually superior quality!? The stats were also so good they made others speechless. A whole 3 Constitution and 2 Wisdom, this ring could be used for a long long time. He might not even be able to find anything better. If it merged with another slime ring, it would become even more valuable. It was hard to say if they would find another ring or if it could fuse again, but for this stage of the game, it should be the absolute best ring. It gives life, control, and protection. Whether it's slaying monsters or people, it was useful. If she wore the ring, she could equip the shield. However the ring was his. Although she didn't know how his Constitution Priest build would turn out, but for now, he was tough enough to tank for the entire team. "Let's temporarily let him equip it for now." She thought to herself. Surprisingly, she didn't feel bad about sharing with them. She didn't know why, but being with them, she had no intentions of fighting over loot. She smiled and propped up her chest with her arms. "It looks like this shield is mine, but I currently can't use it. Shaking Bear, you can equip them both for now." 
  
@@ -107,7 +91,7 @@ FrozenBlood didn't understand. Their main tank was unexpectedly a priest. Also, 
  
 The three women couldn't help but smile. This Lele was exactly like a child.
  
-Ye Cang thought of something. He looked at the ring on Lele's hand and said: "Right, Lele, Don't..."
+Ye Cang thought of something. He looked at the ring on Lele's hand and said, "Right, Lele, Don't..."
  
 Before he could finish, a light flashed.
  

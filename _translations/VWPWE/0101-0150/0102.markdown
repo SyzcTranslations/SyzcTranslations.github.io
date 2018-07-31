@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 102: Taming the Beasts**
+### Chapter 102: Taming the Beasts
  
 "Ok, then I'll leave this place to you." Mar looked at old Jack and said seriously.
  

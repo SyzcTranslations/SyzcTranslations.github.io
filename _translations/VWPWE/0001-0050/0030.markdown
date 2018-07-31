@@ -7,11 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-TN: So I changed Zhang ZhengXiong's Shaking Dog nickname to Shaking Bear. Explanation at the bottom.
-
----
-
-**Chapter 30: Wu Na Meets Danger**
+### Chapter 30: Wu Na Meets Danger
  
 The flasher uncle slowly got up and buttoned up his trench coat. From his pocket, he took out a hat and put it on. He looked towards the four, smiled and waved goodbye. "I'm going..." He stuck his hands in his pocket and left. The sight of his depressed back, made people feel sorry for him.
  
@@ -35,7 +31,7 @@ Ye Cang turned. "The organ trafficking?"
  
 Flasher uncle nodded. "Anyways, just be careful at night. When I was performing over there earlier today, I happened to see it. It was gruesome. The eyes, and all the organs were gone. Even the body was torn into pieces. The school's and city's guards are all still investigating, however it seems like it will continue to be dangerous for a few days."
  
-Ye Cang nodded: "I got it."
+Ye Cang nodded, "I got it."
  
 Flasher uncle started jogging away again.
  

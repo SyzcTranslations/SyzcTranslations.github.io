@@ -7,23 +7,19 @@ editor: "Tab"
 comments: true
 ---
 
-TN: I missed something in the description for the bow last chapter. The requirements should be Strength OR Dexterity, not both. Anyways, nothing too important.
-
----
-
-**Chapter 19: Straight Thrust**
+### Chapter 19: Straight Thrust
  
 Scaling down the rock wall, they continued making their way along the volcanic rock path. Their torchlight revealed two paths.
  
 "Which way?" Zhang ZhengXiong asked.
  
-ThornyRose looked back and forth between the two openings. She looked to the left, then said: "Looking at the flow of the air, the left side should be the main path. The right side's airflow is very slow, it should lead to a dead end. However, there might be more chests or other loot. Let's go right first."
+ThornyRose looked back and forth between the two openings. She looked to the left, then said, "Looking at the flow of the air, the left side should be the main path. The right side's airflow is very slow, it should lead to a dead end. However, there might be more chests or other loot. Let's go right first."
  
 Treasure!? Ye Cang rubbed his hands together and directly went towards the right. "Let's go! Right side first."
  
 ThornyRose quickly stood infront of him, blocking his path. "Shaking Bear, you and I will be in front."
  
-Zhang ZhengXiong helplessly said: "Ah, Sister Rose, please call me..."
+Zhang ZhengXiong helplessly said, "Ah, Sister Rose, please call me..."
  
 "Less nonsense, hurry up." ThornyRose interrupted. Zhang ZhengXiong sighed and took the lead to go in. Everyone followed behind.
  
@@ -51,7 +47,7 @@ On the other side, after Zhang ZhengXiong cast a heal, he shook off a bat that w
  
 As the battle gradually concluded, Thorny rose counted that there were 17 bats. This was the biggest wave of bats that they've experienced so far. Although it was difficult, it was still easily within their means. Wait, she suddenly noticed the system only sent 16 messages! Not Good!
  
-Lin Le, whose health was very low, arrived at the back and sat down. He put down his axe to mentally prepare himself for the 'meal'. Suddenly, out of the densely packed pile of bat corpses, one charged out. Lin Le's ahoge stood up as he let out a voice: "Ahh!" He quickly reached out, wanting to grab his axe, but the bat was already right in front of his eyes. "Ah... I'm going to be sent back to town." He thought this in his final moments.
+Lin Le, whose health was very low, arrived at the back and sat down. He put down his axe to mentally prepare himself for the 'meal'. Suddenly, out of the densely packed pile of bat corpses, one charged out. Lin Le's ahoge stood up as he let out a voice, "Ahh!" He quickly reached out, wanting to grab his axe, but the bat was already right in front of his eyes. "Ah... I'm going to be sent back to town." He thought this in his final moments.
  
 Everyone had just turned their heads and only had time to blink. A silver light flashed. Before everyone even looked over, Ye Cang had already drawn his longsword and slashed at the large bat.
  
@@ -65,7 +61,10 @@ Ye Cang flung the bat away and petted Lin Le's head without saying a word.
  
 "Straight Thrust." Ye Cang gave it an ordinary name.
  
-Straight Thrust (Self Created - PaleSnow): Perform an extremely fast thrust at the target, dealing 133% damage. It's speed approaches the limit. It's damage and range will improve along with attributes. Cooldown: 15 seconds. Cost: 10 Energy. 
+>**Straight Thrust *(Self-Created · PaleSnow)***  
+Perform an extremely fast thrust at the target, dealing 133% damage. Its speed approaches the limit. It's damage and range will improve along with attributes.  
+Cost: 10 Energy  
+Cooldown: 15 seconds
  
 "Such a weird thrust. It must be a self-made skill." FrozenBlood said wrinkling her brows. She also had her own self-made skills, but they weren't as shocking as this one. Fast, it was just pure speed.
  
@@ -77,7 +76,7 @@ This guy is not simple, she thought to herself. She knew that for a period of ti
  
 "Nothing..." FrozenBlood shook her head and didn't say. She started taking light steps towards the corpses.
  
-Ye Cang reached out and looted the first corpse. "Nothing." He dismantled the body then moved on to the second one which also didn't have anything. He frowned and said: "This thing's drop rate is so low."
+Ye Cang reached out and looted the first corpse. "Nothing." He dismantled the body then moved on to the second one which also didn't have anything. He frowned and said, "This thing's drop rate is so low."
  
 Everyone else managed to find some white equipment and replaced their current ones.
  
@@ -87,10 +86,7 @@ ThornyRose sighed. It's just some small corpses, letting him loot two or three i
  
 The three girls immediately perked their ears. A ring dropped? They quickly went over to see the stats.
  
-Nocturnal Bat Tooth (Common)
- 
-Category: Ring
- 
-Requirements: Strength 7 or Dexterity 9
- 
+>**Nocturnal Bat Tooth *(Common)***  
+Category: Ring  
+Requirements: Strength 7 or Dexterity 9  
 +1% Lifesteal

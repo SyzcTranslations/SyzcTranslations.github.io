@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 3: Green Slimes**
+### Chapter 3: Green Slimes
 
 The three people each took out their gift boxes. A square wooden box appeared in each of their hands. They heard a sound not far away.
 
@@ -21,33 +21,30 @@ The three people each took out their gift boxes. A square wooden box appeared in
 
 "..."
 
-"Cough~ Cough~, whose first?" Ye Cang looked around at the other two: "Lele, you first."
+"Cough~ Cough~, whose first?" Ye Cang looked around at the other two, "Lele, you first."
 
 "Mm!" Lin Le nodded and opened his wooden box. A 130cm axe appeared in his bag. He took it out and the three of them looked at the stats.
 
-Fine Woodcutter's Axe (Fine)
-
-Category: Two-Handed Axe
-
-Requirements: 12 Strength
-
-Damage: 6 - 10
-
-Strength + 1
+>**Fine Woodcutter's Axe *(Fine)***  
+Category: Two-Handed Axe  
+Requirements: 12 Strength  
+Damage: 6 - 10  
++1 Strength  
 
 "Brother Lil'White!! I did it!" Lin Le happily raised the axe over his head and yelled.
 
 "Slap~!" Ye Cang raised his eyebrows, his palm hitting the back of Lin Le's head.
 
-Zhang ZhengXiong immediately covered Lin Le's mouth: "Quiet. Don't reveal your wealth. Keep a low profile."
+Zhang ZhengXiong immediately covered Lin Le's mouth, "Quiet. Don't reveal your wealth. Keep a low profile."
 
 Lin Le suddenly realised and fiercely nodded his head. He looked left and right like a frightened squirrel and carefully put away his axe.
 
 "My turn." Zhang ZhengXiong let go of Lin Le. He opened his gift box and a book appeared in his hand.
 
-'The Gluttonous King, Dodola's Cooking for Dummies': Learn the cooking, harvesting, and identifying skills. Requirements: Intelligence 10.
-
-PS: These are a part of the notes left behind by the famous cook, Dodola.
+>**The Gluttonous King Dodola's Cooking for Dummies**  
+Learn the cooking, harvesting, and identifying skills.  
+Requirements: 10 Intelligence.  
+*PS: These are a part of the notes left behind by the famous cook, Dodola.*
 
 "Lele, how much intelligence do you have?"
 
@@ -63,7 +60,7 @@ PS: These are a part of the notes left behind by the famous cook, Dodola.
 
 Ye Cang sighed. At least it was better than nothing. Culinary arts... Hah... In the end, it all comes down to his box. "My turn."
 
-Under the curious eyes of the two, Ye Cang rubbed his hands together. He lifted his right hand and said: "Watch my divine hand at work! Divine tool! Appear!"
+Under the curious eyes of the two, Ye Cang rubbed his hands together. He lifted his right hand and said, "Watch my divine hand at work! Divine tool! Appear!"
 
 From the wooden box, a simple, twisted, withered branch emerged.
 
@@ -73,9 +70,8 @@ From the wooden box, a simple, twisted, withered branch emerged.
 
 Ye Cang unhurriedly raised it up and the three of them looked at the stats together. 
 
-An Ordinary Dried Up Stick
-
-PS: This is only an ordinary dried up stick.
+>**Ordinary Dried Up Stick**  
+This is only an ordinary dried up stick.
 
 "..."
 
@@ -89,7 +85,7 @@ Ye Cang snapped the stick in two. Veins could be seen throbbing on his forehead.
 
 "Recently, without a sound, my farm became infested with slimes. They're giving me a headache; ruining my pasture and injuring my chickens. Can you young men help me?" North sighed, holding his rake.
 
-The three of them all nodded their heads: "Uncle, leave it to us."
+The three of them all nodded their heads, "Uncle, leave it to us."
 
 "Your party has received the quest 'The Cause of North's Headache'. Quest: Kill 100 green slimes. Reward: unknown."
 
@@ -127,7 +123,7 @@ Zhang ZhengXiong took the chance while the slime was down and chopped at it. 7 d
 
 "Slap~!"
 
-A vein throbbed on Ye Cang's forehead, he slapped the back of Lin Le's head and roared: "No laughing!!"
+A vein throbbed on Ye Cang's forehead, he slapped the back of Lin Le's head and roared, "No laughing!!"
 
 "Oh..." Lin Le zipped his mouth shut.
 

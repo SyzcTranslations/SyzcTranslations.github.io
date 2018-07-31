@@ -7,7 +7,7 @@ editor: "openbookworm, skizlock"
 comments: true
 ---
 
-**Chapter 424: Sandworm Path**
+### Chapter 424: Sandworm Path
 
 Although there were many bagu beetles, they weren’t enough to stop the players. At most, three or four people would need to work together against one. As for elites, a support player would be needed. The drop-rate of equipment was pretty good, thus, no one complained when many people died as the people behind them would fill in their spots. What made everyone extremely happy was that the goddess’s blessing didn’t disappear on death. They all formed teams and continued to kill their way through the Ravine of Death. The weaker ones would stay on the surface and fight kagu bugs. Their gains were also pretty good and they were having a relatively easier time...
 

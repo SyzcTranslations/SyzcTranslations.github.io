@@ -7,7 +7,7 @@ editor: "openbookworm, skizlock"
 comments: true
 ---
 
-**Chapter 423: Divide and Conquer**
+### Chapter 423: Divide and Conquer
 
 “Brother hero, is that true? Then let us see who will be the first to reach it...” LordAsked said as he led his elites down a hole.
 

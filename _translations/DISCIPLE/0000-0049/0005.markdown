@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 5: Choice**
+### Chapter 5: Choice
 
 To Lumina, Di Jiufeng was like a goddess; pure, untainted, not even a thread of evil dared to show itself in her presence. Lumina didn't care how damaging the path of demonic cultivation was, but she was scared. If one day, Di Jiufeng knew that her disciple was such a fiendish monster, would she draw the line and no longer smile to her?
 

@@ -7,7 +7,7 @@ editor: "openbookworm, skizlock"
 comments: true
 ---
 
-**Chapter 432: Assenroche**
+### Chapter 432: Assenroche
 
 Ye Cang saw that the next item was a sword. Its quality was unknown, it was only said that a famous mage named Garros had used it in his youth. It was most likely a magician’s sword, so he could make use of it. The initial price was not high at merely 50 gold, but it actually rose up to over 250 gold.
 

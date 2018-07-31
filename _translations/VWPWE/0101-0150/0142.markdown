@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 142: Fine Iron-Fir Heavy Crossbow**
+### Chapter 142: Fine Iron-Fir Heavy Crossbow
 
 "Let's roll for the ring." Ye Cang stroked his chin, and suggested for the sake of fairness.
 

@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 233: Test Begins**
+### Chapter 233: Test Begins
 
 When they were reporting to the command center, they actually met an old acquaintance - Instructor Wang. 
 

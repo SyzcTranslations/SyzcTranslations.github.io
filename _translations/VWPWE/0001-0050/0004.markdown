@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 4: Green Slime and Mushroom Stew**
+### Chapter 4: Green Slime and Mushroom Stew
 
 The three of them looked at the green slime's ooze like corpse. Zhang ZhengXiong looked under it. "There's only 1 copper."
 
@@ -15,11 +15,11 @@ Ye Cang used his harvest skill on the body.
 
 "You received Green Slime Gel, Green Slime Acid, Green Slime's Eye."
 
-Green Slime Gel: Green gel, harmless, edible.
+>**Green Slime Gel**: Green gel, harmless, edible.
 
-Green Slime Acid: Green slime's corrosive acid, poisonous.
+>**Green Slime Acid**: Green slime's corrosive acid, poisonous.
 
-Green Slime's Eye: A big eye, harmless, edible.
+>**Green Slime's Eye**: A big eye, harmless, edible.
 
 "Who the f\*\*k would eat this!?" Ye Cang looked at the material's description speechlessly.
 
@@ -27,7 +27,7 @@ Relying on Lin Le's OP axe, the three of them trampled the green slimes. In two 
 
 "Bro, we can't keep going like this. The main problem is our health recovers too slowly. We only have about 10 health right now. If we get hit by the acid again, we're dead. Every minute we heal 2 health. If we want to heal to full, that's about 20 minutes." Zhang ZhengXiong frowned.
 
-Ye Cang nodded. It would be such a pity to give up the quest now, but the efficiency here was too low. He looked in his bag and found a pile of gross liquids and eyes. He clenched his teeth: "Lele go over there and get some hay, A'Xiong go find some wood!"
+Ye Cang nodded. It would be such a pity to give up the quest now, but the efficiency here was too low. He looked in his bag and found a pile of gross liquids and eyes. He clenched his teeth, "Lele go over there and get some hay, A'Xiong go find some wood!"
 
 "Why?" Lin Le said blankly.
 
@@ -41,7 +41,10 @@ After the three were done with their tasks, they used the flint to start a fire,
 
 Ye Cang restrained his nausea and thought of the name 'Green Slime and Mushroom Stew'. The new recipe was added to the empty cooking menu. He looked at his first attempt at cooking.
 
-Green Slime and Mushroom Stew: While you're eating, gain 1 health every 5 seconds. Also gain 3 poison resistance for 1 hours. (PS: This food like thing smells extremely unpleasant. Even a beggar wouldn't eat this).
+>**Green Slime and Mushroom Stew**:  
+Restore 1 health every 5 seconds while eating.  
+Gain +3 poison resistance for 1 hours.  
+*(PS: This food like thing smells extremely unpleasant. Even a beggar wouldn't eat this.)*
 
 "Bro, you sure this thing is edible?" Zhang ZhengXiong looked at the green soup. There were a few large eyes floating at the top. Furthermore the stink made his scalp numb and he felt like vomiting.
 
@@ -67,7 +70,7 @@ Wu Na's little party had 4 people altogether. The leader was a core guild member
 
 "Ye Cang, I'm level 3 now. What about you guys?" Wu Na opened her chat and messaged him.
 
-Ye Cang who was slaughtering the green pimples froze for a moment, looked at his own level: 2 - 54%, and calmly replied: "We're also level 3."
+Ye Cang who was slaughtering the green pimples froze for a moment, looked at his own level: 2 - 54%, and calmly replied, "We're also level 3."
 
 "Oh right, I'm now a member of 'Thorns and Roses'" Wu Na happily said.
 

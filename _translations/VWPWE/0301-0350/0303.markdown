@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 303: The Church of Mephisto**
+### Chapter 303: The Church of Mephisto
 
 Late night, seaside cottage.
 

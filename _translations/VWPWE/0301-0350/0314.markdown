@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 314: Mallow**
+### Chapter 314: Mallow
 
 They heard a knock on the door.
 

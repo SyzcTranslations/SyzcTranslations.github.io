@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 2: Finally On the Right Track**
+### Chapter 2: Finally On the Right Track
 
 "Extra extra! It's frozen! Dragon Corporation's super-server is frozen!"
 

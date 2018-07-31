@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 290: Round-Robin Distribution**
+### Chapter 290: Round-Robin Distribution
 
 The first to be taken out was the horned demon. Ye Cang, SpyingBlade, and NalanPureSoul had went all out to quickly finish it off. Zhang ZhengXiong used his holy text to heal the party, then Ye Cang waved his hand, "Tactics! Rapid Pursuit!"
 

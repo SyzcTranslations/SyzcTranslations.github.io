@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 56: Investigating Their Past**
+### Chapter 56: Investigating Their Past
  
 "They didn't say a time." SpyingBlade frowned.
  

@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 307: North District Game**
+### Chapter 307: North District Game
 
 Ye Cang got up and left the auction house. It was already night time. There wasn't much point to going out hunting now, as everyone else was still doing their class training, so he just logged off.
 

@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 136: Hallucinatory Pollen**
+### Chapter 136: Hallucinatory Pollen
 
 The quiet little path had almost reached it's end. Infront of everyone was a sea of flowers that spanned hundreds of meters. Although it was a sea of flowers, the flowers were all wilted and it looked desolate. Without the trees around, their field of view broadened, and some sunlight managed to pierce the haze.
 

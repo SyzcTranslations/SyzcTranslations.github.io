@@ -7,13 +7,13 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 23: Crystal Slime**
+### Chapter 23: Crystal Slime
  
 ThornyRose unwaveringly stared at Ye Cang. The more she looked, the more pissed she got. FrozenBlood stood at the side and looked at her meaningfully. Very few people could irritate her so much. Anyways, these three guys were very interesting.
  
 "Little Green, how much mana have you recovered?" ThornyRose sighed and asked.
  
-"I'm about done, we can continue exploring." GreenDew's words allowed ThornyRose to cheer up a bit. Seeing Zhang ZhengXiong and Lin Le making a fuss across from them as well as the indifferently resting Ye Cang, she had no choice but to remind them: "Let's go. Let's clear this place as early as possible."
+"I'm about done, we can continue exploring." GreenDew's words allowed ThornyRose to cheer up a bit. Seeing Zhang ZhengXiong and Lin Le making a fuss across from them as well as the indifferently resting Ye Cang, she had no choice but to remind them, "Let's go. Let's clear this place as early as possible."
  
 Ye Cang slowly opened his eyes. "Time to work."
  
@@ -36,7 +36,6 @@ Walking across one of the bridges, the smoke made some of them feel unwell. It a
 "How much farther do we have to walk..." Lin Le whispered.
  
 "This is considered easy. In the future, there will be: big volcanoes, cave systems, sinkholes, and enormous labyrinths. Compared to those, this is nothing. Imagine staying in one of them for over half a month." ThornyRose couldn't help smiling a bit. They continued walking, their torches illuminating inside.
-
  
 FrozenBlood thought back to the last game 'Rise of Clans'. All of Thorns and Roses, the 4 great guilds, as well as many of China's strongest groups, were all trapped in a volcano for half a year. ThornyRose and herself were lucky and managed to find an exit in just over a month, as they didn't plan on staying for too long, so they focused on leaving. With all of the 4 great guild inside, the word fierce wouldn't be enough to describe the competition. Although Thorns and Roses' strength was considered pretty good, but there was still a gap when compared to the 4 great guilds. They could only stare at their backs. Leaving the volcano early, although they didn't receive much, they also didn't lose much. The one's inside who were trying to establish a base suffered quite a loss. When the volcano erupted, even the 4 great guilds received significant losses.
  
@@ -48,7 +47,7 @@ ThornyRose quickly signalled that there was a problem.
  
 Ye Cang looked at the crystal pimple and identified it, confirming it was a slime. "Crystal Slime - Harja"
  
-Crystal Slime - Harja (Uncommon Elite): A rare species of the slime family. It's a precious slime born from crystals.
+>**Crystal Slime - Harja *(Uncommon Elite)***: A rare species of the slime family. It's a precious slime born from crystals.
  
 "F\*\*k, it's another slime..." Zhang ZhengXiong drew his machete, somewhat unmotivated.
  

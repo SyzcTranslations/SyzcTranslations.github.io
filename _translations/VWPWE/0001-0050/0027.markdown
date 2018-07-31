@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 27: Bachiya's Blessing**
+### Chapter 27: Bachiya's Blessing
  
 "Bro, what did it feel like?" Zhang ZhengXiong pulled over the indifferent Ye Cang, who had a handprint on his face, and asked quietly.
  
@@ -17,47 +17,39 @@ comments: true
  
 ThornyRose felt so angry she wanted to yell some more. All sorts of feelings were welling up in her heart, but they weren't good feelings. She saw FrozenBlood sniggering and had nothing to say. She lost her first kiss just like that. Even if it was in virtual reality, it was still her first kiss. Although it wasn't on purpose, all she got was a single sentence: 'please conduct yourself more appropriately'. She clenched her jaw so hard that the sound of grinding teeth echoed through the cavern. She looked at Ye Cang acting indifferent, and her fist balled up even tighter. She couldn't stop shaking in anger. 
  
-GreenDew thought to herself: "Sister Rose's hatred towards that Ranger just shot up another few levels." 
+GreenDew thought to herself, "Sister Rose's hatred towards that Ranger just shot up another few levels." 
  
 "Brother Lil'White. Something good came out! A battle axe, a sword, as well as a skillbook." Lin Le's words brought ThornyRose back from her angry thoughts. A dark red battle axe, a longsword that we almost as high as Lin Le, about 160cm.
  
 His luck really isn't normal, GreenDew thought. They actually found a pair of weapons and a skillbook!?
  
-Curse's Rage (Masterwork - Abyss)
+>**Curse's Rage *(Masterwork · Abyss)***  
+Category: Heavy Battle Axe   
+Requirements: 20 Strength  
+Damage: 12 - 15  
+Additional Fire Damage: 2 - 4  
++2 Strength  
++1 Constitution  
+>- Curse's Rage  
+   Using the force of the axe hitting the ground, deal 15 fire damage to enemies in range. There's a chance of causing knockdown.  
+   Cooldown: 30 minutes
  
-Category: Heavy Battle Axe
+>**Curse's Thorn *(Masterwork - Abyss)***  
+Category: Light Two-Handed Sword   
+Requirements: 14 Strength, 12 Dexterity  
+Attack: 10 - 12  
+Additional Fire Damage: 2 - 3  
++2 Strength  
++1 Dexterity  
+>- Curse's Thorn  
+   Activate to perform a profound strike. Your next melee attack will deal an additional 75% damage.  
+   Cooldown: 10 minutes
  
-Requirements: 20 Strength
+>**Berserk**  
+Activate when your rage is full. Increase damage by 15% but also increases damage taken by 15% for 10 seconds. *(Requires a class with rage)*  
+Cooldown: 30 minutes 
  
-Damage: 12 - 15
- 
-Additional Fire Damage: 2 - 4
- 
-+2 Strength
- 
-+1 Constitution
- 
-Curse's Rage: Using the force of the axe hitting the ground, deal 15 fire damage to enemies in range. There's a chance of causing knockdown. Cooldown: 30 minutes.
- 
-Curse's Thorn (Masterwork - Abyss)
- 
-Category: Light Two-Handed Sword
- 
-Requirements: 14 Strength, 12 Dexterity
- 
-Attack: 10 - 12
- 
-Additional Fire Damage: 2 - 3
- 
-+2 Strength
- 
-+1 Dexterity
- 
-Curse's Thorn: Activate to perform a profound strike. Your next melee attack will deal an additional 75% damage. Cooldown: 10 minutes.
- 
-Berserk: Activate when your rage is full. Increase damage by 15% but also increases damage taken by 15% for 10 seconds. Cooldown: 30 minutes. (Requires a class with rage)
- 
-ThornyRose's chest tightened. Three things and none of them were useful for her. That axe's stats was really too violent, and that sword's effect was really outstanding. It could be said they were top-notch equipment for the present stage of the game. Her gaze landed on the berserk skillbook and she hesitated a bit. Although she was tempted, she had already decided to be a defensive fighter. She shook her head and sighed. It's all for the sake of the hidden story quest. She saw Ye Cang's inquiring gaze and unhappily said: "You three can split the items, but give us two gold as remuneration."
+ThornyRose's chest tightened. Three things and none of them were useful for her. That axe's stats was really too violent, and that sword's effect was really outstanding. It could be said they were top-notch equipment for the present stage of the game. Her gaze landed on the berserk skillbook and she hesitated a bit. Although she was tempted, she had already decided to be a defensive fighter. She shook her head and sighed. It's all for the sake of the hidden story quest. She saw Ye Cang's inquiring gaze and unhappily said, "You three can split the items, but give us two gold as remuneration."
  
 Ye Cang didn't say anything. He wasn't in the mood to speak right now. He nodded his head which still had 5 bright red fingerprints on it and threw two gold over. He then took the three things Lin Le brought over. He took the two handed sword for himself, and simply fastened it onto his back in a way that could be easily drawn. To him, the sword wasn't too heavy or too light. It was the perfect weight to still be easy to handle.
  
@@ -69,11 +61,11 @@ ThornyRose crossed her arms. She looked at the five fingerprints she left on Ye 
  
 "Get lost! Don't mess with this lady." ThornyRose glared angrily. Originally her heart was already in turmoil. Now, she could fly into rage at any moment. She had to continuously control her mental state.  
  
-At this time, the lava in the cracks on the ground started emitting a red light. ThornyRose was calming her heart and happened to see this. She shouted: "Something's happening!"
+At this time, the lava in the cracks on the ground started emitting a red light. ThornyRose was calming her heart and happened to see this. She shouted, "Something's happening!"
  
 Everyone quickly gathered together, wary of the red light that was flowing like wisps of air and condensing together not far away.
  
-The silhouette of a woman slowly took shape. It faintly said: "Brave warriors, thank you for defeating that greedy lava lamia and freeing this volcano..."
+The silhouette of a woman slowly took shape. It faintly said, "Brave warriors, thank you for defeating that greedy lava lamia and freeing this volcano..."
  
 Everyone sighed in relief. If it was another dreadful boss, in the situation where they didn't have the rune stone, it was basically guaranteed they would all be sent back to town.
  
@@ -113,4 +105,4 @@ FrozenBlood sighed, this dangerous situation could be considered dissolved.
  
 ---
 
-<a name="footnote1">1</a>: Looks like this <a href="https://www.google.ca/search?q=%E6%8A%B1%E6%8B%B3&source=lnms&tbm=isch&sa=X&ved=0ahUKEwickZ_T_5LUAhUo9YMKHaI9CWMQ_AUICigB&biw=840&bih=867">https://www.google.ca/search?q=%E6%8A%B1%E6%8B%B3&source=lnms&tbm=isch&sa=X&ved=0ahUKEwickZ_T_5LUAhUo9YMKHaI9CWMQ_AUICigB&biw=840&bih=867</a>
+<a name="footnote1">1</a>: Looks like this <a href="https://www.google.ca/search?q=%E6%8A%B1%E6%8B%B3&source=lnms&tbm=isch&sa=X&ved=0ahUKEwickZ_T_5LUAhUo9YMKHaI9CWMQ_AUICigB&biw=840&bih=867">fist to palm</a>

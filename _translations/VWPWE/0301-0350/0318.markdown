@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 318: Slot Machine**
+### Chapter 318: Slot Machine
 
 "Congratulations, you've slain Lucky Slime - Gold. Received +1 level (original experience unchanged) and +1 skill point."
 

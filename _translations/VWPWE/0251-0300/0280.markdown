@@ -7,7 +7,7 @@ comments: true
 thanks1: "Umair Ahmed"
 ---
 
-**Chapter 280: Goblin Camp**
+### Chapter 280: Goblin Camp
 
 Black Peaks, Caldo Peak.
 

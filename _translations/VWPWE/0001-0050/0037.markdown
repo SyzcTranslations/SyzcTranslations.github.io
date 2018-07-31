@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 37: Minor Healing Stream**
+### Chapter 37: Minor Healing Stream
 
 ThornyRose looked towards Lele who was charging over dragging his enormous axe. When he had almost arrived, she saw him preparing to use a skill, and it was a AOE attack! F\*\*k! There's no time to dodge! She quickly raised her shield. Clang~! She was almost sent flying, but she managed to stabilize herself about two meters away, her shield hand feeling numb. Damn, even after blocking it, she had still lost 15 health!
  
@@ -23,7 +23,7 @@ What responded was FrozenBlood's furious scream. She had just gotten up after ha
  
 SpyingBlade nodded his head approvingly.
  
-Zhang ZhengXiong sighed. Then he remembered something and saw a silhouette rush by. GreenDew's voice sounded out: "Sister Rose! The unlucky one is almost at the body!!"
+Zhang ZhengXiong sighed. Then he remembered something and saw a silhouette rush by. GreenDew's voice sounded out, "Sister Rose! The unlucky one is almost at the body!!"
  
 ThornyRose and FrozenBlood who was thinking of how they'd remonstrate Lele immediately panicked. Being in this team was so tiring. They couldn't relax even after killing a boss, because there was a teammate with god level unluckiness that could waste all your efforts. Worst of all, for some reason, he loved looting. They quickly turned around and saw that Ye Cang was already almost at the corpse. ThornyRose sighed as she dived to intercept him again. But this time she wouldn't let him take advantage of her. What she performed was a flying kick, going legs first. This time FrozenBlood also reacted and dived over. ThornyRose's leg was tangled by FrozenBlood's body and the two of them fell in a mess. Again. Ye Cang's hand landed on the other 36E and their lips locked. The two of them rolled and stopped with him above and her below. Everyone froze looking at the scene.
  
@@ -35,13 +35,13 @@ ThornyRose and FrozenBlood who was thinking of how they'd remonstrate Lele immed
  
 ThornyRose finally reacted. Her face blushed bright red. She felt Ye Cang's hand on her right breast and quickly pushed him away.
  
-Ye Cang raised his eyebrows and examined his hand. He meticulously said: "Your right side feels a bit smaller. You should watch your diet..."
+Ye Cang raised his eyebrows and examined his hand. He meticulously said, "Your right side feels a bit smaller. You should watch your diet..."
  
 Slap~!
  
 "Perverted lowlife! F\*\*king Bastard!!"
  
-FrozenBlood quickly went up to pull her back in order to stop her from showing the ugly violent side of herself and destroying her image. Seeing the image of a violent bear behind ThornyRose, she quickly said: "Calm down. Your image..."
+FrozenBlood quickly went up to pull her back in order to stop her from showing the ugly violent side of herself and destroying her image. Seeing the image of a violent bear behind ThornyRose, she quickly said, "Calm down. Your image..."
  
 "I'm just telling the truth..." Ye Cang wanted to continue speaking but FrozenBlood glared at him with a 'Do you want to die?' expression. He turned around and sighed, everyone could see a bright handprint on his face.
  
@@ -51,21 +51,23 @@ Lin Le shrugged and looted the boss. SpyingBlade frowned, wondering why ThornyRo
  
 Ye Cang arrived beside Lin Le and took the loot. A skillbook, and the other was a caster class offhand item.
  
-Minor Healing Stream (Uncommon - Fishman Language): Chant 3 phrases (about 2 seconds) to enchant a target with water magic. Every 3 seconds, heal 2 health. Lasts 15 seconds. (The duration and potency is affected by Intelligence, Wisdom, and Spell Power stat.) Cooldown: 10 seconds. Cost: 6 mana. Requirements: 12 Intelligence, Fishman Language.
+>**Minor Healing Stream *(Uncommon · Fishman Language)***   
+Chant 3 lines *(about 2 seconds)* to enchant a target with water magic. Every 3 seconds, target heals 2 health. Lasts 15 seconds. *(The duration and potency is affected by Intelligence, Wisdom, and Spell Power stat.)*  
+Cost: 6 mana  
+Cooldown: 10 seconds  
+Requirements: 12 Intelligence, Fishman Language
  
-Apprentice's Tome (Excellent - Uncommon)
- 
-Category: Offhand Item
- 
-Requirements: 15 Intelligence
- 
-+2 Intelligence
- 
-Apprentice's Tome: Activate to fire a random low level magic. Cooldown: 10 minutes.
+>**Apprentice's Tome *(Excellent · Uncommon)***   
+Category: Offhand Item  
+Requirements: 15 Intelligence  
++2 Intelligence  
+>- Apprentice's Tome  
+   Activate to fire a random low level magic  
+   Cooldown: 10 minutes
  
 It's actually a recovery spell and a caster offhand!? ThornyRose lost a bit of her wrath and paid more attention to the items. But what was this fishman language? She snatched the offhand and skillbook. "The tome goes to GreenDew, no objections, right?"
  
-Ye Cang thought a bit and said: "Actually, I can use it..."
+Ye Cang thought a bit and said, "Actually, I can use it..."
  
 GreenDew and ThornyRose both glared at him.
  
@@ -81,4 +83,4 @@ ThornyRose frowned. Could no one learn it? It would be such a waste. Did they ha
  
 "Umm, actually I know a bit of the fishman language. It says I can learn it. When the boss died, it even yelled out a certain four letter word..." Ye Cang said while showing off the handprint on his face, reminding her.
  
-Everyone froze. SpyingBlade and FrozenCloud didn't know, but ThornyRose, FrozenBlood, and GreenDew did. His hidden race actually starts with these useless languages? ThornyRose was reminded of the scene earlier as well as that time at the volcano. Her face became red again. Both her left and right were touched by that cursed hand, would she become unlucky too? She quickly shook her head and thought: "What nonsense am I thinking about? This revenge is definitely not over! Just you wait perverted lowlife! After this hidden story quest, you'll have to pay for your crimes!"
+Everyone froze. SpyingBlade and FrozenCloud didn't know, but ThornyRose, FrozenBlood, and GreenDew did. His hidden race actually starts with these useless languages? ThornyRose was reminded of the scene earlier as well as that time at the volcano. Her face became red again. Both her left and right were touched by that cursed hand, would she become unlucky too? She quickly shook her head and thought, "What nonsense am I thinking about? This revenge is definitely not over! Just you wait perverted lowlife! After this hidden story quest, you'll have to pay for your crimes!"

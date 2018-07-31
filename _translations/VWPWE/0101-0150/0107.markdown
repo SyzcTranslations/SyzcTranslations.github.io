@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 107: Short Battle**
+### Chapter 107: Short Battle
 
 On CloudDragon's orders, the people that were itching to charge into battle, all retreated, feeling speechless.
 

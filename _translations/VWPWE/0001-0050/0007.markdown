@@ -7,11 +7,11 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 7: Fluorescent Ring**
+### Chapter 7: Fluorescent Ring
 
 Ye Cang was positioned a bit further than the others. When the light flashed, he vaguely saw that it was trying to run away from the the space to the right of Zhang ZhengXiong. "A'Xiong! At your four o'clock! Cut it off!!"
 
-Zhang ZhengXiong, despite being blind, used his other senses. He faced towards his right and charged. He crashed into something soft and scalding hot. He took this opportunity to chop his axe into it. The brilliant light created a lot of heat, Lin Le smelled a trace of burning and then heard Zhang ZhengXiong's snarl: "Ah!!".
+Zhang ZhengXiong, despite being blind, used his other senses. He faced towards his right and charged. He crashed into something soft and scalding hot. He took this opportunity to chop his axe into it. The brilliant light created a lot of heat, Lin Le smelled a trace of burning and then heard Zhang ZhengXiong's snarl, "Ah!!".
 
 Ye Cang watched the light and took a big stride forwards. "Lele, Attack!!"
 
@@ -41,17 +41,15 @@ Lin Le looked around the corpse and pulled out a ring. "Brother Lil'White! Broth
 
 Zhang ZhengXiong released Ye Cang and the two of them looked closely at the ring in Lin Le's hand. It was slightly transparent and gave a light fluorescent glow. It looked graceful and elegant.
 
-Fluorescent Ring (Uncommon)
+>**Fluorescent Ring *(Uncommon)***  
+Category: Ring  
+Requirements: None  
++1 Wisdom  
+>- Fluorescence  
+   In the area in front of you, within a certain range, cause 5 damage and blinds.  
+   Cooldown: 1 hour  
 
-Category: Ring
-
-Requirements: None
-
-Wisdom +1
-
-Fluorescence: In the area in front of you, within a certain range, cause 5 damage and blinds (cooldown: 1 hour).
-
-PS: A ring that flicker with fluorescent light during the night.
+>*PS: A ring that flicker with fluorescent light during the night.*
 
 "Not bad. Lele, good job. Cough~ Cough~ As the eldest brother, the ring is mine..." Ye Cang grabbed the ring. 
 
@@ -69,13 +67,13 @@ The three of them scuffled as the ugly side of human nature revealed itself. Fin
 
 He hadn't even put a single point in Wisdom! Ye Cang gnashed his teeth as he crouched down to use gather on the fluorescent slime and got: 2 fluorescent slime eyes, a fluorescent gel, and a fluorescent gland. 
 
-Fluorescent Slime Eye (Uncommon): The eye of a fluorescent slime, edible.
+>**Fluorescent Slime Eye *(Uncommon)***: The eye of a fluorescent slime, edible.
 
-Fluorescent Gel (Uncommon): What makes up most of the fluorescent slime's body, edible.
+>**Fluorescent Gel *(Uncommon)***: What makes up most of the fluorescent slime's body, edible.
 
-Fluorescent Gland (Uncommon): The gland that makes the fluorescent slime shine, edible.
+>**Fluorescent Gland *(Uncommon)***: The gland that makes the fluorescent slime shine, edible.
 
-"Ok! Heal up and we'll continue searching. This ring will probably save us quite a few times." Ye Cang put away the fluorescent slime materials and unhurriedly took out the half pot of green slime and feral wolf stew. He indifferently said: "It's still warm so we can still eat it. Once it goes cold..."
+"Ok! Heal up and we'll continue searching. This ring will probably save us quite a few times." Ye Cang put away the fluorescent slime materials and unhurriedly took out the half pot of green slime and feral wolf stew. He indifferently said, "It's still warm so we can still eat it. Once it goes cold..."
 
 The happiness from getting the ring instantly turned into a bitter smile as they held out their bowls. They originally considered using wolf meat and wolf bones or hunting a wild boar and making a pork stew, but after thinking it over, they realised they could use green slime and feral wolf stew to ward off wild animals. Therefore, they couldn't help but to cook this thing.
 

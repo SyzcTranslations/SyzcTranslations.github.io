@@ -7,7 +7,7 @@ editor: "skizlock, openbookworm"
 comments: true
 ---
 
-**Chapter 473: Training**
+### Chapter 473: Training
 
 "When is it?" Ye Cang raised his brow and asked.
 

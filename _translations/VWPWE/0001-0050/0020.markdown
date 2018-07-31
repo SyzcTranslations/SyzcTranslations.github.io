@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 20: A Bat in a Lava Cave**
+### Chapter 20: A Bat in a Lava Cave
  
 "This ring is pretty good, it can save you some time healing. Moreover, you never know if that little bit of health will save your life. Most importantly, it's a ring." FrozenBlood assessed. GreenDew saw that it wasn't useful for her and lost interest. ThornyRose was a bit moved, her ring finger was still empty.
  
@@ -27,9 +27,9 @@ comments: true
  
 "Then you have to have 30 silver to force me to bid that high!!" ThornyRose said, putting her hand on her forehead.
  
-Ye Cang took out a gold coin, and tossed it into the air and covered it with both hands: "Guess which hand?"
+Ye Cang took out a gold coin, and tossed it into the air and covered it with both hands, "Guess which hand?"
  
-"Guess your sister!" ThornyRose chest tightened. This kid was so rich!? Right now money was extremely hard to get. In a bad mood, she took out 17 silver coins and said: "This is you three's share, the missing silver is repayment for opening our coin bag."
+"Guess your sister!" ThornyRose chest tightened. This kid was so rich!? Right now money was extremely hard to get. In a bad mood, she took out 17 silver coins and said, "This is you three's share, the missing silver is repayment for opening our coin bag."
  
 "Eh? You can do that?" Ye Cang took the money and didn't know what to say. "That bag was probably empty from the start. It was fake."
  
@@ -41,11 +41,11 @@ The three girls couldn't help gasping. This was already 6 gold. They definitely 
  
 "Lowlife... Cough~ Cough~. PaleSnow, how about selling some gold to me? You don't have to worry about the price." ThornyRose earnestly asked.
  
-"Bro, let's sell some to Sister Rose." Zhang ZhengXiong added in. He then pulled Ye Cang over and whispered: "We're running out of money for this month. The 'Leach off our siblings' plan failed and Lele didn't receive any help from his family..."
+"Bro, let's sell some to Sister Rose." Zhang ZhengXiong added in. He then pulled Ye Cang over and whispered, "We're running out of money for this month. The 'Leach off our siblings' plan failed and Lele didn't receive any help from his family..."
  
 Ye Cang counted his gold holding back tears. They had over 20 gold, it should be ok to sell 10 or so. Although Ye Cang hadn't played games before, he knew that this money would serve as their foundation in the future. It would be used to buy equipment and whatnot. Seeing that gold was still rare, he sighed and thought for a bit. "At most i'll sell you two gold."
  
-Thorny Rose followed the current price in the black market of 100 federal dollars per copper, and transferred 2 million federal dollars. She reached out her hand and said: "Now give it to me."
+Thorny Rose followed the current price in the black market of 100 federal dollars per copper, and transferred 2 million federal dollars. She reached out her hand and said, "Now give it to me."
  
 Ye Cang took out two gold coins and unwillingly handed it over. "Please treat them well..."
  
@@ -63,7 +63,7 @@ After healing up, everyone started looking around. Seeing the path on the right,
  
 Everyone stopped. Ye Cang squinted to see. Above the pool of water was an enormous bat. It suddenly opened it's eyes revealing two red and ferocious lights. It looked at the people not far away. Screech~! A high pitched, ear piercing sound resounded.
  
-Volcano Bat Chief - Sai (Uncommon Elite)
+Volcano Bat Chief - Sai *(Uncommon Elite)*
  
 After the shriek, dozens of large nocturnal bats opened their eyes, releasing ominous lights. 
  
@@ -71,7 +71,7 @@ The sound of flapping wings echoed throughout the cave.
  
 "Retreat back to the passage! Don't let them dive down on us!!" ThornyRose yelled. Everyone hurriedly withdrew towards the narrow passage. "Keep to the walls! Don't get dived on!!"
  
-Ye Cang looked towards the passage. There was a volcanic rock protruding on the left side. He hurried to it and called everyone: "Come to me!!"
+Ye Cang looked towards the passage. There was a volcanic rock protruding on the left side. He hurried to it and called everyone, "Come to me!!"
  
 Once everyone leapt towards the volcanic rock, ThornyRose frowned looking at the boss. One boss was already troublesome enough, and now there's small ones too. They need to control it a bit. "GreenDew cast magic missile! PaleSnow, attack too. Shoot down as many as you can!"
  
@@ -79,7 +79,7 @@ GreenDew began chanting her magic. At this moment, a big shadow as well as dozen
  
 "Don't stand around! Take your torches and go in! PaleSnow, what's it like inside?" ThornyRose quickly advanced towards the passage and everyone closely followed her. Ye Cang shot his bow as he moved. He dived into the passage entrance. "There are many stalagmites and boulders. We should be able to hide!"
  
-ThornyRose estimated the length of the cave. It was probably about time they encountered the bats. They've probably had long enough to reach a wider area and turn around already. She hurriedly shouted: "Come here to this pillar!!"
+ThornyRose estimated the length of the cave. It was probably about time they encountered the bats. They've probably had long enough to reach a wider area and turn around already. She hurriedly shouted, "Come here to this pillar!!"
  
 The group followed ThornyRose and arrived at a nearby large stalagmite.
  
@@ -87,9 +87,9 @@ The group followed ThornyRose and arrived at a nearby large stalagmite.
  
 Ye Cang had nothing to add to ThornyRoses division of duty, so he nodded. He left the stalagmite and found a nearby hiding place. He counted the arrows in his quiver, and figured there should be barely enough. He leaned out from cover, preparing to shoot his bow, and took a glance at Lin le and the magician girl. He suddenly couldn't remember her name. "Lele, remember to protect that whatever her name is."
  
-"Ok!" Lin Le cleverly nodded. He looked at GreenDew and very seriously urged: "You. My Brother Lil'White told me to protect you. Listen well, don't run all over the place, ok?"
+"Ok!" Lin Le cleverly nodded. He looked at GreenDew and very seriously urged, "You. My Brother Lil'White told me to protect you. Listen well, don't run all over the place, ok?"
  
-GreenDew heard that Ye Cang and Lin Le unexpectedly didn't remember her name. As for Lin Le's tone which was like he was talking down to a child, made her chest feel heavy. She glared at him but not lowering herself to their level, she said grumpily: "I'm not called you. Remember, I'm called GreenDew."
+GreenDew heard that Ye Cang and Lin Le unexpectedly didn't remember her name. As for Lin Le's tone which was like he was talking down to a child, made her chest feel heavy. She glared at him but not lowering herself to their level, she said grumpily, "I'm not called you. Remember, I'm called GreenDew."
  
 "Whatever, focus on the battle. Really..." Lin Le complained quietly. He held is axe tightly and shrugged, acting all high and mighty.
  

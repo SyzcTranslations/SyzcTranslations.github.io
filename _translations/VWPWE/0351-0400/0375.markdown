@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 375: Piercing Thorn**
+### Chapter 375: Piercing Thorn
 
 “Then artificial humans?” SpyingBlade thought of the other group.
 

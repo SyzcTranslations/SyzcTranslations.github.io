@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 4: Job Training**
+### Chapter 4: Job Training
 
 Mumu asked probingly, "Have you considered applying at the manager. That way, you'll be assigned directly to the choke-points and popular spots. You'll be able to level in a few days."
 

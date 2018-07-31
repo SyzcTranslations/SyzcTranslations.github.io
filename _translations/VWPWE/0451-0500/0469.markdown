@@ -7,7 +7,7 @@ editor: "skizlock, openbookworm"
 comments: true
 ---
 
-**Chapter 469: Control Spores**
+### Chapter 469: Control Spores
 
 "We'll start when everyone is ready." Ye Cang examined everyone. Seeing nothing wrong, he informed Zhang ZhengXiong and Lin Le that they would be the vanguard.
 

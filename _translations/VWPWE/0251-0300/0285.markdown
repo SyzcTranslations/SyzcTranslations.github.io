@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 285: Heavy Crossbow New Effect**
+### Chapter 285: Heavy Crossbow New Effect
 
 NalanMoon noticed Ye Cang's abnormal actions. *He's going to steal a spell?* Every spellcasters most hated ability. A single success could turn the tide of a battle. That's why all spellcasters needed to learn to extend their cast times or shorten it, in order to vary their casting speed, or have someone cover them, otherwise, it would be a disaster of someone stole the spell.
 

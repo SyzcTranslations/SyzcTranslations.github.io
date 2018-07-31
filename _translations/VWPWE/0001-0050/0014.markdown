@@ -7,13 +7,16 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 14: Red Furred Flaming Dog**
+### Chapter 14: Red Furred Flaming Dog
 
 "Congratulations on discovering a new recipe, please give it a name."
 
 "Monstrous Bird and Python Stew."
 
-Monstrous Bird and Python Stew: While eating, heal 3 health every 5 seconds. Additionally gain +1 Strength and +1 Dexterity for 2 hours. (This is actually a pretty good dish...)
+>**Monstrous Bird and Python Stew**  
+Restore 3 health every 5 seconds while eating.  
+Gain +1 Strength and +1 Dexterity for 2 hours.  
+*(This is actually a pretty good dish...)*
 
 A normal stew smell slowly flowed out of the pot. Even though it smelled ordinary, Zhang ZhengXiong and Lin Le were extremely happy. This is what humans should eat!
 
@@ -23,7 +26,7 @@ Zhang Zheng Xiong and Lin Le regretfully nodded and added the monstrous bird to 
 
 "Let's eat. Heal up and reach level 6 as soon as possible..." Ye Cang indifferently said. He took out a bowl and started eating.
 
-On the other side of the forest, the girls that killed their way back to the monstrous bird saw a messed up corpse. Thorny rose said with surprised: "Looks like one of those bastards has a gathering skill."
+On the other side of the forest, the girls that killed their way back to the monstrous bird saw a messed up corpse. Thorny rose said with surprised, "Looks like one of those bastards has a gathering skill."
 
 Currently, whether it's by luck or through a rare hidden quest, obtaining a profession was as rare as phoenix feathers and unicorn horns. In all of Thorns and Roses, only one person was lucky enough to complete a quest and receive tailoring, becoming one of the important members the guild would nurture.
 
@@ -47,7 +50,7 @@ Ye Cang saw that on his contact's list, SpyingBlade was still online. After thin
 
 "Contact me again at that time."
 
-"Such a cold guy." Ye Cang couldn't help but smile and murmur: "We've got one person for the quest."
+"Such a cold guy." Ye Cang couldn't help but smile and murmur, "We've got one person for the quest."
 
 "Who?" Zhang ZhengXiong asked curiously.
 
@@ -55,7 +58,7 @@ Ye Cang saw that on his contact's list, SpyingBlade was still online. After thin
 
 Zhang ZhengXiong thought; if he could get such a good shield so early he must be an expert and nodded.
 
-The three sat on a slightly hot rock, restoring their health. They were already mid-way up the inactive volcano. The volcanic rocks here had a dark color. This small inactive volcano wasn't very tall, only tens of meters. Lin Le was looking at the black rocks and saw that not far away, there was a cave. Unable to hold back his curiosity, he asked: "Brother Lil'White, I'm gonna go in and have a look..."
+The three sat on a slightly hot rock, restoring their health. They were already mid-way up the inactive volcano. The volcanic rocks here had a dark color. This small inactive volcano wasn't very tall, only tens of meters. Lin Le was looking at the black rocks and saw that not far away, there was a cave. Unable to hold back his curiosity, he asked, "Brother Lil'White, I'm gonna go in and have a look..."
 
 Ye Cang thought that at worst, it would be a gathering place for red slimes. "Lure out two while you're there."
 
@@ -63,7 +66,7 @@ Lin Le nodded and entered the cave. Ye Cang and Zhang ZhengXiong saw that they h
 
 In the pitch black cave, Lin Le's silhouette appeared, looking like he was in a hurry. The thing that rushed out after him had Ye Cang and Zhang ZhengXiong so surprised their mouth hung open and their scalps tingling. An enormous dog squeezed out of the cave. It was 3 meters tall even on all fours, with crimson eyes and sinister teeth. On it's face were two bleeding axe scars. From it's neck to its ankles to the tip of it's tail, it was covered in blood red fur. It's body that looked like it was ready to pounce, was 5 meters long. It let out a mighty "Roar~!!"
 
-Red Furred Flaming Dog - Kivis (Uncommon - Elite): A rare creature that lives in small volcanos.
+>**Red Furred Flaming Dog - Kivis *(Uncommon · Elite)***: A rare creature that lives in small volcanos.
 
 Lin Le abruptly rolled, dodging a pounce.
 
@@ -75,7 +78,7 @@ Lin Le abruptly rolled, dodging a pounce.
 
 Lin Le took this opportunity to deliver an upwards chop towards it's chin. Ye Cang hurriedly shot another arrow, and then took out his wand releasing a wind blade, both aimed at the creature's head. All of this happened in a split second, causing it heavy injuries and infuriating it. 
 
-"Roar~!" The enormous body shook, and it's tail whipped towards Zhang ZhengXiong, leaving a shadow. Zhang ZhengXiong, hit by the tail, fell to the ground. Even though he had managed to block with the shield, and he had added most of his points to Constitution, he still lost a third of his health. Seeing the dog turn it's head to bite, he activated his fluorescent ring. White light shot out followed by a hateful roar. The huge dog raised it's head, having lost it's vision. After roaring, Ye Cang noticed it's mouth starting to emit fire. Not good! He shouted: "Get way! It's going to breath fire!!"
+"Roar~!" The enormous body shook, and it's tail whipped towards Zhang ZhengXiong, leaving a shadow. Zhang ZhengXiong, hit by the tail, fell to the ground. Even though he had managed to block with the shield, and he had added most of his points to Constitution, he still lost a third of his health. Seeing the dog turn it's head to bite, he activated his fluorescent ring. White light shot out followed by a hateful roar. The huge dog raised it's head, having lost it's vision. After roaring, Ye Cang noticed it's mouth starting to emit fire. Not good! He shouted, "Get way! It's going to breath fire!!"
 
 Zhang ZhengXiong performed an unsightly roll to hastily get up and escape.
 
@@ -93,7 +96,7 @@ ThornyRose's group of three, who were not far from the volcano, heard the roar o
 
 While it was blind, Ye Cang's ranged attacks caused it many injuries. Now having heard that it's sight was recovering, he sped up his attacks. The huge dog randomly swung its claws around blocking many arrows. In a flash, he realised that the dog was looking at him. It had already recovered its sight! He started to escape when out of the corner of his eye, he saw the huge dog turn it's attention to Lin Le and recklessly pounced.
 
-"..." Ye Cang stopped, a bit embarrassed. He thought: "What did that kid do? It still won't attack me."
+"..." Ye Cang stopped, a bit embarrassed. He thought, "What did that kid do? It still won't attack me."
 
 Lin Le was so scared he almost peed himself. He rolled away from behind the long and thin stalagmite before it broke from the huge dog's attack. It turned to look at Lin Le on the ground and opened it's mouth wide to bite at him.
 

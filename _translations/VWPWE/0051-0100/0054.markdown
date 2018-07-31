@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 54: Such Good Teamwork**
+### Chapter 54: Such Good Teamwork
  
 "Prepare for battle..." ThornyRose said, pulling out her longsword. She lowered her body and frowned. Had it come back?
  

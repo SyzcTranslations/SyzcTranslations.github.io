@@ -7,7 +7,7 @@ comments: true
 thanks1: "Umair Ahmed"
 ---
 
-**Chapter 293: Lost**
+### Chapter 293: Lost
 
 Everyone finished eating breakfast and returned to the game.
 

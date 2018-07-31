@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 99: Skillbook - Rock Spikes**
+### Chapter 99: Skillbook - Rock Spikes
  
 SpyingBlade again stuck to the lizard boss, his hooked blade flashing like a shadow. Ye Cang's precise shot along with GreenDew's magic missiles whistled through the air and ended its life.
  

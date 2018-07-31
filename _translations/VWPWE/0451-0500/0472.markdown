@@ -7,7 +7,7 @@ editor: "skizlock, openbookworm"
 comments: true
 ---
 
-**Chapter 472: Free Time**
+### Chapter 472: Free Time
 
 For the long awaited free time, SpyingBlade contemplated on whether to play around with assassination missions or go to White Stone City and mess with CloudDragon. "Team Leader, I'm going to White Stone City. I'll probably cause some trouble for CloudDragon. That's not a problem right?"
 

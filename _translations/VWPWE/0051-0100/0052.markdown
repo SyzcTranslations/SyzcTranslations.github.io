@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 52: Quick Wit**
+### Chapter 52: Quick Wit
  
 SpyingBlade also arrived and asked puzzled: "There's a follow up quest?"
  

@@ -7,7 +7,7 @@ thanks: "Emilia, Hazery"
 comments: true
 ---
 
-**Chapter 140: Flower Fairy's Death**
+### Chapter 140: Flower Fairy's Death
 
 "Congratulations, you've slain the flower fairy - Alice. Received 1800 experience."
 

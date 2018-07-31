@@ -7,19 +7,19 @@ editor: "Tab"
 comments: true
 ---
 
-Take a second to answer this poll!
+~~Take a second to answer this poll!~~
 <iframe src="https://www.strawpoll.me/embed_1/12968149" style="width:680px;height:384px;border:0;">Loading poll...</iframe>
 Also any other improvements I could make to this site are welcome. Feel free to email them to me.
 
 ---
 
-**Chapter 8: Danger Around Every Corner**
+### Chapter 8: Danger Around Every Corner
 
 Ye Cang identified it: Black Werewolf Vyers, elite? 
 
 Zhang ZhengXiong advanced with large strides towards Ye Cang who was in danger. He vigorously roared and ferociously chopped at the werewolf with his handaxe.
 
-Ye Cang pushed Jesse away: "Find somewhere safe and hide!!"
+Ye Cang pushed Jesse away, "Find somewhere safe and hide!!"
 
 "Mm!" Jesse said as he crawled to hide under the ancient tree's roots.
 
@@ -49,7 +49,7 @@ Zhang ZhengXiong hurried to take Lin Le's position at the front. Using his axe, 
 
 As for Lin Le, he didn't dare close in again, keeping a distance of 4-5 meters. His two hands firmly held onto the woodcutter's axe. He slowly wandered towards Ye Cang while waiting for his chance. His stomach was an unbearable mess.
 
-Ye Cang frowned and thought: "Mother of god, did this thing get stronger? I, your father, had shot 7 arrows, 5 were blocked and the ones that had hit didn't even tickle it, much less hurt it. Though my archery is not the best, it is still pretty good, not to mention I even had the racial bonus to bow weapons from the game. A'Xiong probably can't hold on for much longer." Seeing Lin Le who had arrived, He threw out his iron pot. "Hurry and eat! Heal as much as you can!"
+Ye Cang frowned and thought, "Mother of god, did this thing get stronger? I, your father, had shot 7 arrows, 5 were blocked and the ones that had hit didn't even tickle it, much less hurt it. Though my archery is not the best, it is still pretty good, not to mention I even had the racial bonus to bow weapons from the game. A'Xiong probably can't hold on for much longer." Seeing Lin Le who had arrived, He threw out his iron pot. "Hurry and eat! Heal as much as you can!"
 
 "..." Lin Le coldly stared at the iron pot and hesitated, unsure of whether to catch it or not.
 

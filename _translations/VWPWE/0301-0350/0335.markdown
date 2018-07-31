@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 335: 65 Hit Combo**
+### Chapter 335: 65 Hit Combo
 
 “It’s starting!” Brother Zhao saw that the battle countdown had ended.
 

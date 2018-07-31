@@ -11,7 +11,7 @@ TN: Hey everyone! Here's the 50th chapter and it hasn't even been a month! Can y
 
 ---
 
-**Chapter 50: Alina's Tears**
+### Chapter 50: Alina's Tears
  
 "Team leader, why don't you get along with Sister Rose and the girls?" FrozenCloud asked while she wrapped her arm around Lin Le's shoulder, afraid he'd get lost.
  
@@ -21,9 +21,12 @@ TN: Hey everyone! Here's the 50th chapter and it hasn't even been a month! Can y
  
 Ye Cang's group of 4 listened to all the shouts in the market. Most of them were some common equipment. Occasionally there would be some fine quality stuff. As for skill books, there were none. They arrived at a place with a lot of people. Everyone looked to see what it was.
  
-Double Shot (Common): Shoot two arrows at once towards a target, each dealing 85% damage. Cost: 15 Energy. Cooldown: 15 seconds.
+>**Double Shot *(Common)***  
+Shoot two arrows at once towards a target, each dealing 85% damage.  
+Cost: 15 Energy  
+Cooldown: 15 seconds
  
-Ye Cang looked at the price: 1 gold. He then looked towards the seller. He had small sideburns, dark gray hair, and looked like a really normal guy. He probably just got lucky. At this point, very few people would have 1 gold. Furthermore, it was a ranged skillbook, many people haven't even seen a bow yet. He took out a coin: "I'll buy it."
+Ye Cang looked at the price: 1 gold. He then looked towards the seller. He had small sideburns, dark gray hair, and looked like a really normal guy. He probably just got lucky. At this point, very few people would have 1 gold. Furthermore, it was a ranged skillbook, many people haven't even seen a bow yet. He took out a coin, "I'll buy it."
  
 The man happily took the gold coin in exchange for the skillbook and left. Ye Cang directly took it and learned it. Then they continued to walk around, but didn't find anything good. Most of their equipment was at least fine quality. If their weapons weren't an excellent - demonic one, then they were superior ones.
  
@@ -33,9 +36,9 @@ They continued to wander and saw a couple rings. Though it would be useful, it w
  
 "Bro, let's find a random merchant and exchange our gold bar for coins." Zhang ZhengXiong proposed.
  
-"Ok, it'll increase our funds a little. After breakfast, let's go to the forest in the north, past the holy oak and look for those werewolves that robbed old Mar. We can also scout around a bit while we're there." Ye Cang nodded. FrozenCloud stroked her chin and thought: "So they did have some information. Should I tell Sister Rose?" After contemplating a bit, she still decided to secretly send a message. "Sister Rose, we're currently at a pawn shop, then we'll be going to some grandma Rica's place to resupply. Then we're going to the northern forest to find some werewolves and find some jewel for the mayor."
+"Ok, it'll increase our funds a little. After breakfast, let's go to the forest in the north, past the holy oak and look for those werewolves that robbed old Mar. We can also scout around a bit while we're there." Ye Cang nodded. FrozenCloud stroked her chin and thought, "So they did have some information. Should I tell Sister Rose?" After contemplating a bit, she still decided to secretly send a message. "Sister Rose, we're currently at a pawn shop, then we'll be going to some grandma Rica's place to resupply. Then we're going to the northern forest to find some werewolves and find some jewel for the mayor."
  
-ThornyRose received the message and ground her teeth. She laughed coldly as she said: "I knew it. That lowlife definitely had another quest. They dare to leave us behind and finish the quest themselves! Humph~ Humph~"
+ThornyRose received the message and ground her teeth. She laughed coldly as she said, "I knew it. That lowlife definitely had another quest. They dare to leave us behind and finish the quest themselves! Humph~ Humph~"
  
 "Continue to monitor them, and notify me as soon as they leave." ThornyRose replied, then looked at FrozenBlood and GreenDew. "Let's go! To the north to wait for that lowlife and the others! He think's he can hog the rewards! No way!!"
  
@@ -47,39 +50,32 @@ On the other side, Ye Cang's group arrived at a bank and slowly walked in. The m
  
 The gold bar was exchanged for 15 gold. The four of them left the bank. Across the street, they saw a pawn shop, and slowly walked over. The pawnshop owner was a sleepy old man. Most players avoided pawn shops because: 1. They offered too little money. 2. There usually wasn't anything good. There will always be someone else to sell to. What you would normally sell for 1 silver elsewhere, you'd only get 10 copper here. All this led to the pawnshop staying extremely empty.
  
-The old man peacefully woke up: "Welcome."
+The old man peacefully woke up, "Welcome."
  
-Ye Cang didn't really come here for a specific reason, so he just asked: "Is there anything here, that hasn't been reclaimed, that we can buy?"
+Ye Cang didn't really come here for a specific reason, so he just asked, "Is there anything here, that hasn't been reclaimed, that we can buy?"
  
 The old man yawned and took out some jewelry and some equipment. The price ranged from 1 gold to over 100 gold. The goods ranged from rings to heavy swords. The four of them browsed, but the prices were too high. Ye Cang's sight landed on an inconspicuous black  ring. The price was 1 gold, and it had been left here for 10 odd years already, increasing its price to 2 gold. This pawnshop was really making a huge profit. He picked up the ring to examine it.
  
-Mysterious Ring (Unknown): Hidden until equipped.
+>**Mysterious Ring *(Unknown)***: Hidden until equipped.
  
-Ye Cang faintly smiled: "Gambling?". He took out a dozen coins like a richman and look towards the others. "Everyone pick something that costs less than 3 gold. Let's give this gamble a shot."
+Ye Cang faintly smiled, "Gambling?". He took out a dozen coins like a richman and look towards the others. "Everyone pick something that costs less than 3 gold. Let's give this gamble a shot."
  
 Ye Cang gave the old man two gold and put on the ring. The black crust crumbled and fell off, exposing the ring's original appearance; A beautiful silver hoop with a tear like gem embedded in it. Etched into the side were a few words: "Forever yours".
  
-Alina's Tear (Quest Item - Mysterious)
+>**Alina's Tear *(Quest Item - Mysterious)***   
+Category: Ring  
+Requirements: None  
+Attack: 2 - 5  
++3 All Attributes  
++3 Defence  
++5% Fortitude  
++5 All Resistances  
++7 Spell Power  
+>- Alina's Tear  
+   ???  
+   Cooldown: 3 days
  
-Category: Ring
- 
-Requirements: None
- 
-Attack: 2 - 5
- 
-+3 All Attributes
- 
-+3 Defence
- 
-+5% Fortitude
- 
-+5 All Resistances
- 
-+7 Spell Power
- 
-Alina's Tear: ???, Cooldown: 3 days.
- 
-Ye Cang looked at the ring's stats. It was too awesome, but he saw the ??? at the end. A skill he could only use every 3 days? Just the attributes alone was enough to make it a divine artifact, and it's even related to a quest. At this moment, a voice whispered into his ear: "Alina's love will be forever yours." The voice sounded like it was suffering, as if it were sadly waiting for someone. It made Ye Cang recall his past. A sunny girl gently brushing her fingers through his white hair. 
+Ye Cang looked at the ring's stats. It was too awesome, but he saw the ??? at the end. A skill he could only use every 3 days? Just the attributes alone was enough to make it a divine artifact, and it's even related to a quest. At this moment, a voice whispered into his ear, "Alina's love will be forever yours." The voice sounded like it was suffering, as if it were sadly waiting for someone. It made Ye Cang recall his past. A sunny girl gently brushing her fingers through his white hair. 
  
 "A'Cang, I love you. I want to be with you and Lil'Xiong forever."
  
@@ -87,15 +83,15 @@ Ye Cang looked at the ring's stats. It was too awesome, but he saw the ??? at th
  
 "Mm, I wish we could get married now. Hah~ but it's still too early. Muah~"
  
-Ye Cang started longingly into the distance and murmured: "Why. Why did you leave just like that..."
+Ye Cang started longingly into the distance and murmured, "Why. Why did you leave just like that..."
  
 "Bro, I got a pretty good necklace! Come look!" "Brother Lil'White! Me too!" "Team Leader, mine is good too!!" A few voices pulled him out of his thoughts. He smiled and looked at their items. They were all superior quality. None of them had a special ability, but the stats were exceptionally good, easily worth their cost. He handed the money over and paid for them. Although they spent 10 gold coins all at once, but they managed to get some valuable equipment. It allowed everyone to become a bit stronger.
  
 Ye Cang looked at their new accessories and smiled. That's right, there were some things you couldn't get back once you lost them. He had chased after her for so long, but she still said goodbye in the end. He shook his head and smiled at the three of them. "Let's go to Granny Rica's place."
  
-The three of them felt that Ye Cang's expression had changed a bit but they didn't know how to describe it. Zhang ZhengXiong looked at Ye Cang's back and murmured, too afraid to ask: "Bro, you're still thinking about sis..." 
+The three of them felt that Ye Cang's expression had changed a bit but they didn't know how to describe it. Zhang ZhengXiong looked at Ye Cang's back and murmured, too afraid to ask, "Bro, you're still thinking about sis..." 
  
-The nearby FrozenCloud heard it. She saw Zhang ZhengXiong's sad expression and became curious, but she knew that some things shouldn't be asked. She patted his shoulder and said: "Let's go."
+The nearby FrozenCloud heard it. She saw Zhang ZhengXiong's sad expression and became curious, but she knew that some things shouldn't be asked. She patted his shoulder and said, "Let's go."
  
 Zhang ZhengXiong nodded. He dragged Lin Le who was still playing with his new necklace and they all left the pawnshop.
  

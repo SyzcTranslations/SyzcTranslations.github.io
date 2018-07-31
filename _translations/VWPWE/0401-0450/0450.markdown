@@ -7,7 +7,7 @@ editor: "skizlock, Blaze, openbookworm"
 comments: true
 ---
 
-**Chapter 450: Continue Exploring**
+### Chapter 450: Continue Exploring
 
 For the next few days, Ye Cang brought his party to level in the Black Peaks mountain range. Along the way, he met many players who would either bow or salute while greeting him, "Greetings President!"
 

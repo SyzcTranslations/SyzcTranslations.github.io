@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 213: Defeating Dina**
+### Chapter 213: Defeating Dina
 
 CloudDragon took note of all the people who could attack the boss. Besides himself and VastSea, there was also Ye Cang, the one who was beating up his teammate Lin Le, FrozenCloud, as well as that little girl. No one else was free. "Lele, throw YellowSprings over to HeavenShakingMight. FrozenCloud, you can stop helping him, come help tank the boss!!"
 

@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 124: Trust and Misfortune**
+### Chapter 124: Trust and Misfortune
 
 With Ye Tian and GreenDew's death, the team had lost its support and ranged damage. ThornyRose knew they had to fight as if their life depended on it. "Don't worry about death! Ignore its attacks! Let's trade our lives for its!!"
 

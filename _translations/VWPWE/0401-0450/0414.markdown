@@ -7,7 +7,7 @@ editor: "Blaze, BaronCrux, MudNinja"
 comments: true
 ---
 
-**Chapter 414: Bagu Bug Vanguard**
+### Chapter 414: Bagu Bug Vanguard
 
 In the sea of flames, experience numbers continuously floated up. It wasn’t much, but also not little.
 

@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 209: Dark Ravine**
+### Chapter 209: Dark Ravine
 
 CloudDragon saw that on top of the food buff, he actually received the the skeletal demon's buff too. All his attributes were increased by 30%. Lin Le also got the buff. The difference between them though was that CloudDragon kept it a secret whereas Lin Le never even noticed...
 

@@ -7,7 +7,7 @@ editor: "Blaze, BaronCrux, MudNinja, Umair"
 comments: true
 ---
 
-**Chapter 411: Vanish**
+### Chapter 411: Vanish
 
 “Don’t you have one now...” SpyingBlade smiled.
 

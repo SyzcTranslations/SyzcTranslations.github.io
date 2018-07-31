@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 358: Promotion Exam**
+### Chapter 358: Promotion Exam
 
 10 Commandments meeting.
 

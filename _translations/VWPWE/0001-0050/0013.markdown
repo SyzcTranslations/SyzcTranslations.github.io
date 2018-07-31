@@ -7,17 +7,11 @@ editor: "Tab"
 comments: true
 ---
 
-So I changed IceBlood to FrozenBlood.
-
-It feels really wierd translating these names into english, but since they are online ID's I guess it makes sense to.
-
----
-
-**Chapter 13: The Resentful Rose**
+### Chapter 13: The Resentful Rose
 
 "Go! Save her!" Ye Cang prepared an arrow and shot the boss. Zhang ZhengXiong and Lin Le leaped down the hill.
 
-Unfortunately, GreenDew still couldn't escape the bosses pursuit. The boss stepped on her to restrain her and murdered her with it's beak. As she fell fell bleeding, she raised her finger little by little towards the three and said vaguely: "I'll f\*\*king... you...". Her hand went limp and fell as she died sorrowfully.
+Unfortunately, GreenDew still couldn't escape the bosses pursuit. The boss stepped on her to restrain her and murdered her with it's beak. As she fell fell bleeding, she raised her finger little by little towards the three and said vaguely, "I'll f\*\*king... you...". Her hand went limp and fell as she died sorrowfully.
 
 "Hah~ We still couldn't save her..." Ye Cang sighed.
 
@@ -29,47 +23,45 @@ Zhang ZhengXiong borrowed the force from sliding down the hill to leap over, his
 
 The three were just a little bit away from reaching level 6.
 
-Lin Le looted the boss. Ye Cang slid down the hill and asked: "What did we get?"
+Lin Le looted the boss. Ye Cang slid down the hill and asked, "What did we get?"
 
 "A skill book and a wand!" Lele held a book in one hand and a wooden wand in the other. The wand had some feathers decorating the end. 
 
-Crossed-Eyes (Uncommon - Skill): To use, cross your eyes and look at the target to confuse them for a period of time. Receiving damage will end the effect. Must lock eyes for at least 1 second to take effect. No resource cost. Cooldown: 5 minutes.
+>**Crossed-Eyes *(Uncommon · Skill)***  
+To use, cross your eyes and look at the target to confuse them for a period of time. Receiving damage will end the effect. Must lock eyes for at least 1 second to take effect.  
+Cooldown: 5 minutes.
 
-Monstrous Bird's Wooden Wand (Fine)
-
-Category: Wand
-
-Requirements: 10 Intelligence
-
-Attack: 2 - 4
-
-+1 Intelligence
-
-+2 to Spell Power
-
-Minor Wind Blade: Release a minor wind blade to attack a target, dealing 15 damage. Cooldown: 5 minutes.
+>**Monstrous Bird's Wooden Wand *(Fine)***  
+Category: Wand  
+Requirements: 10 Intelligence  
+Attack: 2 - 4  
++1 Intelligence  
++2 to Spell Power  
+>- Minor Wind Blade  
+   Release a minor wind blade to attack a target, dealing 15 damage.  
+   Cooldown: 5 minutes.
 
 "Wow, a good wand. And there's even an uncommon skill book..." Zhang ZhengXiong praised.
 
 "Let's give the skill book to Lele. As for the wand, currently only I can wield it. Depending on the situation, I can use it..." Ye Cang gave the book to Lele and stuck the wand by his waist on the right. He then took out his longsword to dismantle. He received: Monstrous Bird Meat, Monstrous Bird's Claw, Monstrous Bird's Feathers, and Monstrous Bird's Beak.
 
-Lin Le used the skill book, then turned to look at the bodies of the girls which were turning into white light. He started praying: "Rest in peace, your enmity has been avenged..."
+Lin Le used the skill book, then turned to look at the bodies of the girls which were turning into white light. He started praying, "Rest in peace, your enmity has been avenged..."
 
 "..."
 
 "Bro, I think we should hurry and escape." Zhang ZhengXiong said, feeling a bit guilty. "If they come now, they probably won't understand our explanation. I feel we should give them some time to calm down. Time can heal all wounds. If we meet again and explain properly, maybe we can still get their contact information and be friends and whatnot. After all, we were trying to help, even though there was a little accident."
 
-Ye Cang raised his head and pondered. After not even a second, he agreed and said: "Good plan! Retreat!"
+Ye Cang raised his head and pondered. After not even a second, he agreed and said, "Good plan! Retreat!"
 
 The three of them hurriedly withdrew from that location.
 
-On the other side, in Really New Village, there were three extremely gloomy woman outside the farms. ThornyRose's peerlessly handsome oval face had a hideous gloomy expression. The veins on her forehead looked like they would burst. She gnashed her teeth and said sternly: "I definitely won't forgive those three bastards."
+On the other side, in Really New Village, there were three extremely gloomy woman outside the farms. ThornyRose's peerlessly handsome oval face had a hideous gloomy expression. The veins on her forehead looked like they would burst. She gnashed her teeth and said sternly, "I definitely won't forgive those three bastards."
 
 "GreenDew, did you see what they looked like?" FrozenBlood's eyes burned with fury from having the boss stolen. Even her leader died such a miserable death having her behind pierced. No matter what, this enmity must be avenged! Her eyes became cold.
 
 "Not very clearly, however there was a white haired one. It was a bit far, but the one who shot the bow should be a Ranger. Before the boss killed me, I saw a big man who should be a fighter. He had a blade in one hand and a shield in the other. There was also a short guy holding a two-handed axe. He should also be a fighter. Should we inform those near Really New Village?" GreenDew didn't see clearly but had some impression.
 
-ThornyRose took a deep breath and saw her level was now 5 with 0%. She said in a low voice: "Tell everyone in Really New Village, if anyone discovers them, immediately tell me. I will personally take revenge! Especially that white haired Ranger with the bow!! Let's go! Hurry and level. This time we have to be ahead of the b\*\*\*hes at 'Fire Beacon Beauties'."
+ThornyRose took a deep breath and saw her level was now 5 with 0%. She said in a low voice, "Tell everyone in Really New Village, if anyone discovers them, immediately tell me. I will personally take revenge! Especially that white haired Ranger with the bow!! Let's go! Hurry and level. This time we have to be ahead of the b\*\*\*hes at 'Fire Beacon Beauties'."
 
 "Mm." FrozenBlood nodded. Fire Beacon Beauties was also a famous guild in China. They were old rivals of Thorns and Roses, enemies for life. Fire Beacon Beauties' chief 'BornFlirty' and ThornyRose were completely incompatible.
 
@@ -77,7 +69,7 @@ Speaking of China's guilds, the biggest 4 guilds were: Flame Dragon Union, Mad W
 
 Back in the forest, Ye Cang's group of 3 continued to explore and harvest ingredients. They came across a small, inactive volcano - The Bachiya Lava Hole. There, they found even more dangerous creatures. The one that gave them the biggest surprise was unexpectedly a slime. 
 
-Red Slime: Slimes that can shoot flames. Often found in blistering hot places.
+>**Red Slime**: Slimes that can shoot flames. Often found in blistering hot places.
 
 "Bro, it seems our feud with the slime family is as deep as the ocean..." Zhang ZhengXiong muttered, looking at the red pimple on the black earth.
 

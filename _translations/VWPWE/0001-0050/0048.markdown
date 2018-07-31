@@ -7,9 +7,9 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 48: Mar's Stash**
+### Chapter 48: Mar's Stash
  
-Mayor Mar leaned over towards Ye Cang and whispered: "What about the goods?"
+Mayor Mar leaned over towards Ye Cang and whispered, "What about the goods?"
  
 "I've got it here..." Ye Cang whispered back. Mar nodded. "You three come with me. Everyone else, thank you, you can go now..."
  
@@ -31,9 +31,9 @@ Ye Cang's group of 3 raised an eyebrow. Such a powerful woman. They raised their
  
 Old Mar brought everyone towards his private warehouse. They walked to another courtyard following a little path. "You handled the fishmen very well. Continue to stay vigilant. I think you're ready to know. What do you think those werewolves are?"
  
-Ye Cang thought for a bit. Primates evolved into humans. In this world, fish evolved into fishmen. Then it follows that wolves should evolve into werewolves! He gasped, feeling enlightened: "Those feral wolves are evolving too quickly."
+Ye Cang thought for a bit. Primates evolved into humans. In this world, fish evolved into fishmen. Then it follows that wolves should evolve into werewolves! He gasped, feeling enlightened, "Those feral wolves are evolving too quickly."
  
-Old mar held back his laughter. He raised his head, recalling the black werewolf's story. He thought back to his own experiences and said: "Those werewolves don't evolve from feral wolves. They use to be Really New Village's inhabitants. In the past, Really New Village believed in the wolf god, many people respected it because it represented harvest and valor. But suddenly, due to some unknown powerful pollution, the wolf god that protected the fields and the guards degenerated. It became extremely sinister and wicked. Those believers also mutated and became werewolves. There was a bloody battle. Although Really New Village managed to drive them out, but they are still Really New Village's biggest threat."
+Old mar held back his laughter. He raised his head, recalling the black werewolf's story. He thought back to his own experiences and said, "Those werewolves don't evolve from feral wolves. They use to be Really New Village's inhabitants. In the past, Really New Village believed in the wolf god, many people respected it because it represented harvest and valor. But suddenly, due to some unknown powerful pollution, the wolf god that protected the fields and the guards degenerated. It became extremely sinister and wicked. Those believers also mutated and became werewolves. There was a bloody battle. Although Really New Village managed to drive them out, but they are still Really New Village's biggest threat."
  
 Old Mar paused for a moment. "When I was young and still part of the guards, I killed many of them but was captured. Actually, for a long period of them, they weren't much different than a regular human. But under the influence of the evil wolf they continued to transform. That disgusting beast, it was nothing like a wolf god. I managed to escape, but the other captives became monsters that didn't fear death. They feel nothing even as they died. They only cared about repaying their god's 'love'. They were controlled and were made to do terrible things."
  
@@ -59,52 +59,38 @@ Old Mar lit an oil lamp, revealing the many kinds of equipment sitting on the sh
  
 Ye Cang snapped out of his daze after hearing the system message. He quickly looked at the displayed equipment. There were weapons and various parts of armor. Finally he saw some heavy plate shoulder guards. It was equipment for the shoulder slot which he didn't have yet, and there were three of them! There was even a class restricted one. He examined them all before deciding on:
  
-Black-Iron Shoulder Protector (Superior - Uncommon)
- 
-Category: Heavy Shoulder Guard
- 
-Requirements: 20 Constitution, 18 Strength
- 
-+3 Constitution
- 
-+2 Strength
- 
-+4 Defence
- 
-Shoulder Strike: Launch a shoulder strike at a target, deal damage equal to (Strength + Dexterity) / 2 and knock the target back. Cooldown: 10 minutes.
+>**Black-Iron Shoulder Protector *(Superior · Uncommon)***  
+Category: Heavy Shoulder Guard  
+Requirements: 20 Constitution, 18 Strength  
++3 Constitution  
++2 Strength  
++4 Defence  
+>- Shoulder Strike  
+   Launch a shoulder strike at a target, deal damage equal to (Strength + Dexterity) / 2 and knock the target back.  
+   Cooldown: 10 minutes
  
 Old Mar wanted to quickly return to bed so continued to urge them to hurry. Zhang ZhengXiong saw a one handed hammer. It was made completely out of iron and had a fairly heavy head. Holding it in his hand, it felt comfortable. He really wanted to find a walnut to smash.
  
-Fine-Iron Warhammer (Superior - Uncommon)
- 
-Category: Light Warhammer
- 
-Requirements: 12 Strength, 17 Constitution
- 
-Damage: 9 - 12
- 
-+2 Strength
- 
-+2 Constitution
- 
-Seismic Slam: Deal 175% damage to targets in range, with a chance to stun or knockdown. Cooldown: 30 minutes.
+>**Fine-Iron Warhammer *(Superior · Uncommon)***  
+Category: Light Warhammer   
+Requirements: 12 Strength, 17 Constitution  
+Damage: 9 - 12  
++2 Strength  
++2 Constitution  
+>- Seismic Slam  
+   Deal 175% damage to targets in range, with a chance to stun or knockdown.  
+   Cooldown: 30 minutes
  
 Lin Le wandered among the dazzling armors and found a pair of thick, black, iron gloves. He picked it up and without even looking, he put them on. They were a bit too big for him and together with the gigantic war axe, he looked comical. But one could also feel the destructive power it contained.
  
-Black-Iron Heavy Gauntlets (Superior - Uncommon)
- 
-Category: Heavy Gloves
- 
-Requirements: 24 Strength
- 
-+4 Defence
- 
-+3 Damage
- 
-+3 Strength
- 
+>**Black-Iron Heavy Gauntlets *(Superior · Uncommon)***  
+Category: Heavy Gloves   
+Requirements: 24 Strength  
++4 Defence  
++3 Damage  
++3 Strength  
 +2 Constitution
- 
+
 ---
 
 <a name="footnote1">1</a>: Guy who gets his balls busted all the time in the drama.

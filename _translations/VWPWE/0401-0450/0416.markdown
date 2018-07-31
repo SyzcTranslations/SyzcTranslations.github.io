@@ -7,7 +7,7 @@ editor: "Blaze, BaronCrux"
 comments: true
 ---
 
-**Chapter 416: Three Goddesses**
+### Chapter 416: Three Goddesses
 
 “Congratulations, you’ve obtained Goddess Jam’s blessing. +3 Wisdom, +2% Will, and a chance to obtain a plant type skill. Due to Goddess Jam being very pleased with your contribution in freeing her, she specially gives you an extra blessing...”
 

@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 273: B Difficulty Mission**
+### Chapter 273: B Difficulty Mission
 
 Next day, early morning.
 

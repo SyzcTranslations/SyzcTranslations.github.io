@@ -7,7 +7,7 @@ editor: "Tab"
 comments: true
 ---
 
-**Chapter 125: Hunting in the Jungle**
+### Chapter 125: Hunting in the Jungle
 
 Kunsa gradually restored his vitality and saw that the adventurer that had brought him the core was battered and exhausted. He must have been fighting bitterly to protect it while it was absorbing the core's power. It was filled with gratitude.
 

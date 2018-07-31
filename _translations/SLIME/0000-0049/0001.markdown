@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 1: This Race Doesn't Look Quite Right**
+### Chapter 1: This Race Doesn't Look Quite Right
 
 Archie looked through the window to the neighbor, Aunty Mao's, wall clock. The time was currently 11:52. There was still 8 minutes until the opening of the worldwide masterpiece Dragonica World.
 

@@ -8,11 +8,11 @@ thanks1: "Mr.Debt"
 comments: true
 ---
 
-**Chapter 21: Sai's Fang**
+### Chapter 21: Sai's Fang
  
 "They're coming!" Ye Cang saw the black shadows approaching and warned.
  
-ThornyRose shouted: "Ei!!"
+ThornyRose shouted, "Ei!!"
  
 The Volcano Bat Chief Sai heard the cries of it's minions as they dived down. GreenDew started another chant. Ye Cang counted, there were still 6 smaller ones. Every time his fingers released the bowstring, another one was shot out of the sky. He quickly hid back behind cover to prepare another arrow. Then he once again peaked around looking towards ThornyRose who was waiting for another attack from the swarm of bats, and shot down another one.
  
@@ -34,7 +34,7 @@ Lin Le circled around GreenDew and his axe slammed down, knocking two bat's away
  
 Ye Cang jumped and kicked off a stalagmite, nimbly jumping over to a taller one and climbed to the top. His field of view was now much wider. He saw 6 or 7 bats that were still moving, readied his longbow and started reaping lives. The Hemlock Longbow was much better than the wooden shortbow in both range and damage.
  
-Sai brandished it's wings, swinging wildly left and right. Zhang ZhengXiong was hit and sent flying away, losing over 30 health. ThornyRose blocked it with her shield but was still sent flying and lost quite a bit of health. She hit the ground with a roll and got up. Seeing the bat facing her storing up power to launch a sonic attack as well as flapping it's wings to fly up, she roared: "A sound wave is coming! Don't let it fly!"
+Sai brandished it's wings, swinging wildly left and right. Zhang ZhengXiong was hit and sent flying away, losing over 30 health. ThornyRose blocked it with her shield but was still sent flying and lost quite a bit of health. She hit the ground with a roll and got up. Seeing the bat facing her storing up power to launch a sonic attack as well as flapping it's wings to fly up, she roared, "A sound wave is coming! Don't let it fly!"
  
 Zhang ZhengXiong crawled up and threw himself at the boss. The soundwave was just about to be launched. ThornyRose knew she was in trouble, she raised her shield prepared to try and block it. Seeing that the boss was still facing her, she started to panic! If she was hit head on by that sonic attack, the remaining half of her health would definitely be extinguished. At that time, a flash of light shot out from Zhang ZhengXiong hand. As it was afraid of light, the effects were doubled! Sai abruptly raised it's head and screamed in pain, the soundwave missing again. 
  
@@ -56,35 +56,28 @@ ThornyRose saw Lin Le had already looted the corpse and relaxed. Even if she had
  
 "Tsk~ Next time! Next boss! I'll definitely loot it!" Ye Cang stopped his steps and turned away, in a bad mood. He clenched his fist to calm down.
  
-ThornyRose facepalmed feeling very tired. Fighting a boss was already hard and then they still had to defend it's corpse after. That cursed touch, and on someone who used it without a care. Good thing he's usually fighting from a distance. She looked towards Lele and asked: "Lele, what dropped?"
+ThornyRose facepalmed feeling very tired. Fighting a boss was already hard and then they still had to defend it's corpse after. That cursed touch, and on someone who used it without a care. Good thing he's usually fighting from a distance. She looked towards Lele and asked, "Lele, what dropped?"
  
 "A dagger. A pair of boots." Lin Le held a dark dagger in one hand and a pair of dark brown, leather boots in the other. 
  
-Sai's Fang (Excellent)
+>**Sai's Fang *(Excellent)***   
+Category: Long Dagger  
+Requirements: 15 Dexterity  
+Damage: 4 - 7  
++2 Dexterity  
+>- Linked Strikes  
+   Quickly chain two attacks, each dealing 85% damage.  
+   Cooldown: 5 minutes
  
-Category: Long Dagger
- 
-Requirements: 15 Dexterity
- 
-Damage: 4 - 7
- 
-+2 Dexterity
- 
-Linked Strikes: Quickly chain two attacks, each dealing 85% damage. Cooldown: 5 minutes.
- 
-Sai's Wings (Excellent)
- 
-Category: Leather Boots
- 
-Requirements: 12 Strength or 10 Dexterity
- 
-+1 Defence
- 
-+5% Movement Speed
- 
-+1 Dexterity
- 
-Sai's Wings: Activate to raise movement speed by 15% for 10 seconds. Cooldown 15 minutes.
+>**Sai's Wings *(Excellent)***   
+Category: Leather Boots  
+Requirements: 12 Strength or 10 Dexterity  
++1 Defence  
++5% Movement Speed  
++1 Dexterity  
+>- Sai's Wings  
+   Activate to raise movement speed by 15% for 10 seconds.  
+   Cooldown 15 minutes
  
 ThornyRose looked at Lin Le and was full of astonishment and happiness. There was actually two! This Lele's luck was very abnormal. She recalled that his rate of finding items was much higher than the other's.
  
@@ -92,7 +85,7 @@ FrozenBlood looked at her own dagger. She wanted the new one, it was so much bet
  
 "What to do with the dagger?" ThornyRose didn't know how Ye Cang had allocated his stats. Because the weapons a Ranger could use was too numerous. Fighter, Assassin, Hunter, and even wands, he could use them all. Since they were a new party, they had to be cautious about splitting loot. However she did understand Ye Cang a bit, he could be considered rational if you ignored the times after a boss died.
  
-"Give it to your assassin, I'll take the boots. That ok?" Ye Cang faintly smiled, thinking of a plan. He thought: "Hmph~ Once I have these boots, who can outrun me to the corpses and chests..."
+"Give it to your assassin, I'll take the boots. That ok?" Ye Cang faintly smiled, thinking of a plan. He thought, "Hmph~ Once I have these boots, who can outrun me to the corpses and chests..."
  
 ThornyRose took the dagger from Lin Le and gave it to FrozenBlood. She saw Ye Cang making a faint smile, and felt something was wrong. It couldn't be that he picked the boots just for looting corpses. She shook her head, there shouldn't be anyone so desperate.
  

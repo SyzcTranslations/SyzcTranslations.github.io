@@ -7,7 +7,7 @@ comments: true
 thanks1: "Tony Giang"
 ---
 
-**Chapter 324: Contribution Points**
+### Chapter 324: Contribution Points
 
 "Show everyone the falcon's stats..." FrozenCloud urged.
 

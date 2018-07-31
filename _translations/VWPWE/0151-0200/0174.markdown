@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 174: ThornyRose's Invitation**
+### Chapter 174: ThornyRose's Invitation
 
 "If there are people, then there will be conflicts..." FrozenCloud thought of a phrase she had heard in a book.
 

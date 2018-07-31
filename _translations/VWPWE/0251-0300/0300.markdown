@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 300: The Crusade Begins**
+### Chapter 300: The Crusade Begins
 
 Night descended, revealing the beautiful sea of stars.
 

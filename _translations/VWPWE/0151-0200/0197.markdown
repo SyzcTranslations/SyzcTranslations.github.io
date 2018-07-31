@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 197: Gene Lock**
+### Chapter 197: Gene Lock
 
 Half-moon lake.
 

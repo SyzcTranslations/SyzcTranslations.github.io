@@ -6,7 +6,7 @@ translator: "syzc"
 comments: true
 ---
 
-**Chapter 154: CloudDragon's Surprise**
+### Chapter 154: CloudDragon's Surprise
 
 The odor of dead rats was raised to another level. The iron pot emitted a purple mushroom cloud, which slowly became a laughing skull.
 
