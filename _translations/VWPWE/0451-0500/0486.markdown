@@ -1,0 +1,98 @@
+---
+layout: chapter
+title:  "Chapter 486"
+category: "VWPWE"
+translator: "syzc"
+editor: "skizlock, yhashtur"
+comments: true
+---
+
+### Chapter 486: Five Coloured Slime Treasure Ring
+
+"A'Xiong, take it and see if you can combine them..." Ye Cang passed the water drop ring to Zhang ZhengXiong.
+
+Zhang ZhengXiong took off his ring and put them together. The little water drop wiggled over as if it had seen four of its friends. The five differently coloured water drops crowded together, then merged together becoming five crystalline stripes.
+
+"Congratulations, you've obtained the Five Coloured Slime Treasure Ring"
+
+>**Five Coloured Slime Treasure Ring *(Unique - Slime - Quest Item)***  Category: Ring  
+Requirements: None  
++50 Constitution  
++40 Wisdom  
++20% All Attributes  
++10% Constitution  
++10% Health  
++15% Damage  
++20% Defence  
+Damage received reduced by 35.  
++20% All Resistances  
++12 Damage  
++25 Defence  
++25% reduction to negative effects.  
+Restores 1% health every 10 seconds.  
+Restores 1% mana every 10 seconds.  
++10 Luck  
+>- Gliding Wings  
+   Allow the wearer of the ring to glide for 5 minutes.  
+   Cooldown: 10 minutes  
+ - Super Speed  
+   When using a charging attack skill, there is a chance to trigger this effect, increasing your speed by 5 times for 1.5 second.  
+   Can be triggered once every 3 minutes.  
+ - Five Coloured Fortune *(Choose 2 of 5, is reset daily)*  
+   - Spell Storing - White  
+     Can store any one spell in the ring. To change the stored spell, one must wait one natural day. 
+     The cooldown of the spell is the same as it normally is.  
+   - Spell Reflection - Blue  
+     Reflect one type of spell to the caster.  
+     Cooldown is the same as normal cooldown for reflected spell.  
+   - Flame Burst Transformation - Red  
+     When receiving fire damage, one can attempt to absorb it, then turn the energy into a flame burst spell. Damage is based on the strength of the absorbed fire ability.  
+     Cooldown is the same as that of the absorbed fire ability.  
+   - Luck Constitution - Gold  
+     Activate to forcefully make the next attack received deal only 1 damage. Only works on a single hit.  
+     Cooldown: 1 day  
+   - Water Source Transformation - Teal  
+     Instantly consume 10% health to recover 15% mana or consume 10% mana to recover 20% health.  
+     Cooldown: 1 hour
+
+Everyone gasped upon seeing the ring's attributes. What the heck was this!? Seeing the page of densely packed attribute bonuses, SpyingBlade smiled bitterly. This ring was equivalent to four of other’s. Four black gold rings at that. The five choose two skills were abnormal beyond belief and the new ability was just dope. Could he be any harder to kill!? The amount of constitution this ring provided him was definitely above 100. His attributes had risen to a whole other level. This was the most abnormally op equipment that he had ever seen at this point in the game, the second being team leader's revive + self-destruct ring which was even more disgusting.
+
+"For the five choose two skill, the most dependable is still white, with teal added on. Or perhaps white + a spare. I suggest the first option. The other three are all situational, while white and teal can be used in any situation, and it is often too late to choose when you need them." Little Ye Tian analyzed.
+
+Zhang ZhengXiong listened to Little Ye Tian and chose white and teal. The white and teal water drops rotated to the front of the ring. SpyingBlade was sure this was a godly artifact in the making. At least it definitely had the potential to upgrade to a godly artifact like item.
+
+Ye Cang faintly smiled, then took out the skillbook. "Who wants this?"
+
+>**High Pressure Water Cannon *(Giant Water Underworld Slime - Uncommon - Rank 4 Spell)***  
+Chant 1 verse (about 3 seconds) to shoot a violent water cannon at a target, sending it flying and dealing 100 water damage. Skill is affected by intelligence, spell power, and other spell effects increases.  
+Cost: 35 mana.  
+Cooldown: 4 minutes.
+
+Ye Cang saw that Wu Na didn't want it, so shrugged and learned it himself.
+
+"Due to the compatibility between your Tidal Wave and High Pressure Water Cannon, they've fused together to become a new skill (original skills still exist)! Please give it a name!"
+
+Ye Cang looked at the skill effect and named it, "High Pressure Tidal Wave"
+
+>**High Pressure Tidal Wave *(Ye Cang - Self Created)***  
+Chant 6 bars (about 5 seconds). From the second bar, begin attacking targets in front with a fierce tidal wave. Persists for 4 seconds. Every wave deals 89 water damage and causes knockback.  
+Cost: 40 mana.  
+Cooldown: 3 minutes.
+
+With still breeze and quiet waves, everyone returned to the village by Anya's shrine. Ye Cang immediately brought Little Ye Tian back to Black Rock City. The area in Black Peaks with the sinkhole was still masterless, so he brought out his money and directly made it part of his own fief. He then went to Azshara to share his new discovery.
+
+Azshara immediately froze, then broke out into a grin after a good while. "You really are the lucky charm Little Mar brought over! Black Peaks is only so desolate because it isn't connected, so travelling is inconvenient and filled with dangers. Every year, only one convoy travels there during the summer. If we can really sail a boat till there, your shrine and village could perhaps become a mountain fort. Black Peaks is the barrier between us and the wastelands, extremely important! Although not many people know it, so many give up after knowing how tough a bone the Black Peaks is. Now if what you and the girl says is true, Black Peaks will be welcoming a period of prosperity."
+
+Little Ye Tian offered him her blueprint and map, then began to explain, "The problem with the boat can be solved with this. It operates using the kinetic force produced by magic crystals. The only problem is that it requires a high-powered magic furnace. In order to lift large boats, anything less than a high-powered magic furnace won't do. Although manpower isn't impossible, but it is too troublesome. That method can only be kept as a backup for the furnace..."
+
+After Azshara finished listening to Little Ye Tian's explanation, his brows rose. "That won't be a problem. I'll deal with it personally. You don't have to worry. Since the sinkhole here will also require a lift, we'll need to establish a fort down there. I'll have Little Mar personally oversee it's construction..."
+
+"Then we'll trouble you, Marquis Azshara." Ye Cang nodded and smiled.
+
+Azshara also smiled and waved his hand, "Stay for a meal. Little Mar will be coming later, we can conveniently discuss the details."
+
+After Little Mar arrived and everyone discussed the plan in detail, Little Mar brought some workers to the sinkhole. Ye Cang also brought Little Ye Tian and left the Marquis' mansion.
+
+"Father, let's focus our construction on Anya's shrine and move the other two! We can rebuild the shrine buildings, then with Ghost Peak as the framework, create the holy trinity of epic shrines. Since we've already decided it is inevitable to bring the three goddesses together in the future, why not prepare now? As for the goddesses, we'll have to rely on father to negotiate with them whether they can share one residence instead of being seperated." Little Ye Tian analyzed seriously and proposed to Ye Cang.
+
+"I'll ask..." Ye Cang smiled calmly.

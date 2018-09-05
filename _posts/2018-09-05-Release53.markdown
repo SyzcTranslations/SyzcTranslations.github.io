@@ -1,0 +1,16 @@
+---
+layout: posts
+title:  "Virtual World: Peerless White Emperor Chapters 475 - 501"
+date:   2018-09-05 11:40:00
+comments: true
+---
+
+Hey everyone,
+
+Sorry I'm late. This is the release for august. I'll try to get another one in by the end of september.
+
+[Peerless White Emperor Chapter 475][vwpwe0475]
+
+-- syzc
+
+[vwpwe0475]: {{site.url}}/translations/vwpwe/0475
