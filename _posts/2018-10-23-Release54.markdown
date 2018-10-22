@@ -1,0 +1,16 @@
+---
+layout: posts
+title:  "Virtual World: Peerless White Emperor Chapters 502 - 511"
+date:   2018-10-23 21:33:00
+comments: true
+---
+
+Hi!
+
+This is my first time uploading the chapters. Please excuse any mistakes.
+
+[Peerless White Emperor Chapter 502][vwpwe0502]
+
+-- skizlock
+
+[vwpwe0502]: {{site.url}}/translations/vwpwe/0502
